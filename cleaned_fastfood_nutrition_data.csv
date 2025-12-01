@@ -1,0 +1,1142 @@
+Company,Item,Category,Calories,Calories Category,Calories from Fat,Calories from Fat Category,Total Fat (g),Total Fat (g) Category,Saturated Fat (g),Saturated Fat (g) Category,Trans Fat (g),Trans Fat (g) Category,Cholesterol (mg),Cholesterol (mg) Category,Sodium (mg),Sodium (mg) Category,Carbs (g),Carbs (g) Category,Fiber (g),Fiber (g) Category,Sugars (g),Sugars (g) Category,Protein (g),Protein (g) Category,Weight Watchers Pnts,Weight Watchers Pnts Category
+McDonald’s,Hamburger,Burger,250,Low,80,Low,9,Low,3.5,Low,0.5,Low,25,Low,520,Low,31,Low,2,Low,6,Low,12,Low,247.5,Low
+McDonald’s,Cheeseburger,Burger,300,Low,110,Low,12,Low,6,Low,0.5,Low,40,Low,750,Low,33,Low,2,Low,6,Low,15,Low,297,Low
+McDonald’s,Double Cheeseburger,Burger,440,Mid,210,Low,23,Low,11,Low,1.5,Low,80,Low,1150,Mid,34,Low,2,Low,7,Low,25,Mid,433,Low
+McDonald’s,McDouble,Other,390,Low,170,Low,19,Low,8,Low,1,Low,65,Low,920,Low,33,Low,2,Low,7,Low,22,Low,383,Low
+McDonald’s,Quarter Pounder® with Cheese,Other,510,Mid,230,Low,26,Low,12,Mid,1.5,Low,90,Low,1190,Mid,40,Low,3,Low,9,Low,29,Mid,502,Mid
+McDonald’s,Double Quarter Pounder® with Cheese,Other,740,Mid,380,Mid,42,Mid,19,Mid,2.5,Mid,155,Low,1380,Mid,40,Low,3,Low,9,Low,48,High,720,Mid
+McDonald’s,Big Mac®,Other,540,Mid,260,Mid,29,Low,10,Low,1.5,Low,75,Low,1040,Mid,45,Low,3,Low,9,Low,25,Mid,534,Mid
+McDonald’s,Big N’ Tasty®,Other,460,Mid,220,Low,24,Low,8,Low,1.5,Low,70,Low,720,Low,37,Low,3,Low,8,Low,24,Mid,452,Mid
+McDonald’s,Big N’ Tasty® with Cheese,Other,510,Mid,250,Low,28,Low,11,Low,1.5,Low,85,Low,960,Low,38,Low,3,Low,8,Low,27,Mid,502,Mid
+McDonald’s,Angus Bacon & Cheese,Other,790,Mid,350,Mid,39,Mid,17,Mid,2,Mid,145,Low,2070,High,63,Low,4,Low,13,Low,45,Mid,775,Mid
+McDonald’s,Angus Deluxe,Other,750,Mid,350,Mid,39,Mid,16,Mid,2,Mid,135,Low,1700,Mid,61,Low,4,Low,10,Low,40,Mid,736,Mid
+McDonald’s,Angus Mushroom & Swiss,Other,770,Mid,360,Mid,40,Mid,17,Mid,2,Mid,135,Low,1170,Mid,59,Low,4,Low,8,Low,44,Mid,751,Mid
+McDonald’s,Filet-O-Fish®,Other,380,Low,170,Low,18,Low,3.5,Low,0,Low,40,Low,640,Low,38,Low,2,Low,5,Low,15,Low,373.5,Low
+McDonald’s,McChicken ®,Chicken Sandwich / Wrap,360,Low,150,Low,16,Low,3,Low,0,Low,35,Low,830,Low,40,Low,2,Low,5,Low,14,Low,354,Low
+McDonald’s,McRib ®,Other,500,Mid,240,Low,26,Low,10,Low,0,Low,70,Low,980,Mid,44,Low,3,Low,11,Low,22,Low,499,Mid
+McDonald’s,Premium Grilled Chicken Classic Sandwich,Chicken Sandwich / Wrap,360,Low,80,Low,9,Low,2,Low,0,Low,65,Low,820,Low,41,Low,4,Low,8,Low,27,Mid,343,Low
+McDonald’s,Premium Crispy Chicken Classic Sandwich,Chicken Sandwich / Wrap,510,Mid,200,Low,22,Low,3.5,Low,0,Low,45,Low,990,Mid,56,Low,3,Low,10,Low,24,Mid,499.5,Mid
+McDonald’s,Premium Grilled Chicken Club Sandwich,Chicken Sandwich / Wrap,460,Mid,150,Low,17,Low,6,Low,0,Low,90,Low,1040,Mid,43,Low,4,Low,9,Low,35,Mid,440,Mid
+McDonald’s,Premium Crispy Chicken Club Sandwich,Chicken Sandwich / Wrap,620,Mid,260,Mid,29,Low,7,Low,0,Low,70,Low,1200,Mid,57,Low,3,Low,11,Low,31,Mid,607,Mid
+McDonald’s,Premium Grilled Chicken Ranch BLT Sandwich,Chicken Sandwich / Wrap,380,Low,90,Low,10,Low,3,Low,0,Low,75,Low,1000,Mid,41,Low,4,Low,9,Low,31,Mid,361,Low
+McDonald’s,Premium Crispy Chicken Ranch BLT Sandwich,Chicken Sandwich / Wrap,540,Mid,210,Low,23,Low,4.5,Low,0,Low,55,Low,1160,Mid,56,Low,3,Low,11,Low,27,Mid,528.5,Mid
+McDonald’s,Southern Style Crispy Chicken Sandwich,Chicken Sandwich / Wrap,400,Low,150,Low,17,Low,3,Low,0,Low,45,Low,1030,Mid,39,Low,1,Low,6,Low,24,Mid,385,Low
+McDonald’s,Ranch Snack Wrap® (Crispy),Chicken Sandwich / Wrap,340,Low,150,Low,17,Low,4.5,Low,0,Low,30,Low,810,Low,33,Low,1,Low,2,Low,14,Low,332.5,Low
+McDonald’s,Ranch Snack Wrap® (Grilled),Chicken Sandwich / Wrap,270,Low,90,Low,10,Low,4,Low,0,Low,45,Low,830,Low,26,Low,1,Low,2,Low,18,Low,258,Low
+McDonald’s,Honey Mustard Snack Wrap® (Crispy),Chicken Sandwich / Wrap,330,Low,140,Low,16,Low,4.5,Low,0,Low,30,Low,780,Low,34,Low,1,Low,4,Low,14,Low,324.5,Low
+McDonald’s,Honey Mustard Snack Wrap® (Grilled),Chicken Sandwich / Wrap,260,Low,80,Low,9,Low,3.5,Low,0,Low,45,Low,800,Low,27,Low,1,Low,4,Low,18,Low,249.5,Low
+McDonald’s,Chipotle BBQ Snack Wrap® (Crispy),Chicken Sandwich / Wrap,330,Low,140,Low,15,Low,4.5,Low,0,Low,30,Low,810,Low,35,Low,1,Low,4,Low,14,Low,324.5,Low
+McDonald’s,Chipotle BBQ Snack Wrap® (Grilled),Chicken Sandwich / Wrap,260,Low,80,Low,9,Low,3.5,Low,0,Low,45,Low,830,Low,28,Low,1,Low,5,Low,18,Low,250.5,Low
+McDonald’s,Angus Bacon & Cheese Snack Wrap,Chicken Sandwich / Wrap,390,Low,190,Low,21,Low,9,Low,1,Low,75,Low,1080,Mid,28,Low,1,Low,4,Low,21,Low,382,Low
+McDonald’s,Angus Chipotle BBQ Bacon,Other,800,Mid,350,Mid,39,Mid,18,Mid,2,Mid,145,Low,2020,High,66,Low,4,Low,16,Low,45,Mid,789,Mid
+McDonald’s,Angus Chipotle BBQ Bacon Snack Wrap,Chicken Sandwich / Wrap,400,Low,190,Low,22,Low,10,Low,1,Low,75,Low,1060,Mid,30,Low,1,Low,6,Low,21,Low,395,Low
+McDonald’s,Angus Deluxe Snack Wrap,Chicken Sandwich / Wrap,410,Mid,220,Low,25,Low,10,Low,1.5,Low,75,Low,990,Mid,27,Low,2,Low,3,Low,20,Low,403,Low
+McDonald’s,Angus Mushroom & Swiss Snack Wrap,Chicken Sandwich / Wrap,430,Mid,230,Low,26,Low,10,Low,1.5,Low,75,Low,730,Low,27,Low,2,Low,2,Low,22,Low,420,Low
+McDonald’s,Mac Snack Wrap,Chicken Sandwich / Wrap,330,Low,170,Low,19,Low,7,Low,1,Low,45,Low,690,Low,26,Low,1,Low,3,Low,15,Low,325,Low
+McDonald’s,Small French Fries,Side,230,Low,100,Low,11,Low,1.5,Low,0,Low,0,Low,160,Low,29,Low,3,Low,0,Low,3,Low,228.5,Low
+McDonald’s,Medium French Fries,Side,380,Low,170,Low,19,Low,2.5,Low,0,Low,0,Low,270,Low,48,Low,5,Low,0,Low,4,Low,378.5,Low
+McDonald’s,Large French Fries,Side,500,Mid,220,Low,25,Low,3.5,Low,0,Low,0,Low,350,Low,63,Low,6,Low,0,Low,6,Low,497.5,Mid
+McDonald’s,Ketchup Packet,Condiment / Sauce,15,Low,0,Low,0,Low,0,Low,0,Low,0,Low,110,Low,3,Low,0,Low,2,Low,0,Low,17,Low
+McDonald’s,Salt Packet,Condiment / Sauce,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,270,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Chicken McNuggets® (4 piece),Nuggets / Wings / Tenders,190,Low,110,Low,12,Low,2,Low,0,Low,25,Low,360,Low,12,Low,1,Low,0,Low,9,Low,183,Low
+McDonald’s,Chicken McNuggets® (6 piece),Nuggets / Wings / Tenders,280,Low,160,Low,18,Low,3,Low,0,Low,40,Low,540,Low,18,Low,1,Low,0,Low,13,Low,270,Low
+McDonald’s,Chicken McNuggets® (10 piece),Nuggets / Wings / Tenders,470,Mid,270,Mid,30,Low,5,Low,0,Low,65,Low,900,Low,30,Low,2,Low,0,Low,22,Low,453,Mid
+McDonald’s,Barbeque Sauce,Condiment / Sauce,50,Low,0,Low,0,Low,0,Low,0,Low,0,Low,260,Low,12,Low,0,Low,10,Low,0,Low,60,Low
+McDonald’s,Honey,Other,50,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,12,Low,0,Low,11,Low,0,Low,61,Low
+McDonald’s,Hot Mustard Sauce,Condiment / Sauce,60,Low,20,Low,2.5,Low,0,Low,0,Low,5,Low,250,Low,9,Low,2,Low,6,Low,1,Low,65,Low
+McDonald’s,Sweet ‘N Sour Sauce,Condiment / Sauce,50,Low,0,Low,0,Low,0,Low,0,Low,0,Low,150,Low,12,Low,0,Low,10,Low,0,Low,60,Low
+McDonald’s,Chicken Selects® Premium Breast Strips (3 pc),Nuggets / Wings / Tenders,400,Low,210,Low,24,Low,3.5,Low,0,Low,50,Low,1010,Mid,23,Low,0,Low,0,Low,23,Low,380.5,Low
+McDonald’s,Chicken Selects® Premium Breast Strips (5 pc),Nuggets / Wings / Tenders,660,Mid,360,Mid,40,Mid,6,Low,0,Low,85,Low,1680,Mid,39,Low,0,Low,0,Low,38,Mid,628,Mid
+McDonald’s,Spicy Buffalo Sauce,Condiment / Sauce,60,Low,50,Low,6,Low,1,Low,0,Low,0,Low,800,Low,1,Low,1,Low,0,Low,0,Low,61,Low
+McDonald’s,Creamy Ranch Sauce,Condiment / Sauce,170,Low,160,Low,18,Low,3,Low,0,Low,10,Low,270,Low,2,Low,0,Low,1,Low,0,Low,174,Low
+McDonald’s,Tangy Honey Mustard Sauce,Condiment / Sauce,60,Low,20,Low,2,Low,0,Low,0,Low,5,Low,140,Low,10,Low,0,Low,8,Low,0,Low,68,Low
+McDonald’s,Southwestern Chipotle Barbeque Sauce,Condiment / Sauce,60,Low,0,Low,0,Low,0,Low,0,Low,0,Low,210,Low,15,Low,1,Low,11,Low,0,Low,71,Low
+McDonald’s,Premium Southwest Salad with Grilled Chicken,Chicken Sandwich / Wrap,320,Low,80,Low,9,Low,3,Low,0,Low,70,Low,960,Low,30,Low,6,Low,11,Low,30,Mid,304,Low
+McDonald’s,Premium Southwest Salad with Crispy Chicken,Chicken Sandwich / Wrap,430,Mid,180,Low,20,Low,4,Low,0,Low,55,Low,920,Low,38,Low,6,Low,12,Low,26,Mid,420,Low
+McDonald’s,Premium Southwest Salad (without chicken),Salad,140,Low,40,Low,4.5,Low,2,Low,0,Low,10,Low,150,Low,20,Low,6,Low,6,Low,6,Low,142,Low
+McDonald’s,Premium Bacon Ranch Salad with Grilled Chicken,Chicken Sandwich / Wrap,260,Low,90,Low,9,Low,4,Low,0,Low,90,Low,1010,Mid,12,Low,3,Low,5,Low,33,Mid,236,Low
+McDonald’s,Premium Bacon Ranch Salad with Crispy Chicken,Chicken Sandwich / Wrap,370,Low,180,Low,20,Low,6,Low,0,Low,75,Low,970,Mid,20,Low,3,Low,6,Low,29,Mid,353,Low
+McDonald’s,Premium Bacon Ranch Salad (without chicken),Salad,140,Low,70,Low,7,Low,3.5,Low,0,Low,25,Low,300,Low,10,Low,3,Low,4,Low,9,Low,138.5,Low
+McDonald’s,Premium Caesar Salad with Grilled Chicken,Chicken Sandwich / Wrap,220,Low,60,Low,6,Low,3,Low,0,Low,75,Low,890,Low,12,Low,3,Low,5,Low,30,Mid,198,Low
+McDonald’s,Premium Caesar Salad with Crispy Chicken,Chicken Sandwich / Wrap,330,Low,150,Low,17,Low,4.5,Low,0,Low,60,Low,840,Low,20,Low,3,Low,6,Low,26,Mid,314.5,Low
+McDonald’s,Premium Caesar Salad (without chicken),Salad,90,Low,35,Low,4,Low,2.5,Low,0,Low,10,Low,180,Low,9,Low,3,Low,4,Low,7,Low,89.5,Low
+McDonald’s,Side Salad,Side,20,Low,0,Low,0,Low,0,Low,0,Low,0,Low,10,Low,4,Low,1,Low,2,Low,1,Low,21,Low
+McDonald’s,Butter Garlic Croutons,Side,60,Low,15,Low,1.5,Low,0,Low,0,Low,0,Low,140,Low,10,Low,1,Low,0,Low,2,Low,58,Low
+McDonald’s,Snack Size Fruit & Walnut Salad,Salad,210,Low,70,Low,8,Low,1.5,Low,0,Low,5,Low,60,Low,31,Low,2,Low,25,Low,4,Low,232.5,Low
+McDonald’s,Salad Dressings,Salad,375.625,Low,53.75,Low,19.46875,Low,5.5,Low,0.1875,Low,62.8125,Low,799.375,Low,30.8125,Low,4.875,Low,14.6875,Low,20.6875,Low,375.1875,Low
+McDonald’s,Newman’s Own® Creamy Southwest Dressing,Other,100,Low,50,Low,6,Low,1,Low,0,Low,20,Low,340,Low,11,Low,0,Low,3,Low,1,Low,103,Low
+McDonald’s,Newman’s Own® Creamy Caesar Dressing,Other,190,Low,170,Low,18,Low,3.5,Low,0,Low,20,Low,500,Low,4,Low,0,Low,2,Low,2,Low,193.5,Low
+McDonald’s,Newman’s Own® Low Fat Balsamic Vinaigrette,Other,40,Low,25,Low,3,Low,0,Low,0,Low,0,Low,730,Low,4,Low,0,Low,3,Low,0,Low,43,Low
+McDonald’s,Newman’s Own® Low Fat Family Recipe Italian Dressing,Other,60,Low,20,Low,2.5,Low,0,Low,0,Low,0,Low,730,Low,8,Low,0,Low,1,Low,1,Low,60,Low
+McDonald’s,Newman’s Own® Ranch Dressing,Other,170,Low,130,Low,15,Low,2.5,Low,0,Low,20,Low,530,Low,9,Low,0,Low,4,Low,1,Low,175.5,Low
+McDonald’s,Egg McMuffin®,Breakfast,300,Low,110,Low,12,Low,5,Low,0,Low,260,Mid,820,Low,30,Low,2,Low,3,Low,18,Low,290,Low
+McDonald’s,Sausage McMuffin®,Breakfast,370,Low,200,Low,22,Low,8,Low,0,Low,45,Low,850,Low,29,Low,2,Low,2,Low,14,Low,366,Low
+McDonald’s,Sausage McMuffin® with Egg,Breakfast,450,Mid,250,Low,27,Low,10,Low,0,Low,285,Mid,920,Low,30,Low,2,Low,2,Low,21,Low,441,Mid
+McDonald’s,English Muffin,Other,160,Low,30,Low,3,Low,0.5,Low,0,Low,0,Low,280,Low,27,Low,2,Low,2,Low,5,Low,157.5,Low
+McDonald’s,"Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",Breakfast,420,Mid,210,Low,23,Low,12,Mid,0,Low,235,Mid,1160,Mid,37,Low,2,Low,3,Low,15,Low,420,Low
+McDonald’s,"Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",Breakfast,480,Mid,240,Low,27,Low,12,Mid,0,Low,235,Mid,1270,Mid,43,Low,3,Low,4,Low,15,Low,481,Mid
+McDonald’s,Sausage Biscuit with Egg (Regular Size Biscuit),Breakfast,510,Mid,290,Mid,33,Mid,14,Mid,0,Low,250,Mid,1170,Mid,36,Low,2,Low,2,Low,18,Low,508,Mid
+McDonald’s,Sausage Biscuit with Egg (Large Size Biscuit),Breakfast,570,Mid,330,Mid,37,Mid,15,Mid,0,Low,250,Mid,1280,Mid,42,Low,3,Low,3,Low,18,Low,570,Mid
+McDonald’s,Sausage Biscuit (Regular Size Biscuit),Breakfast,430,Mid,240,Low,27,Low,12,Mid,0,Low,30,Low,1080,Mid,34,Low,2,Low,2,Low,11,Low,433,Low
+McDonald’s,Sausage Biscuit (Large Size Biscuit),Breakfast,480,Mid,280,Mid,31,Low,13,Mid,0,Low,30,Low,1190,Mid,39,Low,3,Low,3,Low,11,Low,485,Mid
+McDonald’s,Southern Style Chicken Biscuit (Regular Size Biscuit),Breakfast,410,Mid,180,Low,20,Low,8,Low,0,Low,30,Low,1180,Mid,41,Low,2,Low,3,Low,17,Low,404,Low
+McDonald’s,Southern Style Chicken Biscuit (Large Size Biscuit),Breakfast,470,Mid,220,Low,24,Low,9,Low,0,Low,30,Low,1290,Mid,46,Low,3,Low,4,Low,17,Low,466,Mid
+McDonald’s,"Steak, Egg & Cheese Bagel",Breakfast,660,Mid,300,Mid,33,Mid,12,Mid,1,Low,300,Mid,1580,Mid,56,Low,3,Low,7,Low,33,Mid,646,Mid
+McDonald’s,"Bacon, Egg & Cheese McGriddles®",Breakfast,420,Mid,160,Low,18,Low,8,Low,0,Low,240,Mid,1110,Mid,48,Low,2,Low,15,Low,15,Low,428,Low
+McDonald’s,"Sausage, Egg & Cheese McGriddles®",Breakfast,560,Mid,290,Mid,32,Low,12,Mid,0,Low,265,Mid,1360,Mid,48,Low,2,Low,15,Low,20,Low,567,Mid
+McDonald’s,Sausage McGriddles®,Breakfast,420,Mid,200,Low,22,Low,8,Low,0,Low,35,Low,1030,Mid,44,Low,2,Low,15,Low,11,Low,432,Low
+McDonald’s,Big Breakfast® (Regular Size Biscuit),Breakfast,740,Mid,430,Mid,48,Mid,17,Mid,0,Low,555,High,1560,Mid,51,Low,3,Low,3,Low,28,Mid,732,Mid
+McDonald’s,Big Breakfast® (Large Size Biscuit),Breakfast,800,Mid,470,Mid,52,Mid,18,Mid,0,Low,555,High,1680,Mid,56,Low,4,Low,3,Low,28,Mid,793,Mid
+McDonald’s,Big Breakfast with Hotcakes (Regular Size Biscuit),Breakfast,1090,High,510,High,56,Mid,19,Mid,0,Low,575,High,2150,High,111,Mid,6,Low,17,Low,36,Mid,1090,High
+McDonald’s,Big Breakfast with Hotcakes (Large Size Biscuit),Breakfast,1150,High,540,High,60,Mid,20,Mid,0,Low,575,High,2260,High,116,Mid,7,Low,17,Low,36,Mid,1151,High
+McDonald’s,Sausage Burrito,Burrito,300,Low,140,Low,16,Low,7,Low,0,Low,115,Low,830,Low,26,Low,1,Low,2,Low,12,Low,297,Low
+McDonald’s,McSkillet™ Burrito with Sausage,Burrito,610,Mid,320,Mid,36,Mid,14,Mid,0.5,Low,410,High,1390,Mid,44,Low,3,Low,4,Low,27,Mid,601,Mid
+McDonald’s,Hotcakes,Breakfast,350,Low,80,Low,9,Low,2,Low,0,Low,20,Low,590,Low,60,Low,3,Low,14,Low,8,Low,358,Low
+McDonald’s,Hotcakes and Sausage,Breakfast,520,Mid,210,Low,24,Low,7,Low,0,Low,50,Low,930,Low,61,Low,3,Low,14,Low,15,Low,526,Mid
+McDonald’s,Hotcake Syrup,Breakfast,180,Low,0,Low,0,Low,0,Low,0,Low,0,Low,20,Low,45,Low,0,Low,32,Low,0,Low,212,Low
+McDonald’s,Whipped Margarine (1 pat),Other,40,Low,40,Low,4.5,Low,1.5,Low,0,Low,0,Low,55,Low,0,Low,0,Low,0,Low,0,Low,41.5,Low
+McDonald’s,Hash Brown,Breakfast,150,Low,80,Low,9,Low,1.5,Low,0,Low,0,Low,310,Low,15,Low,2,Low,0,Low,1,Low,150.5,Low
+McDonald’s,Grape Jam,Condiment / Sauce,35,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,9,Low,0,Low,9,Low,0,Low,44,Low
+McDonald’s,Strawberry Preserves,Other,35,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,9,Low,0,Low,9,Low,0,Low,44,Low
+McDonald’s,"Bacon, Egg & Cheese Bagel",Breakfast,560,Mid,240,Low,27,Low,9,Low,0.5,Low,260,Mid,1300,Mid,56,Low,3,Low,7,Low,24,Mid,552,Mid
+McDonald’s,Fruit & Maple Oatmeal,Other,290,Low,40,Low,4.5,Low,2,Low,0,Low,10,Low,160,Low,57,Low,5,Low,32,Low,5,Low,319,Low
+McDonald’s,Fruit & Maple Oatmeal without Brown Sugar,Other,260,Low,40,Low,4.5,Low,2,Low,0,Low,10,Low,115,Low,48,Low,5,Low,18,Low,5,Low,275,Low
+McDonald’s,Hamburger Happy Meal,Burger,475,Mid,362.4,Mid,16,Low,5.5,Low,0,Low,40,Low,690,Low,62,Low,2,Low,20,Low,22,Low,600.5606061,Mid
+McDonald’s,4 Piece Chicken McNuggets Happy Meal,Nuggets / Wings / Tenders,395,Low,232.2222222,Low,17,Low,3.5,Low,0,Low,35,Low,510,Low,41,Low,1,Low,14,Low,19,Low,291.3448276,Low
+McDonald’s,6 Piece Chicken McNuggets® Happy Meal,Nuggets / Wings / Tenders,475,Mid,232.2222222,Low,22,Low,4.5,Low,0,Low,50,Low,680,Low,46,Low,2,Low,14,Low,24,Mid,291.3448276,Low
+McDonald’s,Fruit ‘n Yogurt Parfait (7 oz),Dessert,160,Low,20,Low,2,Low,1,Low,0,Low,5,Low,85,Low,31,Low,1,Low,21,Low,4,Low,178,Low
+McDonald’s,Low Fat Caramel Dip,Other,70,Low,5,Low,0.5,Low,0,Low,0,Low,5,Low,35,Low,15,Low,0,Low,9,Low,0,Low,79,Low
+McDonald’s,Vanilla Reduced Fat Ice Cream Cone,Dessert,150,Low,35,Low,3.5,Low,2,Low,0,Low,15,Low,60,Low,24,Low,0,Low,18,Low,4,Low,166,Low
+McDonald’s,Kiddie Cone,Dessert,45,Low,10,Low,1,Low,0.5,Low,0,Low,5,Low,20,Low,8,Low,0,Low,6,Low,1,Low,50.5,Low
+McDonald’s,Strawberry Sundae,Dessert,280,Low,60,Low,6,Low,4,Low,0,Low,25,Low,95,Low,49,Low,1,Low,45,Low,6,Low,323,Low
+McDonald’s,Hot Caramel Sundae,Dessert,340,Low,70,Low,8,Low,5,Low,0,Low,30,Low,160,Low,60,Low,1,Low,44,Low,7,Low,382,Low
+McDonald’s,Hot Fudge Sundae,Dessert,330,Low,90,Low,10,Low,7,Low,0,Low,25,Low,180,Low,54,Low,2,Low,48,Low,8,Low,377,Low
+McDonald’s,Peanuts (for Sundaes),Dessert,45,Low,30,Low,3.5,Low,0.5,Low,0,Low,0,Low,0,Low,2,Low,1,Low,0,Low,2,Low,43.5,Low
+McDonald’s,McFlurry® with M&M’S® Candies (12 fl oz cup),Dessert,710,Mid,230,Low,25,Low,16,Mid,1,Low,60,Low,220,Low,105,Mid,4,Low,97,Mid,15,Low,808,Mid
+McDonald’s,McFlurry® with OREO® Cookies (12 fl oz cup),Dessert,580,Mid,170,Low,19,Low,10,Low,1,Low,50,Low,320,Low,89,Low,3,Low,73,Low,13,Low,650,Mid
+McDonald’s,Baked Hot Apple Pie,Dessert,250,Low,110,Low,13,Low,7,Low,0,Low,0,Low,170,Low,32,Low,4,Low,13,Low,2,Low,268,Low
+McDonald’s,Cinnamon Melts,Dessert,460,Mid,170,Low,19,Low,9,Low,0,Low,15,Low,370,Low,66,Low,3,Low,32,Low,6,Low,495,Mid
+McDonald’s,McDonaldland® Cookies,Dessert,260,Low,70,Low,8,Low,2.5,Low,0,Low,0,Low,300,Low,43,Low,1,Low,13,Low,4,Low,271.5,Low
+McDonald’s,Chocolate Chip Cookie,Dessert,160,Low,70,Low,8,Low,3.5,Low,0,Low,10,Low,90,Low,21,Low,1,Low,15,Low,2,Low,176.5,Low
+McDonald’s,Oatmeal Raisin Cookie,Dessert,150,Low,50,Low,6,Low,2.5,Low,0,Low,10,Low,135,Low,22,Low,1,Low,13,Low,2,Low,163.5,Low
+McDonald’s,Sugar Cookie,Dessert,160,Low,60,Low,7,Low,3,Low,0,Low,5,Low,120,Low,21,Low,0,Low,11,Low,2,Low,172,Low
+McDonald’s,Apple Dippers with Low Fat Caramel Dip,Other,100,Low,5,Low,0.5,Low,0,Low,0,Low,5,Low,35,Low,23,Low,0,Low,15,Low,0,Low,115,Low
+McDonald’s,Chocolate McCafé® Shake (12 fl oz cup),Drink,580,Mid,150,Low,17,Low,10,Low,1,Low,50,Low,240,Low,94,Mid,1,Low,77,Low,11,Low,656,Mid
+McDonald’s,Chocolate McCafé® Shake (16 fl oz cup),Drink,720,Mid,180,Low,20,Low,12,Mid,1,Low,60,Low,300,Low,119,Mid,1,Low,98,Mid,15,Low,815,Mid
+McDonald’s,Chocolate McCafé® Shake (22 fl oz cup),Drink,880,High,220,Low,24,Low,15,Mid,1.5,Low,75,Low,370,Low,147,Mid,1,Low,121,Mid,18,Low,998,High
+McDonald’s,Chocolate Triple Thick® Shake (12 fl oz cup),Drink,440,Mid,90,Low,10,Low,6,Low,0.5,Low,40,Low,190,Low,76,Low,1,Low,63,Low,10,Low,499,Mid
+McDonald’s,Chocolate Triple Thick® Shake (16 fl oz cup),Drink,580,Mid,120,Low,14,Low,8,Low,1,Low,50,Low,250,Low,102,Mid,1,Low,84,Low,13,Low,659,Mid
+McDonald’s,Chocolate Triple Thick® Shake (21 fl oz cup),Drink,770,Mid,160,Low,18,Low,11,Low,1,Low,70,Low,330,Low,134,Mid,1,Low,111,Mid,18,Low,874,Mid
+McDonald’s,Chocolate Triple Thick® Shake (32 fl oz cup),Drink,1160,High,240,Low,27,Low,16,Mid,2,Mid,100,Low,510,Low,203,High,2,Low,168,Mid,27,Mid,1317,High
+McDonald’s,Snack Size McFlurry® with M&M’S® Candies,Dessert,430,Mid,140,Low,16,Low,10,Low,0.5,Low,35,Low,130,Low,64,Low,2,Low,59,Low,9,Low,490,Mid
+McDonald’s,Snack Size McFlurry® with OREO® Cookies,Dessert,340,Low,100,Low,12,Low,6,Low,0,Low,30,Low,200,Low,53,Low,2,Low,43,Low,8,Low,381,Low
+McDonald’s,Strawberry McCafé® Shake (12 fl oz cup),Drink,570,Mid,150,Low,17,Low,10,Low,1,Low,50,Low,170,Low,92,Mid,0,Low,79,Low,11,Low,648,Mid
+McDonald’s,Strawberry McCafé® Shake (16 fl oz cup),Drink,710,Mid,180,Low,20,Low,12,Mid,1,Low,65,Low,210,Low,116,Mid,0,Low,100,Mid,14,Low,808,Mid
+McDonald’s,Strawberry McCafé® Shake (22 fl oz cup),Drink,860,High,220,Low,24,Low,15,Mid,1.5,Low,75,Low,260,Low,144,Mid,0,Low,124,Mid,18,Low,981,High
+McDonald’s,Strawberry Triple Thick® Shake (12 fl oz cup),Drink,420,Mid,90,Low,10,Low,6,Low,0.5,Low,40,Low,130,Low,73,Low,0,Low,63,Low,10,Low,479,Mid
+McDonald’s,Strawberry Triple Thick® Shake (16 fl oz cup),Drink,560,Mid,120,Low,13,Low,8,Low,1,Low,50,Low,170,Low,97,Mid,0,Low,84,Low,13,Low,639,Mid
+McDonald’s,Strawberry Triple Thick® Shake (21 fl oz cup),Drink,740,Mid,160,Low,18,Low,11,Low,1,Low,70,Low,230,Low,128,Mid,0,Low,111,Mid,17,Low,845,Mid
+McDonald’s,Strawberry Triple Thick® Shake (32 fl oz cup),Drink,1110,High,240,Low,26,Low,16,Mid,2,Mid,100,Low,350,Low,194,High,0,Low,168,Mid,25,Mid,1269,High
+McDonald’s,Vanilla McCafé® Shake (12 fl oz cup),Drink,540,Mid,150,Low,16,Low,10,Low,1,Low,45,Low,170,Low,88,Low,0,Low,64,Low,10,Low,604,Mid
+McDonald’s,Vanilla McCafé® Shake (16 fl oz cup),Drink,680,Mid,180,Low,20,Low,12,Mid,1,Low,60,Low,220,Low,111,Mid,0,Low,82,Low,14,Low,760,Mid
+McDonald’s,Vanilla McCafé® Shake (22 fl oz cup),Drink,830,High,210,Low,24,Low,14,Mid,1.5,Low,75,Low,270,Low,138,Mid,0,Low,103,Mid,17,Low,930,High
+McDonald’s,Vanilla Triple Thick Shake® (32 fl oz cup),Drink,1110,High,240,Low,26,Low,16,Mid,2,Mid,100,Low,370,Low,193,High,0,Low,145,Mid,25,Mid,1246,High
+McDonald’s,Vanilla Triple Thick® Shake (12 fl oz cup),Drink,420,Mid,90,Low,10,Low,6,Low,0.5,Low,40,Low,140,Low,72,Low,0,Low,54,Low,9,Low,471,Mid
+McDonald’s,Vanilla Triple Thick® Shake (16 fl oz cup),Drink,550,Mid,120,Low,13,Low,8,Low,1,Low,50,Low,190,Low,96,Mid,0,Low,72,Low,13,Low,617,Mid
+McDonald’s,Vanilla Triple Thick® Shake (21 fl oz cup),Drink,740,Mid,160,Low,18,Low,11,Low,1,Low,70,Low,250,Low,128,Mid,0,Low,96,Mid,17,Low,830,Mid
+McDonald’s,1% Low Fat Milk Jug,Drink,100,Low,20,Low,2.5,Low,1.5,Low,0,Low,10,Low,125,Low,12,Low,0,Low,12,Low,8,Low,105.5,Low
+McDonald’s,1% Low Fat Chocolate Milk Jug,Drink,170,Low,25,Low,3,Low,1.5,Low,0,Low,5,Low,150,Low,26,Low,1,Low,25,Low,9,Low,187.5,Low
+McDonald’s,Minute Maid® 100% Apple Juice Box,Drink,100,Low,0,Low,0,Low,0,Low,0,Low,0,Low,15,Low,23,Low,0,Low,22,Low,0,Low,122,Low
+McDonald’s,Dasani® Water,Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Minute Maid® Orange Juice (Small),Drink,150,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,30,Low,0,Low,30,Low,2,Low,178,Low
+McDonald’s,Minute Maid® Orange Juice (Medium),Drink,190,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,39,Low,0,Low,39,Low,3,Low,226,Low
+McDonald’s,Minute Maid® Orange Juice (Large),Drink,280,Low,0,Low,0,Low,0,Low,0,Low,0,Low,5,Low,58,Low,0,Low,58,Low,4,Low,334,Low
+McDonald’s,Coca-Cola® Classic (Child),Other,110,Low,0,Low,0,Low,0,Low,0,Low,0,Low,5,Low,29,Low,0,Low,29,Low,0,Low,139,Low
+McDonald’s,Coca-Cola® Classic (Small),Other,150,Low,0,Low,0,Low,0,Low,0,Low,0,Low,10,Low,40,Low,0,Low,40,Low,0,Low,190,Low
+McDonald’s,Coca-Cola® Classic (Medium),Other,210,Low,0,Low,0,Low,0,Low,0,Low,0,Low,15,Low,58,Low,0,Low,58,Low,0,Low,268,Low
+McDonald’s,Coca-Cola® Classic (Large),Other,310,Low,0,Low,0,Low,0,Low,0,Low,0,Low,20,Low,86,Low,0,Low,86,Low,0,Low,396,Low
+McDonald’s,Diet Coke® (Child),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,15,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Diet Coke® (Small),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,20,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Diet Coke® (Medium),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,30,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Diet Coke® (Large),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,45,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Sprite® (Child),Drink,110,Low,0,Low,0,Low,0,Low,0,Low,0,Low,30,Low,28,Low,0,Low,28,Low,0,Low,138,Low
+McDonald’s,Sprite® (Small),Drink,150,Low,0,Low,0,Low,0,Low,0,Low,0,Low,40,Low,39,Low,0,Low,39,Low,0,Low,189,Low
+McDonald’s,Sprite® (Medium),Drink,210,Low,0,Low,0,Low,0,Low,0,Low,0,Low,55,Low,56,Low,0,Low,56,Low,0,Low,266,Low
+McDonald’s,Sprite® (Large),Drink,310,Low,0,Low,0,Low,0,Low,0,Low,0,Low,80,Low,83,Low,0,Low,83,Low,0,Low,393,Low
+McDonald’s,Hi-C® Orange Lavaburst (Child),Other,120,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,32,Low,0,Low,32,Low,0,Low,152,Low
+McDonald’s,Hi-C® Orange Lavaburst (Small),Other,160,Low,0,Low,0,Low,0,Low,0,Low,0,Low,5,Low,44,Low,0,Low,44,Low,0,Low,204,Low
+McDonald’s,Hi-C® Orange Lavaburst (Medium),Other,240,Low,0,Low,0,Low,0,Low,0,Low,0,Low,10,Low,64,Low,0,Low,64,Low,0,Low,304,Low
+McDonald’s,Hi-C® Orange Lavaburst (Large),Other,350,Low,0,Low,0,Low,0,Low,0,Low,0,Low,10,Low,94,Mid,0,Low,94,Mid,0,Low,444,Mid
+McDonald’s,POWERade® Mountain Blast (Child),Other,70,Low,0,Low,0,Low,0,Low,0,Low,0,Low,65,Low,20,Low,0,Low,16,Low,0,Low,86,Low
+McDonald’s,POWERade® Mountain Blast (Small),Other,100,Low,0,Low,0,Low,0,Low,0,Low,0,Low,85,Low,27,Low,0,Low,21,Low,0,Low,121,Low
+McDonald’s,POWERade® Mountain Blast (Medium),Other,150,Low,0,Low,0,Low,0,Low,0,Low,0,Low,130,Low,39,Low,0,Low,31,Low,0,Low,181,Low
+McDonald’s,POWERade® Mountain Blast (Large),Other,220,Low,0,Low,0,Low,0,Low,0,Low,0,Low,190,Low,58,Low,0,Low,46,Low,0,Low,266,Low
+McDonald’s,Iced Tea (Child),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,5,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Iced Tea (Small),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,10,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Iced Tea (Medium),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,15,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Iced Tea (Large),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,20,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Coffee (Small),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Coffee (Large),Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+McDonald’s,Coffee Cream,Drink,20,Low,20,Low,2,Low,1.5,Low,0,Low,10,Low,15,Low,0,Low,0,Low,0,Low,0,Low,21.5,Low
+McDonald’s,Sugar Packet,Condiment / Sauce,15,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,4,Low,0,Low,4,Low,0,Low,19,Low
+McDonald’s,EQUAL® 0 Calorie Sweetener,Other,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,1,Low,0,Low,1,Low,0,Low,1,Low
+McDonald’s,SPLENDA® No Calorie Sweetener,Other,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,1,Low,0,Low,1,Low,0,Low,1,Low
+McDonald’s,Iced Coffee– Caramel (Small),Drink,130,Low,50,Low,5,Low,3.5,Low,0,Low,20,Low,80,Low,21,Low,0,Low,20,Low,1,Low,152.5,Low
+McDonald’s,Iced Coffee– Caramel (Medium),Drink,190,Low,70,Low,8,Low,5,Low,0,Low,30,Low,115,Low,27,Low,0,Low,27,Low,2,Low,220,Low
+McDonald’s,Iced Coffee– Caramel (Large),Drink,270,Low,100,Low,11,Low,7,Low,0,Low,40,Low,160,Low,41,Low,0,Low,41,Low,2,Low,316,Low
+McDonald’s,Iced Coffee– Hazelnut (Small),Drink,130,Low,50,Low,5,Low,3.5,Low,0,Low,20,Low,40,Low,21,Low,0,Low,21,Low,1,Low,153.5,Low
+McDonald’s,Iced Coffee– Hazelnut (Medium),Drink,190,Low,70,Low,8,Low,5,Low,0,Low,30,Low,60,Low,29,Low,0,Low,29,Low,2,Low,222,Low
+McDonald’s,Iced Coffee– Hazelnut (Large),Drink,270,Low,100,Low,11,Low,7,Low,0,Low,40,Low,85,Low,43,Low,0,Low,43,Low,2,Low,318,Low
+McDonald’s,Iced Coffee– Regular (Small),Drink,140,Low,50,Low,5,Low,3.5,Low,0,Low,20,Low,40,Low,22,Low,0,Low,22,Low,1,Low,164.5,Low
+McDonald’s,Iced Coffee– Regular (Medium),Drink,200,Low,70,Low,8,Low,5,Low,0,Low,30,Low,60,Low,30,Low,0,Low,30,Low,2,Low,233,Low
+McDonald’s,Iced Coffee– Regular (Large),Drink,280,Low,100,Low,11,Low,7,Low,0,Low,40,Low,85,Low,45,Low,0,Low,45,Low,2,Low,330,Low
+McDonald’s,Iced Coffee– Vanilla (Small),Drink,130,Low,50,Low,5,Low,3.5,Low,0,Low,20,Low,40,Low,21,Low,0,Low,21,Low,1,Low,153.5,Low
+McDonald’s,Iced Coffee– Vanilla (Medium),Drink,190,Low,70,Low,8,Low,5,Low,0,Low,30,Low,60,Low,29,Low,0,Low,28,Low,2,Low,221,Low
+McDonald’s,Iced Coffee– Vanilla (Large),Drink,270,Low,100,Low,11,Low,7,Low,0,Low,40,Low,80,Low,43,Low,0,Low,43,Low,2,Low,318,Low
+McDonald’s,Iced Coffee with Sugar Free Vanilla Syrup (Small),Drink,60,Low,50,Low,5,Low,3.5,Low,0,Low,20,Low,70,Low,8,Low,0,Low,1,Low,1,Low,63.5,Low
+McDonald’s,Iced Coffee with Sugar Free Vanilla Syrup (Medium),Drink,90,Low,70,Low,8,Low,5,Low,0,Low,30,Low,100,Low,11,Low,0,Low,2,Low,2,Low,95,Low
+McDonald’s,Iced Coffee with Sugar Free Vanilla Syrup (Large),Drink,120,Low,100,Low,11,Low,7,Low,0,Low,40,Low,140,Low,16,Low,0,Low,2,Low,2,Low,127,Low
+McDonald’s,Sweet Tea (Child),Drink,110,Low,0,Low,0,Low,0,Low,0,Low,0,Low,5,Low,27,Low,0,Low,27,Low,0,Low,137,Low
+McDonald’s,Sweet Tea (Large),Drink,280,Low,0,Low,0,Low,0,Low,0,Low,0,Low,15,Low,69,Low,0,Low,69,Low,1,Low,348,Low
+McDonald’s,Sweet Tea (Medium),Drink,180,Low,0,Low,0,Low,0,Low,0,Low,0,Low,10,Low,45,Low,0,Low,45,Low,1,Low,224,Low
+McDonald’s,Sweet Tea (Small),Drink,150,Low,0,Low,0,Low,0,Low,0,Low,0,Low,10,Low,36,Low,0,Low,36,Low,1,Low,185,Low
+McDonald’s,Nonfat Cappuccino (Small),Other,60,Low,0,Low,0,Low,0,Low,0,Low,5,Low,85,Low,9,Low,0,Low,9,Low,6,Low,63,Low
+McDonald’s,Nonfat Cappuccino (Medium),Other,80,Low,0,Low,0,Low,0,Low,0,Low,5,Low,110,Low,12,Low,0,Low,12,Low,8,Low,84,Low
+McDonald’s,Nonfat Cappuccino (Large),Other,90,Low,0,Low,0,Low,0,Low,0,Low,5,Low,130,Low,13,Low,0,Low,13,Low,9,Low,94,Low
+McDonald’s,Nonfat Latte (Small),Other,90,Low,0,Low,0,Low,0,Low,0,Low,5,Low,115,Low,13,Low,0,Low,13,Low,9,Low,94,Low
+McDonald’s,Nonfat Latte (Medium),Other,110,Low,0,Low,0,Low,0,Low,0,Low,5,Low,140,Low,15,Low,0,Low,15,Low,10,Low,115,Low
+McDonald’s,Nonfat Latte (Large),Other,120,Low,0,Low,0,Low,0,Low,0,Low,5,Low,160,Low,18,Low,0,Low,18,Low,12,Low,126,Low
+McDonald’s,Nonfat Caramel Cappuccino (Small),Other,150,Low,0,Low,0,Low,0,Low,0,Low,5,Low,120,Low,33,Low,0,Low,32,Low,5,Low,177,Low
+McDonald’s,Nonfat Caramel Cappuccino (Medium),Other,190,Low,0,Low,0,Low,0,Low,0,Low,5,Low,150,Low,41,Low,0,Low,41,Low,6,Low,225,Low
+McDonald’s,Nonfat Caramel Cappuccino (Large),Other,230,Low,0,Low,0,Low,0,Low,0,Low,5,Low,180,Low,49,Low,0,Low,49,Low,7,Low,272,Low
+McDonald’s,Nonfat Caramel Latte (Small),Other,170,Low,0,Low,0,Low,0,Low,0,Low,5,Low,150,Low,36,Low,0,Low,36,Low,7,Low,199,Low
+McDonald’s,Nonfat Caramel Latte (Medium),Other,220,Low,0,Low,0,Low,0,Low,0,Low,5,Low,180,Low,45,Low,0,Low,45,Low,9,Low,256,Low
+McDonald’s,Nonfat Caramel Latte (Large),Other,260,Low,0,Low,0,Low,0,Low,0,Low,5,Low,220,Low,53,Low,0,Low,53,Low,10,Low,303,Low
+McDonald’s,Nonfat Hazelnut Cappuccino (Small),Other,150,Low,0,Low,0,Low,0,Low,0,Low,5,Low,70,Low,34,Low,0,Low,34,Low,5,Low,179,Low
+McDonald’s,Nonfat Hazelnut Cappuccino (Medium),Other,190,Low,0,Low,0,Low,0,Low,0,Low,5,Low,90,Low,43,Low,0,Low,43,Low,6,Low,227,Low
+McDonald’s,Nonfat Hazelnut Cappuccino (Large),Other,230,Low,0,Low,0,Low,0,Low,0,Low,5,Low,100,Low,51,Low,0,Low,51,Low,7,Low,274,Low
+McDonald’s,Nonfat Hazelnut Latte (Small),Other,180,Low,0,Low,0,Low,0,Low,0,Low,5,Low,95,Low,37,Low,0,Low,37,Low,7,Low,210,Low
+McDonald’s,Nonfat Hazelnut Latte (Medium),Other,220,Low,0,Low,0,Low,0,Low,0,Low,5,Low,115,Low,46,Low,0,Low,46,Low,9,Low,257,Low
+McDonald’s,Nonfat Hazelnut Latte (Large),Other,260,Low,0,Low,0,Low,0,Low,0,Low,5,Low,135,Low,55,Low,0,Low,55,Low,10,Low,305,Low
+McDonald’s,Nonfat Vanilla Cappuccino (Small),Other,150,Low,0,Low,0,Low,0,Low,0,Low,5,Low,70,Low,34,Low,0,Low,34,Low,5,Low,179,Low
+McDonald’s,Nonfat Vanilla Cappuccino (Medium),Other,190,Low,0,Low,0,Low,0,Low,0,Low,5,Low,90,Low,42,Low,0,Low,42,Low,6,Low,226,Low
+McDonald’s,Nonfat Vanilla Cappuccino (Large),Other,230,Low,0,Low,0,Low,0,Low,0,Low,5,Low,100,Low,51,Low,0,Low,51,Low,7,Low,274,Low
+McDonald’s,Nonfat Vanilla Latte (Small),Other,180,Low,0,Low,0,Low,0,Low,0,Low,5,Low,95,Low,37,Low,0,Low,37,Low,7,Low,210,Low
+McDonald’s,Nonfat Vanilla Latte (Medium),Other,220,Low,0,Low,0,Low,0,Low,0,Low,5,Low,115,Low,46,Low,0,Low,46,Low,9,Low,257,Low
+McDonald’s,Nonfat Vanilla Latte (Large),Other,260,Low,0,Low,0,Low,0,Low,0,Low,5,Low,135,Low,55,Low,0,Low,55,Low,10,Low,305,Low
+McDonald’s,Nonfat Cappuccino with Sugar Free Vanilla Syrup (Small),Other,50,Low,0,Low,0,Low,0,Low,0,Low,5,Low,100,Low,15,Low,0,Low,8,Low,5,Low,53,Low
+McDonald’s,Nonfat Cappuccino with Sugar Free Vanilla Syrup (Medium),Other,70,Low,0,Low,0,Low,0,Low,0,Low,5,Low,130,Low,19,Low,0,Low,10,Low,7,Low,73,Low
+McDonald’s,Nonfat Cappuccino with Sugar Free Vanilla Syrup (Large),Other,80,Low,0,Low,0,Low,0,Low,0,Low,5,Low,150,Low,22,Low,0,Low,11,Low,8,Low,83,Low
+McDonald’s,Nonfat Latte with Sugar Free Vanilla Syrup (Small),Other,80,Low,0,Low,0,Low,0,Low,0,Low,5,Low,130,Low,18,Low,0,Low,11,Low,7,Low,84,Low
+McDonald’s,Nonfat Latte with Sugar Free Vanilla Syrup (Medium),Other,90,Low,0,Low,0,Low,0,Low,0,Low,5,Low,160,Low,22,Low,0,Low,13,Low,9,Low,94,Low
+McDonald’s,Nonfat Latte with Sugar Free Vanilla Syrup (Large),Other,110,Low,0,Low,0,Low,0,Low,0,Low,5,Low,190,Low,27,Low,0,Low,15,Low,11,Low,114,Low
+McDonald’s,Mocha with Nonfat Milk (Small),Drink,240,Low,45,Low,5,Low,3,Low,0,Low,5,Low,130,Low,41,Low,0,Low,34,Low,7,Low,270,Low
+McDonald’s,Mocha with Nonfat Milk (Medium),Drink,280,Low,50,Low,6,Low,3.5,Low,0,Low,10,Low,160,Low,50,Low,0,Low,42,Low,8,Low,317.5,Low
+McDonald’s,Mocha with Nonfat Milk (Large),Drink,330,Low,50,Low,6,Low,3.5,Low,0,Low,10,Low,190,Low,58,Low,0,Low,50,Low,10,Low,373.5,Low
+McDonald’s,Hot Chocolate with Nonfat Milk (Small),Drink,250,Low,45,Low,5,Low,3,Low,0,Low,10,Low,140,Low,43,Low,0,Low,37,Low,8,Low,282,Low
+McDonald’s,Hot Chocolate with Nonfat Milk (Medium),Drink,310,Low,50,Low,6,Low,3.5,Low,0,Low,10,Low,190,Low,55,Low,0,Low,47,Low,11,Low,349.5,Low
+McDonald’s,Hot Chocolate with Nonfat Milk (Large),Drink,390,Low,50,Low,6,Low,3.5,Low,0,Low,10,Low,250,Low,68,Low,0,Low,59,Low,16,Low,436.5,Low
+McDonald’s,Iced Nonfat Latte (Small),Other,50,Low,0,Low,0,Low,0,Low,0,Low,5,Low,70,Low,7,Low,0,Low,7,Low,5,Low,52,Low
+McDonald’s,Iced Nonfat Latte (Medium),Other,60,Low,0,Low,0,Low,0,Low,0,Low,5,Low,90,Low,9,Low,0,Low,9,Low,6,Low,63,Low
+McDonald’s,Iced Nonfat Latte (Large),Other,70,Low,0,Low,0,Low,0,Low,0,Low,5,Low,105,Low,11,Low,0,Low,11,Low,7,Low,74,Low
+McDonald’s,Iced Nonfat Caramel Latte (Small),Other,140,Low,0,Low,0,Low,0,Low,0,Low,0,Low,105,Low,30,Low,0,Low,30,Low,3,Low,167,Low
+McDonald’s,Iced Nonfat Caramel Latte (Medium),Other,150,Low,0,Low,0,Low,0,Low,0,Low,5,Low,120,Low,32,Low,0,Low,32,Low,5,Low,177,Low
+McDonald’s,Iced Nonfat Caramel Latte (Large),Other,190,Low,0,Low,0,Low,0,Low,0,Low,5,Low,150,Low,40,Low,0,Low,40,Low,6,Low,224,Low
+McDonald’s,Iced Nonfat Hazelnut Latte (Small),Other,140,Low,0,Low,0,Low,0,Low,0,Low,0,Low,50,Low,32,Low,0,Low,32,Low,3,Low,169,Low
+McDonald’s,Iced Nonfat Hazelnut Latte (Medium),Other,150,Low,0,Low,0,Low,0,Low,0,Low,5,Low,70,Low,33,Low,0,Low,33,Low,5,Low,178,Low
+McDonald’s,Iced Nonfat Hazelnut Latte (Large),Other,190,Low,0,Low,0,Low,0,Low,0,Low,5,Low,80,Low,42,Low,0,Low,42,Low,6,Low,226,Low
+McDonald’s,Iced Nonfat Vanilla Latte (Small),Other,140,Low,0,Low,0,Low,0,Low,0,Low,0,Low,50,Low,31,Low,0,Low,31,Low,3,Low,168,Low
+McDonald’s,Iced Nonfat Vanilla Latte (Medium),Other,150,Low,0,Low,0,Low,0,Low,0,Low,5,Low,70,Low,33,Low,0,Low,33,Low,5,Low,178,Low
+McDonald’s,Iced Nonfat Vanilla Latte (Large),Other,190,Low,0,Low,0,Low,0,Low,0,Low,5,Low,85,Low,41,Low,0,Low,41,Low,6,Low,225,Low
+McDonald’s,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Small),Other,40,Low,0,Low,0,Low,0,Low,0,Low,0,Low,85,Low,13,Low,0,Low,5,Low,4,Low,41,Low
+McDonald’s,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Medium),Other,50,Low,0,Low,0,Low,0,Low,0,Low,5,Low,100,Low,14,Low,0,Low,6,Low,5,Low,51,Low
+McDonald’s,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Large),Other,60,Low,0,Low,0,Low,0,Low,0,Low,5,Low,130,Low,19,Low,0,Low,8,Low,6,Low,62,Low
+McDonald’s,Iced Mocha with Nonfat Milk (Medium),Drink,270,Low,70,Low,8,Low,4.5,Low,0,Low,10,Low,140,Low,43,Low,0,Low,35,Low,7,Low,302.5,Low
+McDonald’s,Iced Nonfat Caramel Mocha (Large),Other,300,Low,60,Low,6,Low,4,Low,0,Low,10,Low,230,Low,49,Low,0,Low,45,Low,11,Low,338,Low
+McDonald’s,Iced Nonfat Caramel Mocha (Medium),Other,240,Low,60,Low,6,Low,4,Low,0,Low,10,Low,190,Low,37,Low,0,Low,34,Low,9,Low,269,Low
+McDonald’s,Iced Nonfat Caramel Mocha (Small),Other,200,Low,50,Low,6,Low,4,Low,0,Low,10,Low,140,Low,29,Low,0,Low,26,Low,6,Low,224,Low
+McDonald’s,Nonfat Caramel Mocha (Large),Other,280,Low,35,Low,4,Low,2.5,Low,0,Low,10,Low,260,Low,49,Low,0,Low,46,Low,12,Low,316.5,Low
+McDonald’s,Nonfat Caramel Mocha (Medium),Other,240,Low,35,Low,4,Low,2.5,Low,0,Low,5,Low,200,Low,41,Low,0,Low,38,Low,9,Low,271.5,Low
+McDonald’s,Nonfat Caramel Mocha (Small),Other,200,Low,35,Low,4,Low,2.5,Low,0,Low,5,Low,170,Low,34,Low,0,Low,31,Low,8,Low,225.5,Low
+McDonald’s,Cappuccino (Small),Other,120,Low,60,Low,7,Low,4,Low,0,Low,20,Low,85,Low,9,Low,0,Low,9,Low,6,Low,127,Low
+McDonald’s,Cappuccino (Medium),Other,140,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,105,Low,11,Low,0,Low,11,Low,8,Low,147.5,Low
+McDonald’s,Cappuccino (Large),Other,180,Low,90,Low,10,Low,6,Low,0,Low,30,Low,130,Low,13,Low,0,Low,13,Low,9,Low,190,Low
+McDonald’s,Latte (Small),Other,150,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,105,Low,11,Low,0,Low,11,Low,8,Low,157.5,Low
+McDonald’s,Latte (Medium),Other,180,Low,90,Low,10,Low,6,Low,0,Low,30,Low,130,Low,13,Low,0,Low,13,Low,10,Low,189,Low
+McDonald’s,Latte (Large),Other,210,Low,100,Low,11,Low,7,Low,0,Low,35,Low,150,Low,16,Low,0,Low,16,Low,11,Low,222,Low
+McDonald’s,Caramel Cappuccino (Small),Other,200,Low,45,Low,5,Low,3,Low,0,Low,15,Low,125,Low,32,Low,0,Low,32,Low,5,Low,230,Low
+McDonald’s,Caramel Cappuccino (Medium),Other,240,Low,50,Low,6,Low,3.5,Low,0,Low,20,Low,150,Low,41,Low,0,Low,40,Low,6,Low,277.5,Low
+McDonald’s,Caramel Cappuccino (Large),Other,290,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,190,Low,49,Low,0,Low,49,Low,8,Low,335.5,Low
+McDonald’s,Caramel Latte (Small),Other,230,Low,60,Low,7,Low,4,Low,0,Low,20,Low,140,Low,35,Low,0,Low,35,Low,7,Low,262,Low
+McDonald’s,Caramel Latte (Medium),Other,280,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,170,Low,43,Low,0,Low,43,Low,8,Low,319.5,Low
+McDonald’s,Caramel Latte (Large),Other,330,Low,80,Low,9,Low,5,Low,0,Low,30,Low,210,Low,52,Low,0,Low,51,Low,9,Low,377,Low
+McDonald’s,Hazelnut Cappuccino (Small),Other,200,Low,45,Low,5,Low,3,Low,0,Low,15,Low,70,Low,34,Low,0,Low,34,Low,5,Low,232,Low
+McDonald’s,Hazelnut Cappuccino (Medium),Other,240,Low,50,Low,6,Low,3.5,Low,0,Low,20,Low,85,Low,42,Low,0,Low,42,Low,6,Low,279.5,Low
+McDonald’s,Hazelnut Cappuccino (Large),Other,290,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,105,Low,51,Low,0,Low,51,Low,7,Low,338.5,Low
+McDonald’s,Hazelnut Latte (Small),Other,230,Low,60,Low,7,Low,4,Low,0,Low,20,Low,90,Low,36,Low,0,Low,36,Low,7,Low,263,Low
+McDonald’s,Hazelnut Latte (Medium),Other,280,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,110,Low,45,Low,0,Low,45,Low,8,Low,321.5,Low
+McDonald’s,Hazelnut Latte (Large),Other,330,Low,80,Low,9,Low,5,Low,0,Low,30,Low,130,Low,53,Low,0,Low,53,Low,9,Low,379,Low
+McDonald’s,Vanilla Cappuccino (Small),Other,200,Low,45,Low,5,Low,3,Low,0,Low,15,Low,70,Low,34,Low,0,Low,34,Low,5,Low,232,Low
+McDonald’s,Vanilla Cappuccino (Medium),Other,240,Low,50,Low,6,Low,3.5,Low,0,Low,20,Low,85,Low,42,Low,0,Low,42,Low,6,Low,279.5,Low
+McDonald’s,Vanilla Cappuccino (Large),Other,290,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,105,Low,51,Low,0,Low,51,Low,7,Low,338.5,Low
+McDonald’s,Vanilla Latte (Small),Other,230,Low,60,Low,7,Low,4,Low,0,Low,20,Low,90,Low,36,Low,0,Low,36,Low,7,Low,263,Low
+McDonald’s,Vanilla Latte (Medium),Other,280,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,110,Low,44,Low,0,Low,44,Low,8,Low,320.5,Low
+McDonald’s,Vanilla Latte (Large),Other,330,Low,80,Low,9,Low,5,Low,0,Low,30,Low,130,Low,53,Low,0,Low,53,Low,9,Low,379,Low
+McDonald’s,Cappuccino with Sugar Free Vanilla Syrup (Small),Other,100,Low,50,Low,5,Low,3,Low,0,Low,15,Low,105,Low,15,Low,0,Low,7,Low,5,Low,105,Low
+McDonald’s,Cappuccino with Sugar Free Vanilla Syrup (Medium),Other,120,Low,60,Low,6,Low,3.5,Low,0,Low,20,Low,130,Low,18,Low,0,Low,9,Low,6,Low,126.5,Low
+McDonald’s,Cappuccino with Sugar Free Vanilla Syrup (Large),Other,150,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,160,Low,22,Low,0,Low,11,Low,8,Low,157.5,Low
+McDonald’s,Latte with Sugar Free Vanilla Syrup (Small),Other,130,Low,60,Low,7,Low,4,Low,0,Low,20,Low,125,Low,17,Low,0,Low,10,Low,7,Low,137,Low
+McDonald’s,Latte with Sugar Free Vanilla Syrup (Medium),Other,160,Low,70,Low,8,Low,5,Low,0,Low,25,Low,150,Low,21,Low,0,Low,11,Low,8,Low,168,Low
+McDonald’s,Latte with Sugar Free Vanilla Syrup (Large),Other,180,Low,90,Low,10,Low,6,Low,0,Low,30,Low,180,Low,25,Low,0,Low,13,Low,10,Low,189,Low
+McDonald’s,Mocha (Small),Other,280,Low,100,Low,11,Low,6,Low,0,Low,20,Low,125,Low,40,Low,0,Low,33,Low,6,Low,313,Low
+McDonald’s,Mocha (Medium),Other,330,Low,110,Low,12,Low,7,Low,0,Low,25,Low,150,Low,48,Low,0,Low,41,Low,7,Low,371,Low
+McDonald’s,Mocha (Large),Other,400,Low,130,Low,14,Low,8,Low,0.5,Low,30,Low,190,Low,58,Low,0,Low,49,Low,10,Low,447,Mid
+McDonald’s,Hot Chocolate (Small),Other,300,Low,110,Low,12,Low,7,Low,0,Low,25,Low,135,Low,41,Low,0,Low,35,Low,8,Low,334,Low
+McDonald’s,Hot Chocolate (Medium),Other,380,Low,130,Low,15,Low,9,Low,0.5,Low,30,Low,170,Low,53,Low,0,Low,45,Low,10,Low,424,Low
+McDonald’s,Hot Chocolate (Large),Other,460,Mid,160,Low,18,Low,10,Low,0.5,Low,40,Low,220,Low,63,Low,0,Low,54,Low,13,Low,511,Mid
+McDonald’s,Iced Latte (Small),Other,80,Low,40,Low,4.5,Low,2.5,Low,0,Low,15,Low,65,Low,6,Low,0,Low,6,Low,4,Low,84.5,Low
+McDonald’s,Iced Latte (Medium),Other,100,Low,50,Low,6,Low,3.5,Low,0,Low,15,Low,80,Low,8,Low,0,Low,8,Low,6,Low,105.5,Low
+McDonald’s,Iced Latte (Large),Other,140,Low,70,Low,8,Low,4.5,Low,0,Low,25,Low,105,Low,10,Low,0,Low,10,Low,7,Low,147.5,Low
+McDonald’s,Iced Caramel Latte (Small),Other,160,Low,25,Low,3,Low,1.5,Low,0,Low,10,Low,100,Low,29,Low,0,Low,29,Low,3,Low,187.5,Low
+McDonald’s,Iced Caramel Latte (Medium),Other,180,Low,40,Low,4.5,Low,2.5,Low,0,Low,15,Low,120,Low,31,Low,0,Low,31,Low,4,Low,209.5,Low
+McDonald’s,Iced Caramel Latte (Large),Other,230,Low,50,Low,6,Low,3.5,Low,0,Low,15,Low,150,Low,40,Low,0,Low,40,Low,6,Low,267.5,Low
+McDonald’s,Iced Hazelnut Latte (Small),Other,160,Low,25,Low,3,Low,1.5,Low,0,Low,10,Low,45,Low,31,Low,0,Low,31,Low,3,Low,189.5,Low
+McDonald’s,Iced Hazelnut Latte (Medium),Other,180,Low,40,Low,4.5,Low,2.5,Low,0,Low,15,Low,65,Low,33,Low,0,Low,33,Low,4,Low,211.5,Low
+McDonald’s,Iced Hazelnut Latte (Large),Other,230,Low,50,Low,6,Low,3.5,Low,0,Low,15,Low,85,Low,41,Low,0,Low,41,Low,6,Low,268.5,Low
+McDonald’s,Iced Vanilla Latte (Small),Other,160,Low,25,Low,3,Low,1.5,Low,0,Low,10,Low,45,Low,31,Low,0,Low,31,Low,3,Low,189.5,Low
+McDonald’s,Iced Vanilla Latte (Medium),Other,190,Low,40,Low,4.5,Low,2.5,Low,0,Low,15,Low,70,Low,33,Low,0,Low,33,Low,5,Low,220.5,Low
+McDonald’s,Iced Vanilla Latte (Large),Other,230,Low,50,Low,6,Low,3.5,Low,0,Low,15,Low,85,Low,41,Low,0,Low,41,Low,6,Low,268.5,Low
+McDonald’s,Iced Latte with Sugar Free Vanilla Syrup (Small),Other,60,Low,30,Low,3,Low,2,Low,0,Low,10,Low,80,Low,12,Low,0,Low,4,Low,3,Low,63,Low
+McDonald’s,Iced Latte with Sugar Free Vanilla Syrup (Medium),Other,90,Low,40,Low,5,Low,3,Low,0,Low,15,Low,105,Low,14,Low,0,Low,6,Low,5,Low,94,Low
+McDonald’s,Iced Latte with Sugar Free Vanilla Syrup (Large),Other,110,Low,50,Low,6,Low,3.5,Low,0,Low,15,Low,130,Low,19,Low,0,Low,8,Low,6,Low,115.5,Low
+McDonald’s,Iced Mocha (Medium),Other,310,Low,120,Low,13,Low,8,Low,0,Low,25,Low,140,Low,42,Low,0,Low,35,Low,7,Low,346,Low
+McDonald’s,Caramel Mocha (Large),Other,360,Low,130,Low,14,Low,8,Low,0.5,Low,35,Low,220,Low,47,Low,0,Low,46,Low,10,Low,404,Low
+McDonald’s,Caramel Mocha (Medium),Other,290,Low,100,Low,12,Low,7,Low,0,Low,25,Low,180,Low,39,Low,0,Low,38,Low,8,Low,327,Low
+McDonald’s,Caramel Mocha (Small),Other,250,Low,90,Low,11,Low,6,Low,0,Low,25,Low,150,Low,33,Low,0,Low,31,Low,7,Low,280,Low
+McDonald’s,Iced Caramel Mocha (Large),Other,380,Low,140,Low,16,Low,9,Low,0.5,Low,35,Low,210,Low,48,Low,0,Low,46,Low,10,Low,425,Low
+McDonald’s,Iced Caramel Mocha (Medium),Other,300,Low,120,Low,14,Low,8,Low,0,Low,30,Low,160,Low,36,Low,0,Low,33,Low,8,Low,333,Low
+McDonald’s,Iced Caramel Mocha (Small),Other,240,Low,100,Low,12,Low,7,Low,0,Low,25,Low,130,Low,29,Low,0,Low,26,Low,6,Low,267,Low
+McDonald’s,Frappe Caramel (Small),Drink,450,Mid,180,Low,20,Low,13,Mid,1,Low,55,Low,135,Low,61,Low,0,Low,57,Low,6,Low,514,Mid
+McDonald’s,Frappe Caramel (Medium),Drink,550,Mid,220,Low,24,Low,15,Mid,1,Low,70,Low,160,Low,76,Low,0,Low,71,Low,8,Low,628,Mid
+McDonald’s,Frappe Caramel (Large),Drink,680,Mid,260,Mid,29,Low,18,Mid,1.5,Low,85,Low,200,Low,94,Mid,0,Low,88,Low,10,Low,776,Mid
+McDonald’s,Frappe Mocha (Small),Drink,450,Mid,180,Low,20,Low,13,Mid,1,Low,55,Low,130,Low,62,Low,1,Low,56,Low,7,Low,512,Mid
+McDonald’s,Frappe Mocha (Medium),Drink,560,Mid,210,Low,24,Low,15,Mid,1,Low,65,Low,160,Low,78,Low,1,Low,70,Low,8,Low,637,Mid
+McDonald’s,Frappe Mocha (Large),Drink,680,Mid,250,Low,28,Low,18,Mid,1,Low,80,Low,200,Low,96,Mid,1,Low,87,Low,10,Low,775,Mid
+McDonald’s,Strawberry Banana Smoothie (Large),Drink,330,Low,10,Low,1,Low,0.5,Low,0,Low,5,Low,55,Low,77,Low,4,Low,70,Low,3,Low,397.5,Low
+McDonald’s,Strawberry Banana Smoothie (Medium),Drink,260,Low,5,Low,1,Low,0,Low,0,Low,5,Low,40,Low,60,Low,3,Low,54,Low,2,Low,312,Low
+McDonald’s,Strawberry Banana Smoothie (Small),Drink,210,Low,5,Low,0.5,Low,0,Low,0,Low,5,Low,35,Low,49,Low,2,Low,44,Low,2,Low,252,Low
+McDonald’s,Wild Berry Smoothie (Large),Drink,320,Low,10,Low,1,Low,0.5,Low,0,Low,5,Low,45,Low,75,Low,4,Low,69,Low,3,Low,386.5,Low
+McDonald’s,Wild Berry Smoothie (Medium),Drink,260,Low,5,Low,1,Low,0,Low,0,Low,5,Low,35,Low,60,Low,4,Low,55,Low,3,Low,312,Low
+McDonald’s,Wild Berry Smoothie (Small),Drink,210,Low,5,Low,0.5,Low,0,Low,0,Low,5,Low,30,Low,48,Low,3,Low,44,Low,2,Low,252,Low
+Burger King,Whopper® Sandwich,Burger,660,Mid,360,Mid,40,Mid,12,Mid,1.5,Low,90,Low,980,Mid,49,Low,2,Low,11,Low,28,Mid,655,Mid
+Burger King,Whopper® Sandwich with Cheese,Burger,740,Mid,420,Mid,46,Mid,16,Mid,2,Mid,115,Low,1340,Mid,50,Low,2,Low,11,Low,32,Mid,735,Mid
+Burger King,Bacon & Cheese Whopper® Sandwich,Burger,790,Mid,460,Mid,51,Mid,17,Mid,2,Mid,125,Low,1560,Mid,50,Low,2,Low,11,Low,35,Mid,783,Mid
+Burger King,Double Whopper® Sandwich,Burger,900,High,520,High,58,Mid,20,Mid,3,Mid,175,Low,1050,Mid,49,Low,2,Low,11,Low,48,High,883,High
+Burger King,Double Whopper® Sandwich with Cheese,Burger,980,High,580,High,64,Mid,24,High,3,Mid,195,Mid,1410,Mid,50,Low,2,Low,11,Low,52,High,963,High
+Burger King,Triple Whopper® Sandwich,Burger,1130,High,680,High,75,High,28,High,4,High,255,Mid,1120,Mid,49,Low,2,Low,11,Low,67,High,1102,High
+Burger King,Triple Whopper® Sandwich with Cheese,Burger,1220,High,740,High,82,High,32,High,4.5,High,280,Mid,1470,Mid,50,Low,2,Low,11,Low,71,High,1192,High
+Burger King,Whopper JR.® Sandwich,Burger,310,Low,160,Low,18,Low,5,Low,0.5,Low,40,Low,390,Low,27,Low,1,Low,7,Low,13,Low,309,Low
+Burger King,Bacon King Sandwich,Burger,1150,High,710,High,79,High,31,High,3.5,High,240,Mid,2150,High,49,Low,2,Low,10,Low,61,High,1130,High
+Burger King,Cheddar Bacon King Sandwich,Burger,1190,High,750,High,84,High,33,High,3.5,High,235,Mid,1930,High,50,Low,2,Low,11,Low,64,High,1170,High
+Burger King,Single Quarter Pound King Sandwich,Burger,580,Mid,260,Mid,29,Low,13,Mid,1.5,Low,105,Low,1310,Mid,49,Low,2,Low,10,Low,32,Mid,571,Mid
+Burger King,Double Quarter Pound King Sandwich,Burger,900,High,480,Mid,54,Mid,25,High,3,Mid,210,Mid,1740,Mid,50,Low,2,Low,11,Low,56,High,880,High
+Burger King,Single Stacker King,Burger,700,Mid,380,Mid,42,Mid,16,Mid,2,Mid,125,Low,1360,Mid,48,Low,1,Low,10,Low,35,Mid,691,Mid
+Burger King,Double Stacker King,Burger,1050,High,610,High,68,High,28,High,3.5,High,235,Mid,1870,Mid,49,Low,1,Low,11,Low,61,High,1028,High
+Burger King,IMPOSSIBLE Whopper® Sandwich,Burger,630,Mid,310,Mid,34,Mid,11,Low,0,Low,10,Low,1080,Mid,58,Low,4,Low,12,Low,25,Mid,628,Mid
+Burger King,Hamburger,Burger,240,Low,90,Low,10,Low,3.5,Low,0.5,Low,35,Low,380,Low,26,Low,1,Low,6,Low,13,Low,237,Low
+Burger King,Cheeseburger,Burger,280,Low,120,Low,13,Low,6,Low,0.5,Low,45,Low,560,Low,27,Low,1,Low,7,Low,15,Low,278,Low
+Burger King,Double Hamburger,Burger,350,Low,160,Low,18,Low,7,Low,1,Low,70,Low,410,Low,26,Low,1,Low,6,Low,21,Low,342,Low
+Burger King,Double Cheeseburger,Burger,390,Low,190,Low,21,Low,9,Low,1.5,Low,85,Low,590,Low,27,Low,1,Low,7,Low,23,Low,383,Low
+Burger King,Extra Long Cheeseburger,Burger,630,Mid,330,Mid,37,Mid,14,Mid,1.5,Low,100,Low,1050,Mid,45,Low,2,Low,9,Low,29,Mid,624,Mid
+Burger King,Bacon Cheeseburger,Burger,320,Low,140,Low,16,Low,7,Low,0.5,Low,55,Low,710,Low,27,Low,1,Low,7,Low,17,Low,317,Low
+Burger King,Bacon Double Cheeseburger,Burger,420,Mid,210,Low,24,Low,10,Low,1.5,Low,90,Low,740,Low,27,Low,1,Low,7,Low,25,Mid,412,Low
+Burger King,Crispy Chicken Sandwich,Chicken Sandwich / Wrap,670,Mid,370,Mid,41,Mid,7,Low,0,Low,60,Low,1080,Mid,54,Low,2,Low,8,Low,23,Low,662,Mid
+Burger King,Spicy Crispy Chicken Sandwich,Chicken Sandwich / Wrap,700,Mid,370,Mid,42,Mid,7,Low,0,Low,65,Low,1140,Mid,57,Low,3,Low,8,Low,25,Mid,690,Mid
+Burger King,Original Chicken Sandwich,Chicken Sandwich / Wrap,660,Mid,360,Mid,40,Mid,7,Low,0,Low,75,Low,1170,Mid,48,Low,2,Low,5,Low,28,Mid,644,Mid
+Burger King,Bacon & Cheese Crispy Chicken Sandwich,Chicken Sandwich / Wrap,800,Mid,460,Mid,52,Mid,13,Mid,1,Low,95,Low,1650,Mid,55,Low,2,Low,8,Low,30,Mid,791,Mid
+Burger King,BBQ Bacon Crispy Chicken Sandwich,Chicken Sandwich / Wrap,790,Mid,440,Mid,49,Mid,10,Low,0.5,Low,80,Low,1630,Mid,60,Low,2,Low,13,Low,28,Mid,785,Mid
+Burger King,Crispy Chicken Jr.,Chicken Sandwich / Wrap,450,Mid,270,Mid,30,Low,5,Low,0,Low,30,Low,780,Low,34,Low,2,Low,5,Low,12,Low,448,Mid
+Burger King,Spicy Crispy Chicken Jr.,Chicken Sandwich / Wrap,390,Low,190,Low,21,Low,3.5,Low,0,Low,30,Low,740,Low,37,Low,2,Low,6,Low,12,Low,388,Low
+Burger King,Chicken Nuggets- 4pc,Nuggets / Wings / Tenders,170,Low,100,Low,11,Low,1.5,Low,0,Low,25,Low,310,Low,11,Low,1,Low,0,Low,8,Low,164,Low
+Burger King,Chicken Nuggets- 6pc,Nuggets / Wings / Tenders,260,Low,150,Low,16,Low,2.5,Low,0,Low,35,Low,470,Low,16,Low,1,Low,0,Low,12,Low,251,Low
+Burger King,Chicken Nuggets- 10pc,Nuggets / Wings / Tenders,430,Mid,240,Low,27,Low,4.5,Low,0,Low,55,Low,780,Low,27,Low,2,Low,0,Low,20,Low,415,Low
+Burger King,Chicken Nuggets- 20pc,Nuggets / Wings / Tenders,860,High,490,Mid,54,Mid,9,Low,0,Low,115,Low,1570,Mid,53,Low,3,Low,1,Low,39,Mid,831,Mid
+Burger King,Spicy Chicken Nuggets- 4pc,Chicken Sandwich / Wrap,210,Low,130,Low,15,Low,3,Low,0,Low,20,Low,570,Low,11,Low,2,Low,0,Low,8,Low,205,Low
+Burger King,Spicy Chicken Nuggets- 6pc,Chicken Sandwich / Wrap,320,Low,200,Low,22,Low,4.5,Low,0,Low,35,Low,850,Low,17,Low,3,Low,0,Low,12,Low,313,Low
+Burger King,Spicy Chicken Nuggets- 10 pc,Chicken Sandwich / Wrap,530,Mid,330,Mid,37,Mid,7,Low,0,Low,55,Low,1420,Mid,28,Low,4,Low,1,Low,20,Low,518,Mid
+Burger King,Spicy Chicken Nuggets- 20 pc,Chicken Sandwich / Wrap,1050,High,670,High,74,High,15,Mid,0,Low,110,Low,2840,High,56,Low,9,Low,1,Low,40,Mid,1026,High
+Burger King,Chicken Fries – 9 pc.,Side,280,Low,150,Low,17,Low,2.5,Low,0,Low,35,Low,850,Low,20,Low,1,Low,1,Low,13,Low,271,Low
+Burger King,Crispy Taco,Taco,170,Low,80,Low,9,Low,3,Low,0,Low,10,Low,410,Low,19,Low,2,Low,1,Low,5,Low,169,Low
+Burger King,BIG FISH Sandwich,Other,510,Mid,250,Low,28,Low,4.5,Low,0,Low,30,Low,1180,Mid,51,Low,2,Low,7,Low,16,Low,506,Mid
+Burger King,Garden Chicken Salad with Crispy Chicken – no dressing,Chicken Sandwich / Wrap,440,Mid,220,Low,25,Low,7,Low,0,Low,75,Low,930,Low,31,Low,3,Low,4,Low,25,Mid,426,Low
+Burger King,Club Salad with Crispy Chicken – no dressing,Chicken Sandwich / Wrap,540,Mid,300,Mid,33,Mid,10,Low,0,Low,95,Low,1380,Mid,31,Low,3,Low,5,Low,31,Mid,524,Mid
+Burger King,Garden Side Salad – w/o dressing,Side,60,Low,35,Low,4,Low,2.5,Low,0,Low,10,Low,95,Low,3,Low,1,Low,2,Low,4,Low,61,Low
+Burger King,Ken’s Ranch Dressing,Other,260,Low,250,Low,28,Low,4,Low,0,Low,10,Low,240,Low,2,Low,0,Low,2,Low,1,Low,265,Low
+Burger King,Ken’s Golden Italian Dressing,Other,160,Low,150,Low,17,Low,2.5,Low,0,Low,0,Low,380,Low,4,Low,0,Low,3,Low,0,Low,166,Low
+Burger King,Ken’s Lite Honey Balsamic Vinaigrette,Other,120,Low,70,Low,8,Low,1,Low,0,Low,0,Low,220,Low,14,Low,0,Low,11,Low,0,Low,132,Low
+Burger King,Buttery Garlic Croutons- Packet,Side,60,Low,20,Low,2.5,Low,0,Low,0,Low,10,Low,180,Low,9,Low,0,Low,1,Low,1,Low,60,Low
+Burger King,Onion Rings – value,Side,150,Low,70,Low,8,Low,1.5,Low,0,Low,0,Low,400,Low,19,Low,1,Low,2,Low,1,Low,153,Low
+Burger King,Onion Rings – small,Side,320,Low,150,Low,16,Low,3,Low,0,Low,0,Low,840,Low,41,Low,3,Low,4,Low,3,Low,324,Low
+Burger King,Onion Rings – medium,Side,410,Mid,190,Low,21,Low,3.5,Low,0,Low,0,Low,1080,Mid,53,Low,4,Low,5,Low,4,Low,415,Low
+Burger King,Onion Rings – large,Side,500,Mid,230,Low,25,Low,4.5,Low,0,Low,0,Low,1310,Mid,64,Low,5,Low,7,Low,5,Low,507,Mid
+Burger King,French Fries – value (unsalted),Side,220,Low,80,Low,9,Low,1.5,Low,0,Low,0,Low,210,Low,34,Low,3,Low,1,Low,2,Low,221,Low
+Burger King,French Fries – small,Side,320,Low,120,Low,13,Low,2,Low,0,Low,0,Low,300,Low,49,Low,5,Low,1,Low,4,Low,319,Low
+Burger King,French Fries – medium,Side,380,Low,140,Low,16,Low,2,Low,0,Low,0,Low,360,Low,58,Low,6,Low,1,Low,4,Low,379,Low
+Burger King,French Fries – large,Side,430,Mid,160,Low,18,Low,2.5,Low,0,Low,0,Low,410,Low,66,Low,7,Low,2,Low,5,Low,430,Low
+Burger King,Kids Oatmeal,Kids Menu,170,Low,30,Low,3,Low,1.5,Low,0,Low,5,Low,260,Low,32,Low,3,Low,12,Low,4,Low,180,Low
+Burger King,Mott’s® Natural Applesauce,Condiment / Sauce,50,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,13,Low,1,Low,11,Low,0,Low,61,Low
+Burger King,Fat FREE Milk (8 fl oz),Drink,90,Low,0,Low,0,Low,0,Low,0,Low,5,Low,125,Low,13,Low,0,Low,12,Low,9,Low,93,Low
+Burger King,1% Low Fat Chocolate Milk (8 fl oz),Drink,160,Low,25,Low,2.5,Low,1.5,Low,0,Low,15,Low,150,Low,26,Low,0,Low,25,Low,8,Low,179,Low
+Burger King,Capri Sun® 100% Apple Juice (6 fl oz),Drink,80,Low,0,Low,0,Low,0,Low,0,Low,0,Low,25,Low,20,Low,0,Low,20,Low,0,Low,100,Low
+Burger King,PB&J Jamwich,Condiment / Sauce,300,Low,140,Low,16,Low,3,Low,0,Low,0,Low,290,Low,33,Low,4,Low,11,Low,11,Low,303,Low
+Burger King,Soft Serve Cone,Dessert,190,Low,40,Low,4.5,Low,3,Low,0,Low,20,Low,150,Low,32,Low,0,Low,24,Low,5,Low,212,Low
+Burger King,Dutch Apple Pie,Dessert,340,Low,130,Low,14,Low,6,Low,0,Low,0,Low,310,Low,51,Low,1,Low,25,Low,3,Low,368,Low
+Burger King,HERSHEY®’S Sundae Pie,Dessert,310,Low,170,Low,19,Low,12,Mid,0,Low,10,Low,220,Low,32,Low,1,Low,22,Low,3,Low,341,Low
+Burger King,Pie made with TWIX®,Dessert,370,Low,180,Low,20,Low,13,Mid,0,Low,10,Low,330,Low,45,Low,1,Low,30,Low,4,Low,409,Low
+Burger King,OREO® Cookie Cheesecake,Dessert,350,Low,170,Low,18,Low,8,Low,0,Low,35,Low,310,Low,41,Low,1,Low,25,Low,6,Low,377,Low
+Burger King,Soft Serve Cup,Other,170,Low,40,Low,4.5,Low,3,Low,0,Low,20,Low,150,Low,28,Low,0,Low,24,Low,5,Low,192,Low
+Burger King,HERSHEY®’s Chocolate Sundae,Dessert,260,Low,45,Low,5,Low,3,Low,0,Low,20,Low,160,Low,49,Low,1,Low,43,Low,5,Low,301,Low
+Burger King,Caramel Sundae,Dessert,240,Low,50,Low,5,Low,3.5,Low,0,Low,20,Low,210,Low,42,Low,0,Low,33,Low,5,Low,272,Low
+Burger King,Chocolate Chip Cookies (each),Dessert,160,Low,70,Low,8,Low,4,Low,0,Low,10,Low,125,Low,24,Low,1,Low,15,Low,2,Low,177,Low
+Burger King,CROISSAN’WICH® Egg & Cheese,Breakfast,340,Low,170,Low,18,Low,8,Low,0,Low,160,Low,610,Low,29,Low,1,Low,4,Low,12,Low,340,Low
+Burger King,"CROISSAN’WICH® Sausage, Egg & Cheese",Breakfast,500,Mid,300,Mid,33,Mid,13,Mid,0,Low,195,Mid,930,Low,30,Low,1,Low,4,Low,19,Low,498,Mid
+Burger King,"CROISSAN’WICH® Ham, Egg & Cheese",Breakfast,370,Low,170,Low,19,Low,8,Low,0,Low,175,Low,1030,Mid,30,Low,1,Low,5,Low,17,Low,366,Low
+Burger King,"CROISSAN’WICH® Bacon, Egg & Cheese",Breakfast,370,Low,190,Low,21,Low,9,Low,0,Low,170,Low,760,Low,30,Low,1,Low,4,Low,14,Low,369,Low
+Burger King,Fully Loaded CROISSAN’WICH®,Breakfast,610,Mid,360,Mid,40,Mid,17,Mid,0.5,Low,225,Mid,1680,Mid,31,Low,1,Low,5,Low,28,Mid,604,Mid
+Burger King,Double CROISSAN’WICH® with Sausage & Bacon,Breakfast,580,Mid,340,Mid,40,Mid,16,Mid,0.5,Low,215,Mid,1260,Mid,31,Low,1,Low,5,Low,23,Low,578,Mid
+Burger King,Double CROISSAN’WICH® with Sausage,Breakfast,710,Mid,470,Mid,52,Mid,20,Mid,0.5,Low,240,Mid,1420,Mid,31,Low,1,Low,5,Low,29,Mid,706,Mid
+Burger King,Double CROISSAN’WICH® with Ham & Sausage,Breakfast,580,Mid,340,Mid,38,Mid,16,Mid,0.5,Low,220,Mid,1530,Mid,31,Low,1,Low,5,Low,27,Mid,574,Mid
+Burger King,Fully Loaded Biscuit,Breakfast,640,Mid,400,Mid,45,Mid,20,Mid,0,Low,225,Mid,2190,High,31,Low,1,Low,4,Low,28,Mid,636,Mid
+Burger King,"Ham, Egg, & Cheese Biscuit",Breakfast,400,Low,210,Low,24,Low,12,Mid,0,Low,175,Low,1550,Mid,29,Low,1,Low,3,Low,17,Low,398,Low
+Burger King,"Sausage, Egg, & Cheese Biscuit",Breakfast,530,Mid,340,Mid,38,Mid,17,Mid,0,Low,195,Mid,1440,Mid,29,Low,1,Low,3,Low,19,Low,531,Mid
+Burger King,"Bacon, Egg & Cheese Biscuit",Breakfast,400,Low,230,Low,26,Low,13,Mid,0,Low,170,Low,1270,Mid,29,Low,1,Low,3,Low,13,Low,403,Low
+Burger King,Sausage Biscuit,Breakfast,420,Mid,250,Low,28,Low,6,Low,0,Low,35,Low,1050,Mid,28,Low,1,Low,2,Low,12,Low,416,Low
+Burger King,Breakfast Burrito Jr.,Breakfast,370,Low,210,Low,23,Low,8,Low,0,Low,150,Low,930,Low,27,Low,3,Low,2,Low,15,Low,365,Low
+Burger King,EGG-NORMOUS BURRITOΡ,Breakfast,780,Mid,380,Mid,42,Mid,15,Mid,0,Low,355,Mid,1960,High,68,Low,3,Low,4,Low,32,Mid,767,Mid
+Burger King,BK™ Ultimate Breakfast Platter,Breakfast,930,High,390,Mid,44,Mid,11,Low,0,Low,390,High,2230,High,110,Mid,4,Low,40,Low,24,Mid,957,High
+Burger King,NY Ultimate Platter (Regional menu item),Other,900,High,420,Mid,46,Mid,12,Mid,0,Low,380,Mid,1760,Mid,95,Mid,5,Low,31,Low,25,Mid,918,High
+Burger King,Pancake and Sausage platter,Dessert,610,Mid,280,Mid,31,Low,9,Low,0,Low,80,Low,1010,Mid,72,Low,1,Low,30,Low,12,Low,637,Mid
+Burger King,Hash Browns – small,Breakfast,250,Low,150,Low,16,Low,3.5,Low,0,Low,0,Low,580,Low,24,Low,3,Low,0,Low,2,Low,252,Low
+Burger King,Hash Browns – medium,Breakfast,500,Mid,290,Mid,33,Mid,7,Low,0,Low,0,Low,1140,Mid,48,Low,7,Low,0,Low,4,Low,503,Mid
+Burger King,Hash Browns – large,Breakfast,670,Mid,390,Mid,44,Mid,9,Low,0,Low,0,Low,1530,Mid,65,Low,9,Low,0,Low,5,Low,674,Mid
+Burger King,French Toast Sticks (3 piece),Dessert,230,Low,100,Low,11,Low,2,Low,0,Low,0,Low,260,Low,29,Low,1,Low,8,Low,3,Low,237,Low
+Burger King,French Toast Sticks (5 piece),Dessert,380,Low,160,Low,18,Low,3,Low,0,Low,0,Low,430,Low,49,Low,2,Low,13,Low,5,Low,391,Low
+Burger King,American Cheese (slice),Pizza,40,Low,30,Low,3.5,Low,2,Low,0,Low,10,Low,180,Low,1,Low,0,Low,0,Low,2,Low,40,Low
+Burger King,Ketchup (Packet),Condiment / Sauce,10,Low,0,Low,0,Low,0,Low,0,Low,0,Low,125,Low,3,Low,0,Low,2,Low,0,Low,12,Low
+Burger King,Mayonnaise (Packet),Condiment / Sauce,80,Low,80,Low,9,Low,0.5,Low,0,Low,10,Low,75,Low,1,Low,0,Low,0,Low,0,Low,81,Low
+Burger King,Strawberry or Grape Jam (packet),Condiment / Sauce,30,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,7,Low,0,Low,6,Low,0,Low,36,Low
+Burger King,Breakfast Syrup (1 oz),Breakfast,120,Low,0,Low,0,Low,0,Low,0,Low,0,Low,15,Low,30,Low,0,Low,18,Low,0,Low,138,Low
+Burger King,Barbecue Dipping Sauce (1 oz),Condiment / Sauce,40,Low,0,Low,0,Low,0,Low,0,Low,0,Low,310,Low,11,Low,0,Low,10,Low,0,Low,50,Low
+Burger King,Ranch Dipping Sauce (1 oz),Condiment / Sauce,140,Low,140,Low,15,Low,2.5,Low,0,Low,10,Low,85,Low,1,Low,0,Low,1,Low,1,Low,143,Low
+Burger King,Buffalo Dipping Sauce (1 oz),Condiment / Sauce,80,Low,70,Low,8,Low,1.5,Low,0,Low,5,Low,360,Low,2,Low,0,Low,1,Low,0,Low,83,Low
+Burger King,Zesty Onion Ring Dipping Sauce (1 oz),Condiment / Sauce,150,Low,140,Low,15,Low,2.5,Low,0,Low,20,Low,240,Low,3,Low,0,Low,0,Low,0,Low,153,Low
+Burger King,Honey Mustard Dipping Sauce (1oz),Condiment / Sauce,90,Low,60,Low,6,Low,1,Low,0,Low,10,Low,180,Low,8,Low,0,Low,7,Low,0,Low,98,Low
+Burger King,Smoothie: Strawberry Banana 16 fl oz,Drink,310,Low,10,Low,1,Low,0,Low,0,Low,0,Low,55,Low,71,Low,3,Low,50,Low,4,Low,356,Low
+Burger King,Oreo® Shake,Drink,720,Mid,180,Low,20,Low,12,Mid,0.5,Low,65,Low,540,Low,118,Mid,1,Low,98,Mid,16,Low,814,Mid
+Burger King,Chocolate Oreo® Shake,Drink,740,Mid,190,Low,22,Low,13,Mid,0.5,Low,70,Low,680,Low,121,Mid,1,Low,101,Mid,17,Low,837,Mid
+Burger King,Vanilla Milk Shake,Drink,580,Mid,140,Low,15,Low,10,Low,0,Low,60,Low,420,Low,98,Mid,0,Low,85,Low,14,Low,661,Mid
+Burger King,HERSHEY®’S Chocolate Milk Shake,Drink,610,Mid,140,Low,16,Low,10,Low,0,Low,60,Low,500,Low,103,Mid,1,Low,88,Low,14,Low,694,Mid
+Burger King,Strawberry Milk Shake,Drink,640,Mid,140,Low,15,Low,10,Low,0,Low,60,Low,440,Low,113,Mid,0,Low,99,Mid,14,Low,735,Mid
+Burger King,Coca Cola classic®‡,Other,234.4510386,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,26.70623145,Low,263,Low,40.26517572,Low,0.533546326,Low,33.95845697,Low,6.945686901,Low,267.3056537,Low
+Burger King,16 fl oz,Other,210,Low,0,Low,0,Low,0,Low,0,Low,0,Low,50,Low,58,Low,0,Low,58,Low,0,Low,268,Low
+Burger King,20 fl oz,Other,270,Low,0,Low,0,Low,0,Low,0,Low,0,Low,60,Low,73,Low,0,Low,73,Low,0,Low,343,Low
+Burger King,29 fl oz,Other,290,Low,0,Low,0,Low,0,Low,0,Low,0,Low,85,Low,105,Mid,0,Low,105,Mid,0,Low,395,Low
+Burger King,38 fl oz,Other,510,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,115,Low,138,Mid,0,Low,138,Mid,0,Low,648,Mid
+Burger King,Diet Coke®‡,Drink,218.7321429,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,23.94642857,Low,111.1678571,Low,44.852,Low,0.224,Low,40.41071429,Low,3.252,Low,270.4483471,Low
+Burger King,16 fl oz,Other,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,70,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,20 fl oz,Other,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,85,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,29 fl oz,Other,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,120,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,38 fl oz,Other,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,160,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,Sprite®‡,Drink,218.7321429,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,23.94642857,Low,111.1678571,Low,44.852,Low,0.224,Low,40.41071429,Low,3.252,Low,270.4483471,Low
+Burger King,16 fl oz,Other,210,Low,0,Low,0,Low,0,Low,0,Low,0,Low,95,Low,56,Low,0,Low,56,Low,0,Low,266,Low
+Burger King,20 fl oz,Other,260,Low,0,Low,0,Low,0,Low,0,Low,0,Low,120,Low,70,Low,0,Low,70,Low,0,Low,330,Low
+Burger King,29 fl oz,Other,380,Low,0,Low,0,Low,0,Low,0,Low,0,Low,170,Low,102,Mid,0,Low,102,Mid,0,Low,482,Mid
+Burger King,38 fl oz,Other,500,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,230,Low,133,Mid,0,Low,133,Mid,0,Low,633,Mid
+Burger King,Dr. Pepper®‡,Other,234.4510386,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,26.70623145,Low,263,Low,40.26517572,Low,0.533546326,Low,33.95845697,Low,6.945686901,Low,267.3056537,Low
+Burger King,16 fl oz,Other,190,Low,0,Low,0,Low,0,Low,0,Low,0,Low,60,Low,52,Low,0,Low,51,Low,0,Low,241,Low
+Burger King,20 fl oz,Other,240,Low,0,Low,0,Low,0,Low,0,Low,0,Low,75,Low,65,Low,0,Low,64,Low,0,Low,304,Low
+Burger King,29 fl oz,Other,350,Low,0,Low,0,Low,0,Low,0,Low,0,Low,105,Low,94,Mid,0,Low,93,Mid,0,Low,443,Mid
+Burger King,38 fl oz,Other,450,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,140,Low,124,Mid,0,Low,121,Mid,0,Low,571,Mid
+Burger King,Barq’s® Root Beer‡,Drink,218.7321429,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,23.94642857,Low,111.1678571,Low,44.852,Low,0.224,Low,40.41071429,Low,3.252,Low,270.4483471,Low
+Burger King,16 fl oz,Other,240,Low,0,Low,0,Low,0,Low,0,Low,0,Low,100,Low,65,Low,0,Low,65,Low,0,Low,305,Low
+Burger King,20 fl oz,Other,300,Low,0,Low,0,Low,0,Low,0,Low,0,Low,120,Low,81,Low,0,Low,81,Low,0,Low,381,Low
+Burger King,29 fl oz,Other,350,Low,0,Low,0,Low,0,Low,0,Low,0,Low,180,Low,118,Mid,0,Low,118,Mid,0,Low,468,Mid
+Burger King,38 fl oz,Other,450,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,230,Low,155,Mid,0,Low,155,Mid,0,Low,605,Mid
+Burger King,Cherry Coke®‡,Drink,218.7321429,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,23.94642857,Low,111.1678571,Low,44.852,Low,0.224,Low,40.41071429,Low,3.252,Low,270.4483471,Low
+Burger King,16 fl oz,Other,220,Low,0,Low,0,Low,0,Low,0,Low,0,Low,55,Low,61,Low,0,Low,61,Low,0,Low,281,Low
+Burger King,20 fl oz,Other,280,Low,0,Low,0,Low,0,Low,0,Low,0,Low,70,Low,76,Low,0,Low,76,Low,0,Low,356,Low
+Burger King,29 fl oz,Other,410,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,100,Low,110,Mid,0,Low,110,Mid,0,Low,520,Mid
+Burger King,38 fl oz,Other,450,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,130,Low,145,Mid,0,Low,145,Mid,0,Low,595,Mid
+Burger King,Fanta® Orange‡,Drink,218.7321429,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,23.94642857,Low,111.1678571,Low,44.852,Low,0.224,Low,40.41071429,Low,3.252,Low,270.4483471,Low
+Burger King,16 fl oz,Other,230,Low,0,Low,0,Low,0,Low,0,Low,0,Low,60,Low,62,Low,0,Low,61,Low,0,Low,291,Low
+Burger King,20 fl oz,Other,280,Low,0,Low,0,Low,0,Low,0,Low,0,Low,70,Low,78,Low,0,Low,77,Low,0,Low,357,Low
+Burger King,29 fl oz,Other,410,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,105,Low,113,Mid,0,Low,111,Mid,0,Low,521,Mid
+Burger King,38 fl oz,Other,530,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,135,Low,148,Mid,0,Low,146,Mid,0,Low,676,Mid
+Burger King,Hi-C® Fruit Punch‡,Other,234.4510386,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,26.70623145,Low,263,Low,40.26517572,Low,0.533546326,Low,33.95845697,Low,6.945686901,Low,267.3056537,Low
+Burger King,16 fl oz,Other,220,Low,0,Low,0,Low,0,Low,0,Low,0,Low,75,Low,62,Low,0,Low,60,Low,0,Low,280,Low
+Burger King,20 fl oz,Other,280,Low,0,Low,0,Low,0,Low,0,Low,0,Low,95,Low,77,Low,0,Low,75,Low,0,Low,355,Low
+Burger King,29 fl oz,Other,410,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,135,Low,111,Mid,0,Low,109,Mid,0,Low,519,Mid
+Burger King,38 fl oz,Other,450,Mid,0,Low,0,Low,0,Low,0,Low,0,Low,180,Low,146,Mid,0,Low,143,Mid,0,Low,593,Mid
+Burger King,MINUTE MAID® Light Lemonade,Drink,218.7321429,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,23.94642857,Low,111.1678571,Low,44.852,Low,0.224,Low,40.41071429,Low,3.252,Low,270.4483471,Low
+Burger King,16 fl oz,Other,10,Low,0,Low,0,Low,0,Low,0,Low,0,Low,60,Low,3,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,20 fl oz,Other,10,Low,0,Low,0,Low,0,Low,0,Low,0,Low,70,Low,4,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,29 fl oz,Other,15,Low,0,Low,0,Low,0,Low,0,Low,0,Low,105,Low,5,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,38 fl oz,Other,20,Low,0,Low,0,Low,0,Low,0,Low,0,Low,135,Low,7,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,Sweet Tea,Drink,218.7321429,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,23.94642857,Low,111.1678571,Low,44.852,Low,0.224,Low,40.41071429,Low,3.252,Low,270.4483471,Low
+Burger King,20 fl oz,Other,120,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,35,Low,0,Low,35,Low,0,Low,155,Low
+Burger King,29 fl oz,Other,160,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,49,Low,0,Low,49,Low,0,Low,209,Low
+Burger King,40 fl oz,Other,240,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,71,Low,0,Low,71,Low,0,Low,311,Low
+Burger King,Unsweetened Tea,Drink,218.7321429,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,23.94642857,Low,111.1678571,Low,44.852,Low,0.224,Low,40.41071429,Low,3.252,Low,270.4483471,Low
+Burger King,20 fl oz,Other,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,29 fl oz,Other,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,40 fl oz,Other,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,Capri Sun® 100% Apple Juice,Drink,80,Low,0,Low,0,Low,0,Low,0,Low,0,Low,25,Low,20,Low,0,Low,20,Low,0,Low,100,Low
+Burger King,Minute Maid® Orange Juice,Drink,140,Low,0,Low,0,Low,0,Low,0,Low,0,Low,20,Low,33,Low,0,Low,30,Low,2,Low,168,Low
+Burger King,Frozen Coke® – 16 oz,Drink,130,Low,0,Low,0,Low,0,Low,0,Low,0,Low,50,Low,35,Low,0,Low,35,Low,0,Low,165,Low
+Burger King,BK® Café Coffee- 12 fl oz,Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,BK® Café Coffee- 16 fl oz,Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,BK® Café Coffee- 20 fl oz,Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,BK® Café Decaf Coffee- 12 fl oz,Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,BK® Café Decaf Coffee- 16 fl oz,Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,BK® Café Decaf Coffee- 20 fl oz,Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Burger King,BK® Café Iced Vanilla Coffee- 12 fl oz,Drink,150,Low,70,Low,8,Low,4,Low,0,Low,25,Low,30,Low,21,Low,0,Low,21,Low,1,Low,174,Low
+Burger King,BK® Café Iced Vanilla Coffee- 16 fl oz,Drink,200,Low,90,Low,10,Low,5,Low,0,Low,30,Low,40,Low,27,Low,0,Low,27,Low,2,Low,230,Low
+Burger King,BK® Café Iced Vanilla Coffee- 20 fl oz,Drink,260,Low,110,Low,13,Low,7,Low,0,Low,40,Low,50,Low,34,Low,0,Low,34,Low,2,Low,299,Low
+Burger King,BK® Café Iced Mocha Coffee- 12 fl oz,Drink,180,Low,70,Low,8,Low,4,Low,0,Low,25,Low,40,Low,27,Low,1,Low,25,Low,2,Low,207,Low
+Burger King,BK® Café Iced Mocha Coffee- 16 fl oz,Drink,240,Low,90,Low,10,Low,6,Low,0,Low,30,Low,55,Low,35,Low,1,Low,32,Low,2,Low,276,Low
+Burger King,BK® Café Iced Mocha Coffee- 20 fl oz,Drink,300,Low,120,Low,13,Low,7,Low,0,Low,40,Low,70,Low,45,Low,2,Low,41,Low,3,Low,345,Low
+Burger King,BK® Café Mocha Frappe- 12 fl oz,Drink,300,Low,80,Low,8,Low,5,Low,0,Low,30,Low,200,Low,50,Low,1,Low,41,Low,7,Low,339,Low
+Burger King,BK® Café Mocha Frappe- 16 fl oz,Drink,400,Low,90,Low,10,Low,7,Low,0,Low,40,Low,270,Low,68,Low,1,Low,58,Low,9,Low,456,Mid
+Burger King,BK® Café Mocha Frappe- 20 fl oz,Drink,510,Mid,110,Low,13,Low,8,Low,0,Low,50,Low,350,Low,87,Low,1,Low,71,Low,12,Low,577,Mid
+Burger King,BK® Café Caramel Frappe- 12 fl oz,Drink,300,Low,80,Low,8,Low,5,Low,0,Low,35,Low,210,Low,50,Low,0,Low,41,Low,7,Low,339,Low
+Burger King,BK® Café Caramel Frappe- 16 fl oz,Drink,400,Low,90,Low,10,Low,7,Low,0,Low,40,Low,280,Low,68,Low,0,Low,56,Low,9,Low,454,Mid
+Burger King,BK® Café Caramel Frappe- 20 fl oz,Drink,500,Mid,110,Low,12,Low,8,Low,0,Low,50,Low,350,Low,86,Low,0,Low,71,Low,11,Low,568,Mid
+Wendy’s,Baconator,Burger,950,High,362.4,Mid,62,Mid,24,High,3,Mid,205,Mid,1630,Mid,40,Low,2,Low,8,Low,59,High,923,High
+Wendy’s,Dave’s Double,Other,810,Mid,53.84955752,Low,51,Mid,20,Mid,3,Mid,175,Low,1280,Mid,41,Low,3,Low,8,Low,49,High,789,Mid
+Wendy’s,Dave’s Single,Other,570,Mid,53.84955752,Low,34,Mid,13,Mid,1.5,Low,100,Low,1110,Mid,40,Low,3,Low,9,Low,30,Mid,562,Mid
+Wendy’s,Dave’s Triple,Other,1090,High,53.84955752,Low,72,High,30,High,4,High,260,Mid,1650,Mid,43,Low,3,Low,9,Low,71,High,1058,High
+Wendy’s,Double Stack,Other,390,Low,53.84955752,Low,21,Low,9,Low,1.5,Low,90,Low,740,Low,26,Low,1,Low,6,Low,25,Mid,380,Low
+Wendy’s,Jr. Bacon Cheeseburger,Burger,380,Low,362.4,Mid,22,Low,8,Low,1,Low,65,Low,680,Low,25,Low,1,Low,5,Low,19,Low,374,Low
+Wendy’s,Jr. Cheeseburger,Burger,280,Low,362.4,Mid,13,Low,6,Low,1,Low,50,Low,660,Low,26,Low,1,Low,6,Low,16,Low,276,Low
+Wendy’s,Jr. Cheeseburger Deluxe,Burger,340,Low,362.4,Mid,19,Low,7,Low,1,Low,55,Low,660,Low,27,Low,2,Low,7,Low,16,Low,338,Low
+Wendy’s,Son of Baconator,Burger,630,Mid,362.4,Mid,39,Mid,15,Mid,1.5,Low,125,Low,1280,Mid,37,Low,2,Low,7,Low,34,Mid,618,Mid
+Wendy’s,3 Piece Chicken Tenders,Nuggets / Wings / Tenders,330,Low,232.2222222,Low,16,Low,2.5,Low,0,Low,75,Low,1010,Mid,22,Low,0,Low,0,Low,24,Mid,309,Low
+Wendy’s,4 Piece Chicken Nuggets,Nuggets / Wings / Tenders,170,Low,232.2222222,Low,11,Low,2,Low,0,Low,35,Low,340,Low,10,Low,0,Low,0,Low,9,Low,163,Low
+Wendy’s,4 Piece Chicken Tenders,Nuggets / Wings / Tenders,430,Mid,232.2222222,Low,21,Low,3.5,Low,0,Low,100,Low,1350,Mid,29,Low,0,Low,1,Low,32,Mid,403,Low
+Wendy’s,6 Picece Chicken Nuggets,Nuggets / Wings / Tenders,250,Low,232.2222222,Low,16,Low,3.5,Low,0,Low,50,Low,510,Low,14,Low,1,Low,0,Low,13,Low,241,Low
+Wendy’s,6 Piece Chicken Tenders,Nuggets / Wings / Tenders,650,Mid,232.2222222,Low,32,Low,5,Low,0,Low,150,Low,2020,High,43,Low,0,Low,1,Low,48,High,608,Mid
+Wendy’s,10 Piece Chicken Nuggets,Nuggets / Wings / Tenders,420,Mid,232.2222222,Low,27,Low,5,Low,0,Low,80,Low,850,Low,24,Low,1,Low,0,Low,22,Low,403,Low
+Wendy’s,Crispy Chicken BLT,Chicken Sandwich / Wrap,420,Mid,220.8695652,Low,23,Low,6,Low,0,Low,50,Low,950,Low,35,Low,2,Low,5,Low,20,Low,411,Low
+Wendy’s,Crispy Chicken Sandwich,Chicken Sandwich / Wrap,330,Low,220.8695652,Low,16,Low,3,Low,0,Low,30,Low,600,Low,33,Low,2,Low,4,Low,14,Low,323,Low
+Wendy’s,Grilled Asiago Ranch Club,Chicken Sandwich / Wrap,530,Mid,220.8695652,Low,23,Low,7,Low,0,Low,120,Low,1220,Mid,36,Low,3,Low,6,Low,43,Mid,500,Mid
+Wendy’s,Grilled Chicken Sandwich,Chicken Sandwich / Wrap,370,Low,220.8695652,Low,10,Low,2,Low,0,Low,90,Low,830,Low,38,Low,3,Low,8,Low,34,Mid,346,Low
+Wendy’s,Grilled Chicken Wrap,Chicken Sandwich / Wrap,270,Low,220.8695652,Low,10,Low,3.5,Low,0,Low,55,Low,640,Low,24,Low,2,Low,3,Low,20,Low,257,Low
+Wendy’s,Homestyle Asiago Ranch Chicken Club,Chicken Sandwich / Wrap,660,Mid,220.8695652,Low,34,Mid,9,Low,0,Low,100,Low,1650,Mid,52,Low,3,Low,7,Low,38,Mid,638,Mid
+Wendy’s,Homestyle Chicken Sandwich,Chicken Sandwich / Wrap,510,Mid,220.8695652,Low,22,Low,4,Low,0,Low,70,Low,1150,Mid,51,Low,3,Low,6,Low,28,Mid,492,Mid
+Wendy’s,S’Awesome Sauce,Condiment / Sauce,120,Low,35.2,Low,12,Low,2,Low,0,Low,0,Low,170,Low,4,Low,1,Low,3,Low,1,Low,124,Low
+Wendy’s,Spicy Asiago Ranch Club,Chicken Sandwich / Wrap,670,Mid,220.8695652,Low,32,Low,9,Low,0,Low,100,Low,1530,Mid,55,Low,4,Low,6,Low,38,Mid,647,Mid
+Wendy’s,Spicy Chicken Sandwich,Chicken Sandwich / Wrap,510,Mid,220.8695652,Low,20,Low,3.5,Low,0,Low,65,Low,1030,Mid,54,Low,4,Low,6,Low,29,Mid,491,Mid
+Wendy’s,Spicy Chicken Wrap,Chicken Sandwich / Wrap,370,Low,220.8695652,Low,20,Low,5,Low,0,Low,50,Low,850,Low,30,Low,2,Low,2,Low,18,Low,359,Low
+Wendy’s,"Apple Pecan Chicken Salad, Full Size",Salad,560,Mid,53.75,Low,24,Low,7,Low,0,Low,115,Low,1020,Mid,52,Low,7,Low,40,Low,38,Mid,569,Mid
+Wendy’s,"Apple Pecan Chicken Salad, Half Size",Salad,340,Low,53.75,Low,17,Low,4,Low,0,Low,55,Low,550,Low,29,Low,4,Low,22,Low,20,Low,346,Low
+Wendy’s,"Berry Burst Chicken Salad, Full Size",Salad,460,Mid,53.75,Low,17,Low,4.5,Low,0,Low,105,Low,1090,Mid,41,Low,7,Low,29,Low,41,Mid,453,Mid
+Wendy’s,"Berry Burst Chicken Salad, Half Size",Salad,290,Low,53.75,Low,13,Low,2.5,Low,0,Low,50,Low,570,Low,23,Low,5,Low,15,Low,23,Low,285,Low
+Wendy’s,Caesar Side Salad,Side,240,Low,128.6956522,Low,15,Low,4,Low,0,Low,30,Low,500,Low,19,Low,3,Low,4,Low,8,Low,240,Low
+Wendy’s,Garden Side Salad,Side,250,Low,128.6956522,Low,18,Low,4,Low,0,Low,20,Low,460,Low,18,Low,2,Low,4,Low,7,Low,251,Low
+Wendy’s,"Southwest Avocado Chicken Salad, Full Size",Salad,600,Mid,53.75,Low,41,Mid,11,Low,0,Low,135,Low,1220,Mid,18,Low,7,Low,7,Low,42,Mid,576,Mid
+Wendy’s,"Southwest Avocado Chicken Salad, Half Size",Salad,300,Low,53.75,Low,20,Low,6,Low,0,Low,70,Low,620,Low,10,Low,4,Low,4,Low,21,Low,289,Low
+Wendy’s,"Spicy Caesar Chicken Salad, Full Size",Salad,720,Mid,53.75,Low,42,Mid,12,Mid,1,Low,150,Low,1680,Mid,44,Low,8,Low,6,Low,42,Mid,696,Mid
+Wendy’s,"Spicy Caesar Chicken Salad, Half Size",Salad,410,Mid,53.75,Low,23,Low,6,Low,0.5,Low,75,Low,930,Low,30,Low,5,Low,4,Low,23,Low,397,Low
+Wendy’s,"Taco Salad, Full Size",Salad,660,Mid,53.75,Low,32,Low,13,Mid,1,Low,85,Low,1820,Mid,63,Low,10,Low,18,Low,32,Mid,659,Mid
+Wendy’s,"Taco Salad, Half Size",Salad,470,Mid,53.75,Low,23,Low,8,Low,0.5,Low,45,Low,1320,Mid,49,Low,7,Low,12,Low,19,Low,471,Mid
+Wendy’s,Apple Bites,Other,35,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,0,Low,9,Low,2,Low,7,Low,0,Low,42,Low
+Wendy’s,Baconator Fries,Burger,490,Mid,362.4,Mid,28,Low,9,Low,0,Low,35,Low,550,Low,45,Low,4,Low,2,Low,14,Low,487,Mid
+Wendy’s,Bacon Cheese Baked Potato,Side,440,Mid,128.6956522,Low,14,Low,6,Low,0,Low,35,Low,550,Low,64,Low,7,Low,4,Low,17,Low,433,Low
+Wendy’s,Cheese Baked Potato,Side,430,Mid,128.6956522,Low,13,Low,7,Low,0,Low,30,Low,560,Low,65,Low,7,Low,5,Low,14,Low,428,Low
+Wendy’s,Chili & Cheese Baked Potato,Side,460,Mid,128.6956522,Low,11,Low,5,Low,0,Low,35,Low,710,Low,71,Low,8,Low,7,Low,19,Low,453,Mid
+Wendy’s,"Chili, Large",Other,250,Low,53.84955752,Low,7,Low,3,Low,0.5,Low,50,Low,1170,Mid,23,Low,5,Low,9,Low,23,Low,239,Low
+Wendy’s,"Chili, Small",Other,170,Low,53.84955752,Low,5,Low,2,Low,0,Low,35,Low,780,Low,16,Low,4,Low,6,Low,15,Low,163,Low
+Wendy’s,Chili Cheese Fries,Side,500,Mid,128.6956522,Low,25,Low,8,Low,0.5,Low,35,Low,710,Low,53,Low,6,Low,4,Low,16,Low,496,Mid
+Wendy’s,"Natural-Cut Fries, Junior",Side,230,Low,128.6956522,Low,10,Low,2,Low,0,Low,0,Low,15,Low,30,Low,3,Low,0,Low,3,Low,229,Low
+Wendy’s,"Natural-Cut Fries, Large",Side,530,Mid,128.6956522,Low,24,Low,4.5,Low,0,Low,0,Low,520,Low,70,Low,6,Low,0,Low,7,Low,528,Mid
+Wendy’s,"Natural-Cut Fries, Medium",Side,420,Mid,128.6956522,Low,19,Low,3.5,Low,0,Low,0,Low,420,Low,56,Low,5,Low,0,Low,6,Low,418,Low
+Wendy’s,"Natural-Cut Fries, Small",Side,320,Low,128.6956522,Low,15,Low,2.5,Low,0,Low,0,Low,320,Low,43,Low,4,Low,0,Low,5,Low,318,Low
+Wendy’s,Plain Baked Potato,Side,270,Low,128.6956522,Low,0,Low,0,Low,0,Low,0,Low,25,Low,61,Low,7,Low,3,Low,7,Low,266,Low
+Wendy’s,Sour Cream and Chive Baked Potato,Side,310,Low,128.6956522,Low,2.5,Low,2.5,Low,0,Low,10,Low,35,Low,63,Low,7,Low,4,Low,8,Low,309,Low
+Wendy’s,Summer Berry Burst Fruit Cup,Other,20,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,0,Low,5,Low,1,Low,3,Low,0,Low,23,Low
+Wendy’s,1% Chocolate Milk,Drink,150,Low,73.02521008,Low,2.5,Low,1.5,Low,0,Low,10,Low,170,Low,26,Low,0,Low,23,Low,7,Low,168,Low
+Wendy’s,1% White Milk,Drink,90,Low,73.02521008,Low,2,Low,1.5,Low,0,Low,10,Low,105,Low,10,Low,0,Low,10,Low,7,Low,95,Low
+Wendy’s,"All-Natural Lemonade, Large",Drink,380,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,0,Low,100,Mid,0,Low,93,Mid,0,Low,473,Mid
+Wendy’s,"All-Natural Lemonade, Medium",Drink,330,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,0,Low,86,Low,0,Low,81,Low,0,Low,411,Low
+Wendy’s,"All-Natural Lemonade, Small",Drink,190,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,0,Low,50,Low,0,Low,47,Low,0,Low,237,Low
+Wendy’s,"Apple Kiwi Fruit Tea, Large",Drink,330,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,60,Low,83,Low,0,Low,80,Low,0,Low,410,Low
+Wendy’s,"Apple Kiwi Fruit Tea, Medium",Drink,300,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,50,Low,76,Low,0,Low,73,Low,0,Low,373,Low
+Wendy’s,"Apple Kiwi Fruit Tea, Small",Drink,170,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,30,Low,44,Low,0,Low,42,Low,0,Low,212,Low
+Wendy’s,"Barq’s Root Beer, Large",Drink,450,Mid,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,180,Low,122,Mid,0,Low,122,Mid,0,Low,572,Mid
+Wendy’s,"Barq’s Root Beer, Medium",Drink,360,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,150,Low,98,Mid,0,Low,98,Mid,0,Low,458,Mid
+Wendy’s,"Barq’s Root Beer, Small",Drink,220,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,90,Low,61,Low,0,Low,61,Low,0,Low,281,Low
+Wendy’s,"Brewed Unsweetened Iced Tea, Large",Drink,5,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,25,Low,2,Low,0,Low,0,Low,0,Low,5,Low
+Wendy’s,"Brewed Unsweetened Iced Tea, Medium",Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,15,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+Wendy’s,"Brewed Unsweetened Iced Tea, Small",Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,10,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+Wendy’s,"Caramel Iced Coffee, Medium",Drink,240,Low,73.02521008,Low,8,Low,5,Low,0,Low,25,Low,45,Low,40,Low,0,Low,36,Low,3,Low,278,Low
+Wendy’s,"Caramel Iced Coffee, Small",Drink,160,Low,73.02521008,Low,6,Low,3.5,Low,0,Low,20,Low,30,Low,26,Low,0,Low,24,Low,2,Low,186,Low
+Wendy’s,"Coca-Cola, Large",Other,400,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,90,Low,109,Mid,0,Low,109,Mid,0,Low,509,Mid
+Wendy’s,"Coca-Cola, Medium",Other,320,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,70,Low,87,Low,0,Low,87,Low,0,Low,407,Low
+Wendy’s,"Coca-Cola, Small",Other,200,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,45,Low,54,Low,0,Low,54,Low,0,Low,254,Low
+Wendy’s,"Coca-Cola Zero Sugar, Large",Other,0,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,100,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+Wendy’s,"Coca-Cola Zero Sugar, Medium",Other,0,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,80,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+Wendy’s,"Coca-Cola Zero Sugar, Small",Other,0,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,50,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Wendy’s,"Diet Coke, Large",Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,125,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+Wendy’s,"Diet Coke, Medium",Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,100,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+Wendy’s,"Diet Coke, Small",Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,45,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+Wendy’s,"Dr Pepper, Large",Drink,240,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,70,Low,66,Low,0,Low,64,Low,0,Low,304,Low
+Wendy’s,"Dr Pepper, Medium",Drink,190,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,55,Low,53,Low,0,Low,51,Low,0,Low,241,Low
+Wendy’s,"Dr Pepper, Small",Drink,120,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,35,Low,33,Low,0,Low,32,Low,0,Low,152,Low
+Wendy’s,"Fanta Orange, Large",Drink,430,Mid,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,110,Low,117,Mid,0,Low,115,Mid,0,Low,545,Mid
+Wendy’s,"Fanta Orange, Medium",Drink,340,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,85,Low,94,Mid,0,Low,92,Mid,0,Low,432,Low
+Wendy’s,"Fanta Orange, Small",Drink,210,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,55,Low,59,Low,0,Low,58,Low,0,Low,268,Low
+Wendy’s,"Hi-C Flashin’ Fruit Punch, Large",Other,420,Mid,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,140,Low,115,Mid,0,Low,113,Mid,0,Low,533,Mid
+Wendy’s,"Hi-C Flashin’ Fruit Punch, Medium",Other,340,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,115,Low,92,Mid,0,Low,90,Mid,0,Low,430,Low
+Wendy’s,"Hi-C Flashin’ Fruit Punch, Small",Other,210,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,70,Low,58,Low,0,Low,56,Low,0,Low,266,Low
+Wendy’s,"Honest Tropical Green Tea, Large",Drink,110,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,55,Low,29,Low,0,Low,29,Low,0,Low,139,Low
+Wendy’s,"Honest Tropical Green Tea, Medium",Drink,90,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,40,Low,22,Low,0,Low,22,Low,0,Low,112,Low
+Wendy’s,"Honest Tropical Green Tea, Small",Drink,60,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,25,Low,14,Low,0,Low,14,Low,0,Low,74,Low
+Wendy’s,Hot Tea,Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,0,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+Wendy’s,"Limeade, Large",Other,460,Mid,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,55,Low,117,Mid,0,Low,111,Mid,0,Low,571,Mid
+Wendy’s,"Limeade, Medium",Other,380,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,45,Low,98,Mid,0,Low,93,Mid,0,Low,473,Mid
+Wendy’s,"Limeade, Small",Other,230,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,30,Low,59,Low,0,Low,56,Low,0,Low,286,Low
+Wendy’s,"Minute Maid Light Lemonade, Large",Drink,15,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,10,Low,2,Low,0,Low,0,Low,0,Low,15,Low
+Wendy’s,"Minute Maid Light Lemonade, Medium",Drink,10,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,10,Low,1,Low,0,Low,0,Low,0,Low,10,Low
+Wendy’s,"Minute Maid Light Lemonade, Small",Drink,5,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,5,Low,1,Low,0,Low,0,Low,0,Low,5,Low
+Wendy’s,"Mocha Iced Coffee, Medium",Drink,210,Low,73.02521008,Low,8,Low,5,Low,0,Low,25,Low,40,Low,32,Low,0,Low,28,Low,3,Low,240,Low
+Wendy’s,"Mocha Iced Coffee, Small",Drink,170,Low,73.02521008,Low,6,Low,3.5,Low,0,Low,20,Low,30,Low,28,Low,0,Low,25,Low,2,Low,197,Low
+Wendy’s,"Pear Berry Fruit Tea, Large",Drink,320,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,60,Low,82,Low,0,Low,76,Low,0,Low,396,Low
+Wendy’s,"Pear Berry Fruit Tea, Medium",Drink,300,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,50,Low,76,Low,0,Low,70,Low,0,Low,370,Low
+Wendy’s,"Pear Berry Fruit Tea, Small",Drink,170,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,30,Low,44,Low,0,Low,40,Low,0,Low,210,Low
+Wendy’s,"Skinny Vanilla Iced Coffee, Medium",Drink,100,Low,73.02521008,Low,8,Low,5,Low,0,Low,25,Low,45,Low,14,Low,0,Low,0,Low,3,Low,102,Low
+Wendy’s,"Skinny Vanilla Iced Coffee, Small",Drink,70,Low,73.02521008,Low,5,Low,3.5,Low,0,Low,15,Low,30,Low,6,Low,0,Low,0,Low,2,Low,72,Low
+Wendy’s,"Small Sprite, Small",Drink,200,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,90,Low,53,Low,0,Low,53,Low,0,Low,253,Low
+Wendy’s,"Sprite, Large",Drink,390,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,180,Low,105,Mid,0,Low,105,Mid,0,Low,495,Mid
+Wendy’s,"Sprite, Medium",Drink,310,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,140,Low,84,Low,0,Low,84,Low,0,Low,394,Low
+Wendy’s,"Strawberry Lemonade, Large",Drink,480,Mid,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,55,Low,121,Mid,0,Low,114,Mid,0,Low,594,Mid
+Wendy’s,"Strawberry Lemonade, Medium",Drink,380,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,45,Low,98,Mid,0,Low,92,Mid,0,Low,472,Mid
+Wendy’s,"Strawberry Lemonade, Small",Drink,230,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,30,Low,58,Low,0,Low,54,Low,0,Low,284,Low
+Wendy’s,"Strawberry Sweet Tea, Large",Drink,270,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,15,Low,69,Low,0,Low,67,Low,0,Low,337,Low
+Wendy’s,"Strawberry Sweet Tea, Medium",Drink,240,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,15,Low,60,Low,0,Low,59,Low,0,Low,299,Low
+Wendy’s,"Strawberry Sweet Tea, Small",Drink,140,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,10,Low,36,Low,0,Low,35,Low,0,Low,175,Low
+Wendy’s,"Strawberry Tea, Large",Drink,90,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,20,Low,22,Low,0,Low,20,Low,0,Low,110,Low
+Wendy’s,"Strawberry Tea, Medium",Drink,60,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,15,Low,16,Low,0,Low,14,Low,0,Low,74,Low
+Wendy’s,"Strawberry Tea, Small",Drink,45,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,10,Low,11,Low,0,Low,10,Low,0,Low,55,Low
+Wendy’s,"Sweetened Iced Tea, Large",Drink,300,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,25,Low,77,Low,0,Low,75,Low,0,Low,375,Low
+Wendy’s,"Sweetened Iced Tea, Medium",Drink,220,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,20,Low,58,Low,0,Low,56,Low,0,Low,276,Low
+Wendy’s,"Sweetened Iced Tea, Small",Drink,160,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,10,Low,41,Low,0,Low,40,Low,0,Low,200,Low
+Wendy’s,"Vanilla Iced Coffee, Medium",Drink,250,Low,73.02521008,Low,8,Low,5,Low,0,Low,25,Low,40,Low,42,Low,0,Low,39,Low,3,Low,291,Low
+Wendy’s,"Vanilla Iced Coffee, Small",Drink,170,Low,73.02521008,Low,6,Low,3.5,Low,0,Low,20,Low,30,Low,28,Low,0,Low,26,Low,2,Low,198,Low
+Wendy’s,"Classic Chocolate Frosty, Junior",Dessert,200,Low,127.2972973,Low,5,Low,3,Low,0,Low,20,Low,90,Low,33,Low,0,Low,27,Low,6,Low,224,Low
+Wendy’s,"Classic Chocolate Frosty, Large",Dessert,590,Mid,127.2972973,Low,15,Low,10,Low,0.5,Low,60,Low,260,Low,99,Mid,0,Low,81,Low,17,Low,664,Mid
+Wendy’s,"Classic Chocolate Frosty, Medium",Dessert,470,Mid,127.2972973,Low,12,Low,8,Low,0.5,Low,50,Low,210,Low,79,Low,0,Low,65,Low,13,Low,530,Mid
+Wendy’s,"Classic Chocolate Frosty, Small",Dessert,350,Low,127.2972973,Low,9,Low,6,Low,0,Low,35,Low,150,Low,58,Low,0,Low,47,Low,10,Low,393,Low
+Wendy’s,"Vanilla Frosty, Junior",Dessert,190,Low,127.2972973,Low,5,Low,3.5,Low,0,Low,25,Low,90,Low,32,Low,0,Low,27,Low,5,Low,216,Low
+Wendy’s,"Vanilla Frosty, Large",Dessert,570,Mid,127.2972973,Low,15,Low,10,Low,0.5,Low,70,Low,260,Low,94,Mid,0,Low,78,Low,15,Low,643,Mid
+Wendy’s,"Vanilla Frosty, Medium",Dessert,450,Mid,127.2972973,Low,12,Low,8,Low,0.5,Low,55,Low,210,Low,75,Low,0,Low,63,Low,12,Low,509,Mid
+Wendy’s,"Vanilla Frosty, Small",Dessert,340,Low,127.2972973,Low,9,Low,6,Low,0,Low,45,Low,160,Low,56,Low,0,Low,47,Low,9,Low,384,Low
+Wendy’s,Chocolate Chunk Cookie,Dessert,310,Low,127.2972973,Low,16,Low,8,Low,0,Low,20,Low,210,Low,40,Low,2,Low,24,Low,3,Low,339,Low
+Wendy’s,Double Chocolate Chunk Cookie,Dessert,290,Low,127.2972973,Low,14,Low,7,Low,0,Low,20,Low,230,Low,39,Low,4,Low,21,Low,4,Low,314,Low
+Wendy’s,Sugar Cookie,Dessert,330,Low,127.2972973,Low,16,Low,8,Low,0,Low,25,Low,300,Low,43,Low,1,Low,24,Low,3,Low,359,Low
+Wendy’s,Kids 2 Piece Chicken Tenders,Nuggets / Wings / Tenders,200,Low,232.2222222,Low,10,Low,1.5,Low,0,Low,45,Low,620,Low,13,Low,0,Low,0,Low,15,Low,187,Low
+Wendy’s,Kids 4 Piece Chicken Nuggets,Nuggets / Wings / Tenders,170,Low,232.2222222,Low,11,Low,2,Low,0,Low,35,Low,340,Low,10,Low,0,Low,0,Low,9,Low,163,Low
+Wendy’s,Kids Cheeseburger,Burger,280,Low,362.4,Mid,13,Low,6,Low,0.5,Low,50,Low,540,Low,25,Low,1,Low,5,Low,15,Low,276,Low
+Wendy’s,Kids Grilled Chicken Wrap,Chicken Sandwich / Wrap,270,Low,220.8695652,Low,10,Low,3.5,Low,0,Low,55,Low,640,Low,24,Low,2,Low,3,Low,20,Low,257,Low
+Wendy’s,Kids Hamburger,Burger,240,Low,362.4,Mid,9,Low,3.5,Low,0.5,Low,40,Low,350,Low,24,Low,1,Low,5,Low,13,Low,236,Low
+Wendy’s,Artisan Egg Sandwich with Bacon,Breakfast,320,Low,244.5762712,Low,17,Low,8,Low,0,Low,245,Mid,750,Low,25,Low,1,Low,4,Low,18,Low,314,Low
+Wendy’s,Artisan Egg Sandwich with Sausage,Breakfast,480,Mid,244.5762712,Low,33,Mid,13,Mid,0,Low,275,Mid,980,Mid,27,Low,1,Low,4,Low,21,Low,476,Mid
+Wendy’s,Bacon Breakfast Bowl,Breakfast,510,Mid,244.5762712,Low,28,Low,9,Low,0,Low,245,Mid,1390,Mid,44,Low,4,Low,2,Low,19,Low,502,Mid
+Wendy’s,Biggie Breakfast Sandwich,Breakfast,610,Mid,244.5762712,Low,40,Mid,15,Mid,0,Low,290,Mid,1400,Mid,37,Low,2,Low,7,Low,27,Mid,605,Mid
+Wendy’s,Fresh-Baked Biscuit with Applewood Smoked Bacon,Breakfast,410,Mid,244.5762712,Low,24,Low,13,Mid,0,Low,235,Mid,970,Mid,34,Low,1,Low,5,Low,15,Low,413,Low
+Wendy’s,Fresh Baked Biscuit with Natural Sausage,Breakfast,590,Mid,244.5762712,Low,41,Mid,19,Mid,0,Low,270,Mid,1270,Mid,36,Low,1,Low,6,Low,20,Low,595,Mid
+Wendy’s,Gravy and Sausage Bowl,Bowl,450,Mid,173.3333333,Low,22,Low,6,Low,0,Low,220,Mid,1260,Mid,50,Low,4,Low,2,Low,12,Low,446,Mid
+Wendy’s,Honey Butter Chicken Biscuit,Breakfast,500,Mid,244.5762712,Low,26,Low,12,Mid,0,Low,50,Low,1120,Mid,48,Low,1,Low,9,Low,19,Low,502,Mid
+Wendy’s,Sausage and Egg Burrito,Breakfast,360,Low,244.5762712,Low,20,Low,8,Low,0,Low,210,Mid,920,Low,29,Low,1,Low,2,Low,17,Low,353,Low
+Wendy’s,Sausage and Gravy Biscuit,Breakfast,490,Mid,244.5762712,Low,29,Low,14,Mid,0,Low,20,Low,1400,Mid,49,Low,2,Low,6,Low,8,Low,502,Mid
+Wendy’s,Sausage Biscuit,Breakfast,480,Mid,244.5762712,Low,33,Mid,15,Mid,0,Low,50,Low,1010,Mid,35,Low,1,Low,5,Low,12,Low,488,Mid
+Wendy’s,Sausage Breakfast Bowl,Breakfast,640,Mid,244.5762712,Low,42,Mid,14,Mid,0,Low,270,Mid,1540,Mid,46,Low,4,Low,3,Low,21,Low,636,Mid
+Wendy’s,"Seasoned Home-Style Potatoes, Large",Side,360,Low,128.6956522,Low,13,Low,2.5,Low,0,Low,0,Low,1080,Mid,57,Low,6,Low,1,Low,5,Low,359,Low
+Wendy’s,"Seasoned Home-Style Potatoes, Medium",Side,250,Low,128.6956522,Low,9,Low,1.5,Low,0,Low,0,Low,750,Low,39,Low,4,Low,1,Low,4,Low,249,Low
+Wendy’s,"Seasoned Home-Style Potatoes, Small",Side,230,Low,128.6956522,Low,8,Low,1.5,Low,0,Low,0,Low,680,Low,35,Low,4,Low,0,Low,3,Low,229,Low
+Wendy’s,Two Sausage and Egg Burritos,Breakfast,720,Mid,244.5762712,Low,41,Mid,16,Mid,0,Low,420,High,1830,Mid,59,Low,2,Low,5,Low,34,Mid,707,Mid
+Wendy’s,Two Sausage Biscuits,Breakfast,960,High,244.5762712,Low,65,Mid,31,High,0,Low,95,Low,2020,High,70,Low,3,Low,10,Low,23,Low,978,High
+KFC,Limited Time Cinnabon Dessert Biscuits,Breakfast,290,Low,244.5762712,Low,13,Low,7,Low,0,Low,5,Low,580,Low,40,Low,2,Low,17,Low,4,Low,310,Low
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast,Other,390,Low,53.84955752,Low,21,Low,4,Low,0,Low,120,Low,1190,Mid,11,Low,2,Low,0,Low,39,Mid,355,Low
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick,Other,130,Low,53.84955752,Low,8,Low,1.5,Low,0,Low,55,Low,430,Low,4,Low,1,Low,0,Low,12,Low,119.5,Low
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh,Other,280,Low,53.84955752,Low,19,Low,4.5,Low,0,Low,100,Low,910,Low,8,Low,1,Low,0,Low,19,Low,265.5,Low
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing,Nuggets / Wings / Tenders,130,Low,232.2222222,Low,8,Low,2,Low,0,Low,55,Low,380,Low,3,Low,0,Low,0,Low,10,Low,122,Low
+KFC,Chicken Breast,Other,770,Mid,53.84955752,Low,60,Mid,10,Low,0,Low,105,Low,1530,Mid,21,Low,1,Low,1,Low,35,Mid,746,Mid
+KFC,Chicken Drumstick,Other,250,Low,53.84955752,Low,21,Low,3.5,Low,0,Low,50,Low,530,Low,6,Low,1,Low,0,Low,11,Low,242.5,Low
+KFC,Chicken Thigh,Other,500,Mid,53.84955752,Low,40,Mid,7,Low,0,Low,100,Low,970,Mid,11,Low,1,Low,1,Low,22,Low,486,Mid
+KFC,Chicken Whole Wing,Nuggets / Wings / Tenders,290,Low,232.2222222,Low,25,Low,4,Low,0,Low,45,Low,520,Low,6,Low,1,Low,1,Low,10,Low,285,Low
+KFC,Breast,Other,260,Low,53.84955752,Low,12,Low,3,Low,0,Low,130,Low,790,Low,1,Low,0,Low,0,Low,38,Mid,225,Low
+KFC,Drumstick,Other,100,Low,53.84955752,Low,6,Low,1.5,Low,0,Low,55,Low,260,Low,0,Low,0,Low,0,Low,11,Low,90.5,Low
+KFC,Thigh,Other,180,Low,53.84955752,Low,12,Low,3.5,Low,0,Low,90,Low,470,Low,0,Low,0,Low,0,Low,17,Low,166.5,Low
+KFC,Whole Wing,Nuggets / Wings / Tenders,90,Low,232.2222222,Low,6,Low,1.5,Low,0,Low,45,Low,210,Low,1,Low,0,Low,0,Low,9,Low,82.5,Low
+KFC,Breast,Other,540,Mid,53.84955752,Low,40,Mid,7,Low,0,Low,100,Low,1390,Mid,14,Low,2,Low,1,Low,31,Mid,517,Mid
+KFC,Drumstick,Other,190,Low,53.84955752,Low,14,Low,2.5,Low,0,Low,40,Low,510,Low,6,Low,1,Low,0,Low,9,Low,183.5,Low
+KFC,Thigh,Other,390,Low,53.84955752,Low,32,Low,6,Low,0,Low,65,Low,900,Low,12,Low,2,Low,1,Low,13,Low,384,Low
+KFC,Whole Wing,Nuggets / Wings / Tenders,180,Low,232.2222222,Low,15,Low,2.5,Low,0,Low,35,Low,450,Low,5,Low,1,Low,0,Low,8,Low,174.5,Low
+KFC,EXTRA CRISPY Chicken Breast,Chicken Sandwich / Wrap,530,Mid,220.8695652,Low,35,Mid,6,Low,0,Low,105,Low,1150,Mid,18,Low,0,Low,0,Low,35,Mid,501,Mid
+KFC,EXTRA CRISPY Chicken Drumstick,Chicken Sandwich / Wrap,170,Low,220.8695652,Low,12,Low,2,Low,0,Low,50,Low,390,Low,5,Low,0,Low,0,Low,10,Low,162,Low
+KFC,EXTRA CRISPY Chicken Thigh,Chicken Sandwich / Wrap,330,Low,220.8695652,Low,23,Low,4.5,Low,0,Low,100,Low,700,Low,9,Low,0,Low,0,Low,22,Low,312.5,Low
+KFC,EXTRA CRISPY Chicken Whole Wing,Chicken Sandwich / Wrap,170,Low,220.8695652,Low,13,Low,2,Low,0,Low,45,Low,340,Low,5,Low,0,Low,0,Low,10,Low,162,Low
+KFC,KENTUCKY GRILLED CHICKEN Breast,Chicken Sandwich / Wrap,210,Low,220.8695652,Low,7,Low,2,Low,0,Low,130,Low,710,Low,0,Low,0,Low,0,Low,38,Mid,174,Low
+KFC,KENTUCKY GRILLED CHICKEN Drumstick,Chicken Sandwich / Wrap,80,Low,220.8695652,Low,4,Low,1,Low,0,Low,55,Low,220,Low,0,Low,0,Low,0,Low,11,Low,70,Low
+KFC,KENTUCKY GRILLED CHICKEN Thigh,Chicken Sandwich / Wrap,150,Low,220.8695652,Low,9,Low,3,Low,0,Low,90,Low,420,Low,0,Low,0,Low,0,Low,17,Low,136,Low
+KFC,KENTUCKY GRILLED CHICKEN Whole Wing,Chicken Sandwich / Wrap,70,Low,220.8695652,Low,3,Low,1,Low,0,Low,45,Low,180,Low,0,Low,0,Low,0,Low,9,Low,62,Low
+KFC,SPICY CRISPY CHICKEN Breast,Chicken Sandwich / Wrap,350,Low,220.8695652,Low,20,Low,3.5,Low,0,Low,100,Low,1100,Mid,11,Low,1,Low,0,Low,30,Mid,323.5,Low
+KFC,SPICY CRISPY CHICKEN Drumstick,Chicken Sandwich / Wrap,130,Low,220.8695652,Low,8,Low,1.5,Low,0,Low,40,Low,420,Low,5,Low,1,Low,0,Low,9,Low,122.5,Low
+KFC,SPICY CRISPY CHICKEN Thigh,Chicken Sandwich / Wrap,270,Low,220.8695652,Low,20,Low,3.5,Low,0,Low,65,Low,720,Low,10,Low,1,Low,0,Low,13,Low,260.5,Low
+KFC,SPICY CRISPY CHICKEN Whole Wing,Chicken Sandwich / Wrap,120,Low,220.8695652,Low,8,Low,1.5,Low,0,Low,35,Low,350,Low,5,Low,0,Low,0,Low,7,Low,114.5,Low
+KFC,EXTRA CRISPY Tender (each),Nuggets / Wings / Tenders,260,Low,232.2222222,Low,14,Low,2,Low,0,Low,50,Low,610,Low,15,Low,1,Low,0,Low,19,Low,243,Low
+KFC,EXTRA CRISPY Tender (each),Nuggets / Wings / Tenders,220,Low,232.2222222,Low,16,Low,2.5,Low,0,Low,25,Low,460,Low,9,Low,1,Low,0,Low,10,Low,212.5,Low
+KFC,KENTUCKY FRIED WINGS Buffalo,Nuggets / Wings / Tenders,100,Low,232.2222222,Low,7,Low,1.5,Low,0,Low,20,Low,310,Low,3,Low,0,Low,0,Low,5,Low,96.5,Low
+KFC,KENTUCKY FRIED WINGS Honey BBQ,Nuggets / Wings / Tenders,100,Low,232.2222222,Low,6,Low,1,Low,0,Low,20,Low,210,Low,8,Low,0,Low,4,Low,5,Low,100,Low
+KFC,KENTUCKY FRIED WINGS Nashville Hot,Nuggets / Wings / Tenders,130,Low,232.2222222,Low,11,Low,2,Low,0,Low,20,Low,230,Low,4,Low,0,Low,0,Low,5,Low,127,Low
+KFC,KENTUCKY FRIED WINGS Unsauced,Nuggets / Wings / Tenders,80,Low,232.2222222,Low,6,Low,1,Low,0,Low,20,Low,150,Low,3,Low,0,Low,0,Low,5,Low,76,Low
+KFC,POPCORN NUGGETS Kids,Nuggets / Wings / Tenders,290,Low,232.2222222,Low,19,Low,2.5,Low,0,Low,30,Low,870,Low,19,Low,1,Low,0,Low,13,Low,279.5,Low
+KFC,POPCORN NUGGETS Large,Nuggets / Wings / Tenders,620,Mid,232.2222222,Low,39,Mid,5,Low,0,Low,65,Low,1820,Mid,39,Low,2,Low,0,Low,27,Mid,598,Mid
+KFC,BBQ Baked Beans,Side,190,Low,128.6956522,Low,1,Low,0,Low,0,Low,0,Low,650,Low,34,Low,7,Low,15,Low,11,Low,194,Low
+KFC,Biscuit,Breakfast,180,Low,244.5762712,Low,8,Low,4.5,Low,0,Low,0,Low,520,Low,22,Low,1,Low,1,Low,4,Low,181.5,Low
+KFC,Coleslaw,Side,170,Low,128.6956522,Low,12,Low,2,Low,0,Low,5,Low,180,Low,14,Low,4,Low,10,Low,1,Low,181,Low
+KFC,Corn on the Cob,Side,70,Low,128.6956522,Low,0.5,Low,0,Low,0,Low,0,Low,0,Low,17,Low,2,Low,3,Low,2,Low,71,Low
+KFC,Green Beans,Side,25,Low,128.6956522,Low,0,Low,0,Low,0,Low,0,Low,300,Low,5,Low,3,Low,1,Low,1,Low,25,Low
+KFC,KFC® Cornbread Muffin,Side,210,Low,128.6956522,Low,9,Low,1.5,Low,0,Low,35,Low,240,Low,28,Low,1,Low,11,Low,3,Low,219.5,Low
+KFC,Macaroni & Cheese,Other,140,Low,53.84955752,Low,6,Low,1.5,Low,0,Low,5,Low,590,Low,17,Low,1,Low,2,Low,5,Low,138.5,Low
+KFC,Macaroni Salad,Salad,140,Low,53.75,Low,8,Low,1,Low,0,Low,15,Low,290,Low,14,Low,0,Low,9,Low,1,Low,149,Low
+KFC,Mashed Potatoes,Side,110,Low,128.6956522,Low,3.5,Low,0.5,Low,0,Low,0,Low,330,Low,17,Low,1,Low,0,Low,2,Low,108.5,Low
+KFC,Mashed Potatoes With Gravy,Side,130,Low,128.6956522,Low,4.5,Low,1,Low,0,Low,0,Low,520,Low,20,Low,1,Low,0,Low,3,Low,128,Low
+KFC,Potato Salad,Side,340,Low,128.6956522,Low,28,Low,4.5,Low,0,Low,25,Low,290,Low,19,Low,2,Low,3,Low,2,Low,345.5,Low
+KFC,Secret Recipe Fries,Side,320,Low,128.6956522,Low,15,Low,2,Low,0,Low,0,Low,1100,Mid,41,Low,3,Low,0,Low,5,Low,317,Low
+KFC,Sweet Kernel Corn,Side,70,Low,128.6956522,Low,0.5,Low,0,Low,0,Low,0,Low,0,Low,16,Low,2,Low,2,Low,2,Low,70,Low
+KFC,BBQ Baked Beans (Family),Side,830,High,128.6956522,Low,5,Low,1,Low,0,Low,0,Low,2810,High,148,Mid,31,High,63,Low,47,Mid,847,Mid
+KFC,Coleslaw (Family),Side,640,Mid,128.6956522,Low,46,Mid,7,Low,0,Low,15,Low,670,Low,54,Low,14,Mid,37,Low,4,Low,680,Mid
+KFC,Corn on the Cob (Family),Side,280,Low,128.6956522,Low,2,Low,0,Low,0,Low,0,Low,15,Low,67,Low,8,Low,11,Low,9,Low,282,Low
+KFC,Green Beans (Family),Side,80,Low,128.6956522,Low,0,Low,0,Low,0,Low,0,Low,930,Low,15,Low,9,Low,3,Low,4,Low,79,Low
+KFC,Macaroni & Cheese (Family),Other,540,Mid,53.84955752,Low,23,Low,6,Low,0,Low,10,Low,2220,High,66,Low,5,Low,8,Low,18,Low,536,Mid
+KFC,Macaroni Salad (Family),Salad,480,Mid,53.75,Low,28,Low,3.5,Low,0,Low,55,Low,990,Mid,50,Low,0,Low,30,Low,3,Low,510.5,Mid
+KFC,Mashed Potatoes (Family),Side,460,Mid,128.6956522,Low,15,Low,3,Low,0,Low,0,Low,1410,Mid,72,Low,6,Low,0,Low,9,Low,454,Mid
+KFC,Mashed Potatoes With Gravy (Family),Side,590,Mid,128.6956522,Low,21,Low,5,Low,0,Low,0,Low,2590,High,88,Low,6,Low,1,Low,12,Low,584,Mid
+KFC,Potato Salad (Family),Side,1200,High,128.6956522,Low,98,High,16,Mid,0,Low,80,Low,1010,Mid,65,Low,8,Low,12,Low,8,Low,1220,High
+KFC,Secret Recipe Fries (Family),Side,840,High,128.6956522,Low,40,Mid,5,Low,0,Low,0,Low,2890,High,108,Mid,9,Low,0,Low,13,Low,832,Mid
+KFC,Sweet Kernel Corn (Family),Side,280,Low,128.6956522,Low,2.5,Low,0,Low,0,Low,0,Low,10,Low,67,Low,7,Low,8,Low,10,Low,278,Low
+KFC,Chicken Littles,Other,300,Low,53.84955752,Low,15,Low,2.5,Low,0,Low,30,Low,620,Low,27,Low,1,Low,3,Low,14,Low,291.5,Low
+KFC,Chicken Littles – Buffalo,Other,310,Low,53.84955752,Low,17,Low,2.5,Low,0,Low,30,Low,790,Low,27,Low,1,Low,3,Low,14,Low,301.5,Low
+KFC,Chicken Littles – Honey BBQ,Other,320,Low,53.84955752,Low,15,Low,2.5,Low,0,Low,30,Low,680,Low,31,Low,1,Low,7,Low,14,Low,315.5,Low
+KFC,Chicken Littles – Nashville Hot,Other,340,Low,53.84955752,Low,19,Low,3,Low,0,Low,30,Low,680,Low,27,Low,1,Low,3,Low,14,Low,332,Low
+KFC,Classic Chicken Sandwich,Chicken Sandwich / Wrap,650,Mid,220.8695652,Low,35,Mid,4.5,Low,0,Low,90,Low,1260,Mid,49,Low,1,Low,6,Low,34,Mid,626.5,Mid
+KFC,Crispy Colonel’s Sandwich,Other,470,Mid,53.84955752,Low,24,Low,3.5,Low,0,Low,60,Low,1170,Mid,39,Low,1,Low,4,Low,24,Mid,453.5,Mid
+KFC,Crispy Colonel’s Sandwich – Buffalo,Other,500,Mid,53.84955752,Low,27,Low,4,Low,0,Low,60,Low,1500,Mid,39,Low,1,Low,4,Low,24,Mid,484,Mid
+KFC,Crispy Colonel’s Sandwich – Honey BBQ,Other,510,Mid,53.84955752,Low,25,Low,3.5,Low,0,Low,60,Low,1290,Mid,48,Low,1,Low,12,Low,24,Mid,501.5,Mid
+KFC,Crispy Colonel’s Sandwich – Nashville Hot,Other,540,Mid,53.84955752,Low,32,Low,4.5,Low,0,Low,60,Low,1290,Mid,40,Low,1,Low,5,Low,24,Mid,525.5,Mid
+KFC,Crispy Twister®,Chicken Sandwich / Wrap,630,Mid,220.8695652,Low,34,Mid,7,Low,0,Low,70,Low,1260,Mid,53,Low,4,Low,3,Low,28,Mid,612,Mid
+KFC,Honey BBQ Sandwich,Other,350,Low,53.84955752,Low,3.5,Low,0.5,Low,0,Low,55,Low,1350,Mid,55,Low,2,Low,22,Low,24,Mid,348.5,Low
+KFC,Spicy Chicken Sandwich,Chicken Sandwich / Wrap,620,Mid,220.8695652,Low,33,Mid,4,Low,0,Low,85,Low,2140,High,49,Low,1,Low,6,Low,34,Mid,596,Mid
+KFC,Chicken Pot Pie,Dessert,720,Mid,127.2972973,Low,41,Mid,25,High,0,Low,80,Low,1750,Mid,60,Low,7,Low,5,Low,26,Mid,724,Mid
+KFC,KFC® Famous Bowl,Bowl,740,Mid,173.3333333,Low,35,Mid,6,Low,0,Low,45,Low,2350,High,81,Low,6,Low,2,Low,26,Mid,722,Mid
+KFC,KFC® Famous Bowl – Snack Size,Bowl,270,Low,173.3333333,Low,14,Low,3.5,Low,0,Low,20,Low,850,Low,27,Low,2,Low,1,Low,11,Low,263.5,Low
+KFC,Caesar Side Salad,Side,40,Low,128.6956522,Low,2,Low,1,Low,0,Low,5,Low,90,Low,2,Low,1,Low,1,Low,3,Low,39,Low
+KFC,House Side Salad,Side,15,Low,128.6956522,Low,0,Low,0,Low,0,Low,0,Low,10,Low,3,Low,2,Low,2,Low,1,Low,16,Low
+KFC,Heinz Buttermilk Dressing,Drink,160,Low,73.02521008,Low,17,Low,2,Low,0,Low,10,Low,220,Low,1,Low,0,Low,1,Low,0,Low,163,Low
+KFC,Hidden Valley The Original Ranch Fat Free Dressing,Other,35,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,410,Low,8,Low,0,Low,2,Low,1,Low,36,Low
+KFC,KFC® Creamy Parmesan Caesar Dressing,Other,260,Low,53.84955752,Low,26,Low,5,Low,0,Low,15,Low,540,Low,4,Low,0,Low,2,Low,2,Low,265,Low
+KFC,Marzetti Light Italian Dressing,Other,15,Low,53.84955752,Low,0.5,Low,0,Low,0,Low,0,Low,510,Low,2,Low,0,Low,1,Low,0,Low,16,Low
+KFC,Parmesan Garlic Croutons,Side,60,Low,128.6956522,Low,3,Low,0,Low,0,Low,0,Low,135,Low,8,Low,1,Low,0,Low,2,Low,58,Low
+KFC,Apple Turnover,Other,230,Low,53.84955752,Low,10,Low,2.5,Low,0,Low,0,Low,140,Low,32,Low,1,Low,12,Low,2,Low,242.5,Low
+KFC,Café Valley Chocolate Chip Cake (1 Slice),Dessert,300,Low,127.2972973,Low,15,Low,3,Low,0,Low,50,Low,260,Low,39,Low,1,Low,27,Low,4,Low,326,Low
+KFC,Café Valley Lemon Cake (1 Slice),Dessert,220,Low,127.2972973,Low,10,Low,2,Low,0,Low,30,Low,170,Low,30,Low,0,Low,20,Low,2,Low,240,Low
+KFC,Café Valley Mini Chocolate Chip Cake,Dessert,300,Low,127.2972973,Low,12,Low,2.5,Low,0,Low,40,Low,190,Low,49,Low,1,Low,35,Low,3,Low,334.5,Low
+KFC,Café Valley Mini Lemon Cake,Dessert,300,Low,127.2972973,Low,13,Low,2.5,Low,0,Low,50,Low,230,Low,43,Low,0,Low,31,Low,3,Low,330.5,Low
+KFC,Chocolate Chip Cookie,Dessert,120,Low,127.2972973,Low,6,Low,3,Low,0,Low,5,Low,70,Low,18,Low,1,Low,12,Low,1,Low,134,Low
+KFC,Oreo Cookies and Crème Pie,Dessert,270,Low,127.2972973,Low,13,Low,8,Low,0,Low,5,Low,210,Low,35,Low,1,Low,24,Low,3,Low,299,Low
+KFC,Reese’s Peanut Butter Pie,Dessert,300,Low,127.2972973,Low,17,Low,9,Low,0,Low,5,Low,270,Low,33,Low,1,Low,22,Low,5,Low,326,Low
+KFC,BBQ – Dipping Sauce Cup,Condiment / Sauce,45,Low,35.2,Low,0,Low,0,Low,0,Low,0,Low,150,Low,11,Low,0,Low,11,Low,0,Low,56,Low
+KFC,Colonel’s Buttery Spread,Other,35,Low,53.84955752,Low,4,Low,1.5,Low,0,Low,0,Low,35,Low,0,Low,0,Low,0,Low,0,Low,36.5,Low
+KFC,Grape Jelly Packet,Condiment / Sauce,35,Low,35.2,Low,0,Low,0,Low,0,Low,0,Low,10,Low,9,Low,0,Low,7,Low,0,Low,42,Low
+KFC,Honey Mustard – Dipping Sauce Cup,Condiment / Sauce,110,Low,35.2,Low,9,Low,1.5,Low,0,Low,5,Low,120,Low,6,Low,0,Low,6,Low,0,Low,117.5,Low
+KFC,Honey Sauce Packet,Condiment / Sauce,30,Low,35.2,Low,0,Low,0,Low,0,Low,0,Low,0,Low,8,Low,0,Low,5,Low,0,Low,35,Low
+KFC,Ketchup,Condiment / Sauce,30,Low,35.2,Low,0,Low,0,Low,0,Low,0,Low,250,Low,8,Low,0,Low,6,Low,0,Low,36,Low
+KFC,KFC Sauce – Dipping Sauce Cup,Condiment / Sauce,90,Low,35.2,Low,8,Low,1.5,Low,0,Low,10,Low,170,Low,5,Low,0,Low,5,Low,0,Low,96.5,Low
+KFC,Lemon Juice Packet,Drink,5,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,20,Low,1,Low,0,Low,0,Low,0,Low,5,Low
+KFC,Ranch – Dipping Sauce Cup,Condiment / Sauce,130,Low,35.2,Low,14,Low,2.5,Low,0,Low,10,Low,240,Low,2,Low,0,Low,1,Low,0,Low,133.5,Low
+KFC,Strawberry Jam Packet,Condiment / Sauce,35,Low,35.2,Low,0,Low,0,Low,0,Low,0,Low,0,Low,9,Low,0,Low,6,Low,0,Low,41,Low
+KFC,Capri Sun® 100% Juice Fruit Punch,Drink,80,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,25,Low,21,Low,0,Low,20,Low,0,Low,100,Low
+KFC,Chocolate Milk 1%,Drink,150,Low,73.02521008,Low,2.5,Low,1.5,Low,0,Low,10,Low,170,Low,26,Low,0,Low,23,Low,7,Low,167.5,Low
+KFC,Milk 1%,Drink,90,Low,73.02521008,Low,2,Low,1.5,Low,0,Low,10,Low,105,Low,10,Low,0,Low,10,Low,7,Low,94.5,Low
+KFC,Musselman’s™ Applesauce,Condiment / Sauce,45,Low,35.2,Low,0,Low,0,Low,0,Low,0,Low,0,Low,12,Low,1,Low,8,Low,0,Low,53,Low
+KFC,7UP® (12 fl oz),Other,140,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,50,Low,35,Low,0,Low,35,Low,0,Low,175,Low
+KFC,7UP® (16 fl oz),Other,190,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,70,Low,46,Low,0,Low,46,Low,0,Low,236,Low
+KFC,7UP® (20 fl oz),Other,240,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,85,Low,58,Low,0,Low,58,Low,0,Low,298,Low
+KFC,7UP® (30 fl oz),Other,350,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,125,Low,87,Low,0,Low,87,Low,0,Low,437,Low
+KFC,Classic Lemonade (1/2 Gallon),Drink,880,High,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,780,Low,234,High,0,Low,228,High,0,Low,1108,High
+KFC,Classic Lemonade (20 fl oz),Drink,140,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,130,Low,39,Low,0,Low,38,Low,0,Low,178,Low
+KFC,Code Red Mountain Dew® (12 fl oz),Other,170,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,50,Low,46,Low,0,Low,46,Low,0,Low,216,Low
+KFC,Code Red Mountain Dew® (16 fl oz),Other,230,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,65,Low,62,Low,0,Low,62,Low,0,Low,292,Low
+KFC,Code Red Mountain Dew® (20 fl oz),Other,290,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,85,Low,77,Low,0,Low,77,Low,0,Low,367,Low
+KFC,Code Red Mountain Dew® (30 fl oz),Other,430,Mid,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,125,Low,116,Mid,0,Low,115,Mid,0,Low,545,Mid
+KFC,Diet Dr Pepper® (12 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,70,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Dr Pepper® (16 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,95,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Dr Pepper® (20 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,120,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Dr Pepper® (30 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,180,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Mist Twst® (12 fl oz),Other,0,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,35,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Mist Twst® (16 fl oz),Other,0,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,50,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Mist Twst® (20 fl oz),Other,0,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,60,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Mist Twst® (30 fl oz),Other,5,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,95,Low,0,Low,0,Low,0,Low,0,Low,5,Low
+KFC,Diet Mountain Dew® (12 fl oz),Other,0,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,55,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Mountain Dew® (16 fl oz),Other,5,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,75,Low,1,Low,0,Low,0,Low,0,Low,5,Low
+KFC,Diet Mountain Dew® (20 fl oz),Other,10,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,90,Low,1,Low,0,Low,1,Low,0,Low,11,Low
+KFC,Diet Mountain Dew® (30 fl oz),Other,10,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,140,Low,1,Low,0,Low,1,Low,0,Low,11,Low
+KFC,Diet Pepsi® (12 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,55,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Pepsi® (16 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,75,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Pepsi® (20 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,95,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Pepsi® (30 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,140,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Pepsi® Wild Cherry Pepsi® (12 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,35,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Pepsi® Wild Cherry Pepsi® (16 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,50,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Pepsi® Wild Cherry Pepsi® (20 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,60,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Diet Pepsi® Wild Cherry Pepsi® (30 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,95,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Dr Pepper® (12 fl oz),Drink,140,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,45,Low,39,Low,0,Low,38,Low,0,Low,178,Low
+KFC,Dr Pepper® (16 fl oz),Drink,190,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,60,Low,52,Low,0,Low,51,Low,0,Low,241,Low
+KFC,Dr Pepper® (20 fl oz),Drink,240,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,75,Low,65,Low,0,Low,64,Low,0,Low,304,Low
+KFC,Dr Pepper® (30 fl oz),Drink,360,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,110,Low,98,Mid,0,Low,96,Mid,0,Low,456,Mid
+KFC,Lipton® Brisk® Lemon Tea (12 fl oz),Drink,80,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,40,Low,22,Low,0,Low,22,Low,0,Low,102,Low
+KFC,Lipton® Brisk® Lemon Tea (16 fl oz),Drink,110,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,55,Low,29,Low,0,Low,29,Low,0,Low,139,Low
+KFC,Lipton® Brisk® Lemon Tea (20 fl oz),Drink,140,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,70,Low,36,Low,0,Low,36,Low,0,Low,176,Low
+KFC,Lipton® Brisk® Lemon Tea (30 fl oz),Drink,210,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,105,Low,55,Low,0,Low,54,Low,0,Low,264,Low
+KFC,Lipton® Brisk® No Calorie Peach Iced Green Tea (12 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,105,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Lipton® Brisk® No Calorie Peach Iced Green Tea (16 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,140,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Lipton® Brisk® No Calorie Peach Iced Green Tea (20 fl oz),Drink,5,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,180,Low,0,Low,0,Low,0,Low,0,Low,5,Low
+KFC,Lipton® Brisk® No Calorie Peach Iced Green Tea (30 fl oz),Drink,10,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,270,Low,0,Low,0,Low,0,Low,0,Low,10,Low
+KFC,Lipton® Brisk® Raspberry Tea (12 fl oz),Drink,80,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,45,Low,20,Low,0,Low,20,Low,0,Low,100,Low
+KFC,Lipton® Brisk® Raspberry Tea (16 fl oz),Drink,100,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,55,Low,26,Low,0,Low,26,Low,0,Low,126,Low
+KFC,Lipton® Brisk® Raspberry Tea (20 fl oz),Drink,130,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,70,Low,33,Low,0,Low,33,Low,0,Low,163,Low
+KFC,Lipton® Brisk® Raspberry Tea (30 fl oz),Drink,190,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,110,Low,49,Low,0,Low,49,Low,0,Low,239,Low
+KFC,Lipton® Brisk® Sweet Iced Tea (12 fl oz),Drink,80,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,45,Low,22,Low,0,Low,21,Low,0,Low,101,Low
+KFC,Lipton® Brisk® Sweet Iced Tea (16 fl oz),Drink,110,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,65,Low,29,Low,0,Low,29,Low,0,Low,139,Low
+KFC,Lipton® Brisk® Sweet Iced Tea (20 fl oz),Drink,130,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,80,Low,36,Low,0,Low,36,Low,0,Low,166,Low
+KFC,Lipton® Brisk® Sweet Iced Tea (30 fl oz),Drink,200,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,120,Low,54,Low,0,Low,54,Low,0,Low,254,Low
+KFC,Lipton® Brisk® Unsweetened No Lemon Iced Tea (12 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,45,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Lipton® Brisk® Unsweetened No Lemon Iced Tea (16 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,60,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Lipton® Brisk® Unsweetened No Lemon Iced Tea (20 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,75,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Lipton® Brisk® Unsweetened No Lemon Iced Tea (30 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,115,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Manzanita Sol® (12 fl oz),Other,160,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,35,Low,42,Low,0,Low,42,Low,0,Low,202,Low
+KFC,Manzanita Sol® (16 fl oz),Other,210,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,45,Low,57,Low,0,Low,57,Low,0,Low,267,Low
+KFC,Manzanita Sol® (20 fl oz),Other,260,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,55,Low,71,Low,0,Low,71,Low,0,Low,331,Low
+KFC,Manzanita Sol® (30 fl oz),Other,400,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,80,Low,106,Mid,0,Low,106,Mid,0,Low,506,Mid
+KFC,Miranda® Strawberry (12 fl oz),Other,160,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,70,Low,44,Low,0,Low,44,Low,0,Low,204,Low
+KFC,Miranda® Strawberry (16 fl oz),Other,220,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,95,Low,58,Low,0,Low,58,Low,0,Low,278,Low
+KFC,Miranda® Strawberry (20 fl oz),Other,270,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,120,Low,73,Low,0,Low,73,Low,0,Low,343,Low
+KFC,Miranda® Strawberry (30 fl oz),Other,410,Mid,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,180,Low,109,Mid,0,Low,109,Mid,0,Low,519,Mid
+KFC,Mist Twst® (12 fl oz),Other,150,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,35,Low,41,Low,0,Low,41,Low,0,Low,191,Low
+KFC,Mist Twst® (16 fl oz),Other,200,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,45,Low,54,Low,0,Low,54,Low,0,Low,254,Low
+KFC,Mist Twst® (20 fl oz),Other,260,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,55,Low,68,Low,0,Low,68,Low,0,Low,328,Low
+KFC,Mist Twst® (30 fl oz),Other,380,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,80,Low,101,Mid,0,Low,101,Mid,0,Low,481,Mid
+KFC,MNT DEW Sweet Lightning (20 fl oz),Other,120,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,190,Low,32,Low,0,Low,25,Low,0,Low,145,Low
+KFC,Mountain Dew® (12 fl oz),Other,160,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,50,Low,44,Low,0,Low,44,Low,0,Low,204,Low
+KFC,Mountain Dew® (16 fl oz),Other,220,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,70,Low,59,Low,0,Low,58,Low,0,Low,278,Low
+KFC,Mountain Dew® (20 fl oz),Other,270,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,85,Low,73,Low,0,Low,73,Low,0,Low,343,Low
+KFC,Mountain Dew® (30 fl oz),Other,410,Mid,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,125,Low,110,Mid,0,Low,109,Mid,0,Low,519,Mid
+KFC,Mug Root Beer® (12 fl oz),Drink,140,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,45,Low,39,Low,0,Low,39,Low,0,Low,179,Low
+KFC,Mug Root Beer® (16 fl oz),Drink,190,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,60,Low,52,Low,0,Low,52,Low,0,Low,242,Low
+KFC,Mug Root Beer® (20 fl oz),Drink,240,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,75,Low,65,Low,0,Low,65,Low,0,Low,305,Low
+KFC,Mug Root Beer® (30 fl oz),Drink,360,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,110,Low,98,Mid,0,Low,98,Mid,0,Low,458,Mid
+KFC,Pepsi Zero Sugar® (12 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,35,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Pepsi Zero Sugar® (16 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,50,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Pepsi Zero Sugar® (20 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,60,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Pepsi Zero Sugar® (30 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,95,Low,1,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Pepsi® (12 fl oz),Drink,150,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,30,Low,41,Low,0,Low,41,Low,0,Low,191,Low
+KFC,Pepsi® (16 fl oz),Drink,200,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,45,Low,55,Low,0,Low,55,Low,0,Low,255,Low
+KFC,Pepsi® (20 fl oz),Drink,250,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,55,Low,69,Low,0,Low,69,Low,0,Low,319,Low
+KFC,Pepsi® (30 fl oz),Drink,380,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,80,Low,104,Mid,0,Low,103,Mid,0,Low,483,Mid
+KFC,Sobe Lifewater Yumberry Pomegranate (12 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,45,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Sobe Lifewater Yumberry Pomegranate (16 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,65,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Sobe Lifewater Yumberry Pomegranate (20 fl oz),Drink,0,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,80,Low,0,Low,0,Low,0,Low,0,Low,0,Low
+KFC,Sobe Lifewater Yumberry Pomegranate (30 fl oz),Drink,5,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,120,Low,1,Low,0,Low,0,Low,0,Low,5,Low
+KFC,Strawberry Lemonade (1/2 Gallon),Drink,950,High,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,790,Low,270,High,0,Low,264,High,0,Low,1214,High
+KFC,Strawberry Lemonade (20 fl oz),Drink,170,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,130,Low,45,Low,0,Low,44,Low,0,Low,214,Low
+KFC,Tropicana® Fruit Punch (12 fl oz),Other,170,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,35,Low,45,Low,0,Low,45,Low,0,Low,215,Low
+KFC,Tropicana® Fruit Punch (16 fl oz),Other,230,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,45,Low,60,Low,0,Low,60,Low,0,Low,290,Low
+KFC,Tropicana® Fruit Punch (20 fl oz),Other,280,Low,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,60,Low,75,Low,0,Low,75,Low,0,Low,355,Low
+KFC,Tropicana® Fruit Punch (30 fl oz),Other,420,Mid,53.84955752,Low,0,Low,0,Low,0,Low,0,Low,90,Low,113,Mid,0,Low,112,Mid,0,Low,532,Mid
+KFC,Tropicana® Light Lemonade (12 fl oz),Drink,5,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,140,Low,0,Low,0,Low,0,Low,0,Low,5,Low
+KFC,Tropicana® Light Lemonade (16 fl oz),Drink,10,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,190,Low,0,Low,0,Low,0,Low,0,Low,10,Low
+KFC,Tropicana® Light Lemonade (20 fl oz),Drink,10,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,240,Low,0,Low,0,Low,0,Low,0,Low,10,Low
+KFC,Tropicana® Light Lemonade (30 fl oz),Drink,15,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,350,Low,1,Low,0,Low,0,Low,0,Low,15,Low
+KFC,Tropicana® Pink Lemonade (12 fl oz),Drink,150,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,160,Low,40,Low,0,Low,40,Low,0,Low,190,Low
+KFC,Tropicana® Pink Lemonade (16 fl oz),Drink,210,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,210,Low,53,Low,0,Low,53,Low,0,Low,263,Low
+KFC,Tropicana® Pink Lemonade (20 fl oz),Drink,260,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,260,Low,67,Low,0,Low,67,Low,0,Low,327,Low
+KFC,Tropicana® Pink Lemonade (30 fl oz),Drink,390,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,390,Low,100,Mid,0,Low,100,Mid,0,Low,490,Mid
+KFC,Tropicana® Twister® Orange (12 fl oz),Chicken Sandwich / Wrap,170,Low,220.8695652,Low,0,Low,0,Low,0,Low,0,Low,35,Low,46,Low,0,Low,46,Low,0,Low,216,Low
+KFC,Tropicana® Twister® Orange (16 fl oz),Chicken Sandwich / Wrap,230,Low,220.8695652,Low,0,Low,0,Low,0,Low,0,Low,50,Low,61,Low,0,Low,61,Low,0,Low,291,Low
+KFC,Tropicana® Twister® Orange (20 fl oz),Chicken Sandwich / Wrap,290,Low,220.8695652,Low,0,Low,0,Low,0,Low,0,Low,60,Low,76,Low,0,Low,76,Low,0,Low,366,Low
+KFC,Tropicana® Twister® Orange (30 fl oz),Chicken Sandwich / Wrap,430,Mid,220.8695652,Low,0,Low,0,Low,0,Low,0,Low,90,Low,115,Mid,0,Low,114,Mid,0,Low,544,Mid
+KFC,Wild Cherry Pepsi® (12 fl oz),Drink,160,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,30,Low,42,Low,0,Low,42,Low,0,Low,202,Low
+KFC,Wild Cherry Pepsi® (16 fl oz),Drink,210,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,40,Low,56,Low,0,Low,56,Low,0,Low,266,Low
+KFC,Wild Cherry Pepsi® (20 fl oz),Drink,260,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,50,Low,70,Low,0,Low,70,Low,0,Low,330,Low
+KFC,Wild Cherry Pepsi® (30 fl oz),Drink,390,Low,73.02521008,Low,0,Low,0,Low,0,Low,0,Low,80,Low,105,Mid,0,Low,105,Mid,0,Low,495,Mid
+KFC,Country Fried Steak without Peppered White Gravy,Drink,360,Low,73.02521008,Low,24,Low,7,Low,1,Low,35,Low,750,Low,22,Low,2,Low,0,Low,13,Low,354,Low
+KFC,Country Fried Steak with Peppered White Gravy,Drink,390,Low,73.02521008,Low,26,Low,7,Low,1,Low,35,Low,910,Low,26,Low,2,Low,0,Low,13,Low,384,Low
+KFC,KFC® Gizzards,Other,300,Low,53.84955752,Low,16,Low,2,Low,0,Low,210,Mid,770,Low,18,Low,1,Low,0,Low,20,Low,282,Low
+KFC,KFC® Livers,Other,230,Low,53.84955752,Low,13,Low,2.5,Low,0,Low,285,Mid,750,Low,12,Low,0,Low,0,Low,17,Low,215.5,Low
+Taco Bell,Bacon Club Chalupa,Chicken Sandwich / Wrap,440,Mid,240,Low,27,Low,5,Low,0,Low,50,Low,840,Low,31,Low,2,Low,3,Low,20,Low,394.1323529,Low
+Taco Bell,Blue Raspberry Freeze™ (16 oz),Other,120,Low,0,Low,0,Low,0,Low,0,Low,0,Low,35,Low,30,Low,0,Low,30,Low,0,Low,267.3056537,Low
+Taco Bell,Blue Raspberry Freeze™ (20 oz),Other,150,Low,0,Low,0,Low,0,Low,0,Low,0,Low,40,Low,38,Low,0,Low,38,Low,0,Low,267.3056537,Low
+Taco Bell,Loaded Nacho Taco,Taco,250,Low,110,Low,12,Low,4.5,Low,0,Low,25,Low,610,Low,24,Low,3,Low,2,Low,10,Low,169,Low
+Taco Bell,Midnight Berry Freeze™ (16 oz),Other,140,Low,0,Low,0,Low,0,Low,0,Low,0,Low,35,Low,35,Low,0,Low,34,Low,0,Low,267.3056537,Low
+Taco Bell,Midnight Berry Freeze™ (20 oz),Other,170,Low,0,Low,0,Low,0,Low,0,Low,0,Low,40,Low,43,Low,0,Low,42,Low,0,Low,267.3056537,Low
+Taco Bell,Nacho Fries,Side,320,Low,160,Low,18,Low,1.5,Low,0,Low,5,Low,630,Low,35,Low,4,Low,2,Low,4,Low,312.4150943,Low
+Taco Bell,Nacho Fries BellGrande®,Side,710,Mid,360,Mid,40,Mid,6,Low,0,Low,30,Low,1440,Mid,73,Low,10,Low,4,Low,13,Low,312.4150943,Low
+Taco Bell,Black Bean Chalupa – Online Exclusive,Other,330,Low,140,Low,15,Low,3,Low,0,Low,10,Low,430,Low,39,Low,5,Low,3,Low,10,Low,267.3056537,Low
+Taco Bell,Black Bean Quesarito – Online Exclusive,Burrito,630,Mid,270,Mid,29,Low,10,Low,0,Low,35,Low,1260,Mid,73,Low,7,Low,5,Low,19,Low,449,Mid
+Taco Bell,Quesarito – Online Exclusive,Burrito,650,Mid,300,Mid,33,Mid,12,Mid,0.5,Low,55,Low,1390,Mid,67,Low,6,Low,5,Low,22,Low,449,Mid
+Taco Bell,Chalupa Supreme® – Beef,Other,350,Low,170,Low,18,Low,5,Low,0,Low,25,Low,560,Low,33,Low,4,Low,3,Low,13,Low,267.3056537,Low
+Taco Bell,Chalupa Supreme® – Chicken,Other,330,Low,140,Low,15,Low,3.5,Low,0,Low,35,Low,560,Low,31,Low,2,Low,3,Low,16,Low,267.3056537,Low
+Taco Bell,Chalupa Supreme® – Steak,Drink,330,Low,140,Low,16,Low,4,Low,0,Low,30,Low,530,Low,32,Low,2,Low,3,Low,15,Low,270.4483471,Low
+Taco Bell,Cheesy Gordita Crunch,Other,500,Mid,250,Low,28,Low,10,Low,0.5,Low,55,Low,850,Low,41,Low,5,Low,4,Low,20,Low,267.3056537,Low
+Taco Bell,Crunchy Taco,Taco,170,Low,80,Low,9,Low,3.5,Low,0,Low,25,Low,310,Low,13,Low,3,Low,1,Low,8,Low,169,Low
+Taco Bell,Crunchy Taco Supreme®,Taco,190,Low,100,Low,11,Low,4.5,Low,0,Low,25,Low,340,Low,15,Low,3,Low,2,Low,8,Low,169,Low
+Taco Bell,Loaded Nacho Taco (New),Taco,250,Low,110,Low,12,Low,4.5,Low,0,Low,25,Low,610,Low,24,Low,3,Low,2,Low,10,Low,169,Low
+Taco Bell,Nacho Cheese Doritos® Locos Taco,Taco,170,Low,80,Low,9,Low,3.5,Low,0,Low,25,Low,360,Low,13,Low,3,Low,1,Low,8,Low,169,Low
+Taco Bell,Nacho Cheese Doritos® Locos Taco Supreme®,Taco,190,Low,100,Low,11,Low,4.5,Low,0,Low,30,Low,380,Low,15,Low,3,Low,2,Low,8,Low,169,Low
+Taco Bell,Soft Taco – Beef,Taco,180,Low,80,Low,9,Low,4,Low,0,Low,25,Low,500,Low,17,Low,3,Low,1,Low,9,Low,169,Low
+Taco Bell,Soft Taco – Chicken,Taco,160,Low,50,Low,5,Low,2.5,Low,0,Low,30,Low,500,Low,16,Low,1,Low,1,Low,12,Low,169,Low
+Taco Bell,Soft Taco Supreme®,Taco,193.75,Low,86.25,Low,9.5625,Low,3.96875,Low,0,Low,25.3125,Low,460,Low,17.5625,Low,2.75,Low,1.5,Low,9.125,Low,169,Low
+Taco Bell,Soft Taco – Beef,Taco,210,Low,90,Low,10,Low,5,Low,0,Low,25,Low,520,Low,20,Low,3,Low,2,Low,10,Low,169,Low
+Taco Bell,Soft Taco – Chicken,Taco,180,Low,60,Low,7,Low,3.5,Low,0,Low,35,Low,520,Low,18,Low,2,Low,2,Low,13,Low,169,Low
+Taco Bell,Bean Burrito (V),Burrito,350,Low,80,Low,9,Low,3.5,Low,0,Low,5,Low,1000,Mid,54,Low,11,Mid,3,Low,13,Low,449,Mid
+Taco Bell,Beefy 5-Layer Burrito,Burrito,490,Mid,160,Low,18,Low,7,Low,0,Low,30,Low,1250,Mid,63,Low,9,Low,5,Low,18,Low,449,Mid
+Taco Bell,Burrito Supreme® – Beef,Burrito,390,Low,130,Low,14,Low,6,Low,0,Low,25,Low,1110,Mid,51,Low,9,Low,4,Low,16,Low,449,Mid
+Taco Bell,Burrito Supreme® – Chicken,Burrito,370,Low,100,Low,11,Low,4.5,Low,0,Low,35,Low,1110,Mid,49,Low,8,Low,4,Low,19,Low,449,Mid
+Taco Bell,Burrito Supreme® – Steak,Burrito,370,Low,110,Low,12,Low,5,Low,0,Low,30,Low,1090,Mid,49,Low,7,Low,4,Low,18,Low,449,Mid
+Taco Bell,Chili Cheese Burrito (regional),Burrito,370,Low,150,Low,17,Low,8,Low,0,Low,35,Low,970,Mid,40,Low,4,Low,2,Low,16,Low,449,Mid
+Taco Bell,Quesarito – Beef,Burrito,650,Mid,300,Mid,33,Mid,12,Mid,0.5,Low,55,Low,1390,Mid,67,Low,6,Low,5,Low,22,Low,449,Mid
+Taco Bell,Quesarito – Chicken,Burrito,620,Mid,270,Mid,29,Low,11,Low,0,Low,65,Low,1390,Mid,66,Low,4,Low,4,Low,25,Mid,449,Mid
+Taco Bell,Quesarito – Steak,Burrito,630,Mid,270,Mid,30,Low,11,Low,0,Low,60,Low,1370,Mid,66,Low,4,Low,4,Low,24,Mid,449,Mid
+Taco Bell,Chips and Nacho Cheese Sauce (V),Nachos,220,Low,120,Low,13,Low,1.5,Low,0,Low,5,Low,250,Low,24,Low,2,Low,2,Low,2,Low,295.8611194,Low
+Taco Bell,Nacho Fries (V) (New),Side,320,Low,160,Low,18,Low,1.5,Low,0,Low,5,Low,630,Low,35,Low,4,Low,2,Low,4,Low,312.4150943,Low
+Taco Bell,Nacho Fries BellGrande® (New),Side,710,Mid,360,Mid,40,Mid,6,Low,0,Low,30,Low,1440,Mid,73,Low,10,Low,4,Low,13,Low,312.4150943,Low
+Taco Bell,Nachos BellGrande® – Beef,Nachos,740,Mid,340,Mid,38,Mid,7,Low,0,Low,25,Low,1050,Mid,82,Low,15,Mid,5,Low,16,Low,295.8611194,Low
+Taco Bell,Nachos BellGrande® – Chicken,Nachos,720,Mid,310,Mid,35,Mid,6,Low,0,Low,35,Low,1050,Mid,81,Low,14,Mid,5,Low,20,Low,295.8611194,Low
+Taco Bell,Nachos BellGrande® – Steak,Nachos,720,Mid,320,Mid,36,Mid,6,Low,0,Low,30,Low,1030,Mid,81,Low,14,Mid,5,Low,19,Low,295.8611194,Low
+Taco Bell,Beef Quesarito,Burrito,650,Mid,300,Mid,33,Mid,12,Mid,0.5,Low,55,Low,1390,Mid,67,Low,6,Low,5,Low,22,Low,449,Mid
+Taco Bell,Black Bean Quesarito (V),Burrito,630,Mid,270,Mid,29,Low,10,Low,0,Low,35,Low,1260,Mid,73,Low,7,Low,5,Low,19,Low,449,Mid
+Taco Bell,Quesadilla – Cheese (V),Other,470,Mid,230,Low,25,Low,12,Mid,0.5,Low,50,Low,990,Mid,37,Low,4,Low,2,Low,19,Low,267.3056537,Low
+Taco Bell,Quesadilla – Chicken,Other,510,Mid,240,Low,26,Low,12,Mid,0.5,Low,75,Low,1250,Mid,38,Low,4,Low,2,Low,27,Mid,267.3056537,Low
+Taco Bell,Quesadilla – Steak,Drink,520,Mid,240,Low,27,Low,12,Mid,0.5,Low,70,Low,1230,Mid,38,Low,4,Low,2,Low,27,Mid,270.4483471,Low
+Taco Bell,Bacon Club Chalupa – Specialties,Chicken Sandwich / Wrap,440,Mid,240,Low,27,Low,5,Low,0,Low,50,Low,840,Low,31,Low,2,Low,3,Low,20,Low,394.1323529,Low
+Taco Bell,Black Bean Chalupa – Specialties,Other,330,Low,140,Low,15,Low,3,Low,0,Low,10,Low,430,Low,39,Low,5,Low,3,Low,10,Low,267.3056537,Low
+Taco Bell,Black Bean Crunchwrap Supreme – Specialties,Chicken Sandwich / Wrap,510,Mid,160,Low,17,Low,4.5,Low,0,Low,5,Low,1080,Mid,77,Low,8,Low,6,Low,13,Low,394.1323529,Low
+Taco Bell,Black Bean Quesarito – Specialties,Burrito,630,Mid,270,Mid,29,Low,10,Low,0,Low,35,Low,1260,Mid,73,Low,7,Low,5,Low,19,Low,449,Mid
+Taco Bell,Chalupa Supreme® – Specialties,Other,350,Low,170,Low,18,Low,5,Low,0,Low,25,Low,560,Low,33,Low,4,Low,3,Low,13,Low,267.3056537,Low
+Taco Bell,Cheesy Gordita Crunch – Specialties,Other,500,Mid,250,Low,28,Low,10,Low,0.5,Low,55,Low,850,Low,41,Low,5,Low,4,Low,20,Low,267.3056537,Low
+Taco Bell,Cheesy Roll Up – Specialties,Other,180,Low,80,Low,9,Low,5,Low,0,Low,20,Low,430,Low,15,Low,2,Low,1,Low,9,Low,267.3056537,Low
+Taco Bell,Crunchwrap Supreme® – Specialties,Chicken Sandwich / Wrap,530,Mid,190,Low,21,Low,6,Low,0,Low,25,Low,1200,Mid,71,Low,6,Low,6,Low,16,Low,394.1323529,Low
+Taco Bell,Crunchy Taco – Specialties,Taco,170,Low,80,Low,9,Low,3.5,Low,0,Low,25,Low,310,Low,13,Low,3,Low,1,Low,8,Low,169,Low
+Taco Bell,Nacho Cheese Doritos® Locos Taco – Specialties,Taco,170,Low,80,Low,9,Low,3.5,Low,0,Low,25,Low,360,Low,13,Low,3,Low,1,Low,8,Low,169,Low
+Taco Bell,Nachos BellGrande® – Specialties,Nachos,740,Mid,340,Mid,38,Mid,7,Low,0,Low,25,Low,1050,Mid,82,Low,15,Mid,5,Low,16,Low,295.8611194,Low
+Taco Bell,Power Menu Bowl – Specialties,Bowl,470,Mid,170,Low,19,Low,6,Low,0,Low,70,Low,1200,Mid,50,Low,7,Low,2,Low,26,Mid,477.1666667,Mid
+Taco Bell,Quesadilla – Specialties,Other,510,Mid,240,Low,26,Low,12,Mid,0.5,Low,75,Low,1250,Mid,38,Low,4,Low,2,Low,27,Mid,267.3056537,Low
+Taco Bell,Quesarito – Specialties,Burrito,650,Mid,300,Mid,33,Mid,12,Mid,0.5,Low,55,Low,1390,Mid,67,Low,6,Low,5,Low,22,Low,449,Mid
+Taco Bell,Soft Taco – Specialties,Taco,180,Low,80,Low,9,Low,4,Low,0,Low,25,Low,500,Low,17,Low,3,Low,1,Low,9,Low,169,Low
+Taco Bell,Soft Taco Supreme – Specialties,Taco,210,Low,90,Low,10,Low,5,Low,0,Low,25,Low,520,Low,20,Low,3,Low,2,Low,10,Low,169,Low
+Taco Bell,Veggie Power Menu Bowl – Specialties,Breakfast,430,Mid,160,Low,17,Low,5,Low,0,Low,20,Low,810,Low,57,Low,10,Low,2,Low,12,Low,510.8305085,Mid
+Taco Bell,Black Beans & Rice (V),Side,170,Low,30,Low,3.5,Low,0,Low,0,Low,0,Low,320,Low,31,Low,4,Low,0,Low,4,Low,312.4150943,Low
+Taco Bell,Black Beans (V),Side,50,Low,10,Low,1,Low,0,Low,0,Low,0,Low,135,Low,8,Low,3,Low,0,Low,2,Low,312.4150943,Low
+Taco Bell,Cinnabon® Delights™ (2 Pk) (V),Dessert,160,Low,80,Low,9,Low,2,Low,0,Low,5,Low,80,Low,17,Low,0,Low,10,Low,2,Low,349.0744681,Low
+Taco Bell,Cinnabon® Delights™ (12 Pk – Serves 4) (V),Dessert,930,High,480,Mid,53,Mid,13,Mid,2,Mid,40,Low,480,Low,104,Mid,3,Low,59,Low,9,Low,349.0744681,Low
+Taco Bell,Cinnamon Twists (V),Dessert,170,Low,50,Low,6,Low,0,Low,0,Low,0,Low,210,Low,27,Low,1,Low,13,Low,1,Low,349.0744681,Low
+Taco Bell,Diablo Sauce Packet (V),Condiment / Sauce,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,30,Low,0,Low,0,Low,0,Low,0,Low,77.20967742,Low
+Taco Bell,Fire Sauce Packet (V),Condiment / Sauce,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,55,Low,0,Low,0,Low,0,Low,0,Low,77.20967742,Low
+Taco Bell,Hot Sauce Packet (V),Condiment / Sauce,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,45,Low,0,Low,0,Low,0,Low,0,Low,77.20967742,Low
+Taco Bell,Mild Sauce Packet (V),Condiment / Sauce,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,30,Low,0,Low,0,Low,0,Low,0,Low,77.20967742,Low
+Taco Bell,Blue Raspberry Freeze™ (16 oz) (New),Other,120,Low,0,Low,0,Low,0,Low,0,Low,0,Low,35,Low,30,Low,0,Low,30,Low,0,Low,267.3056537,Low
+Taco Bell,Blue Raspberry Freeze™ (20 oz) (New),Other,150,Low,0,Low,0,Low,0,Low,0,Low,0,Low,40,Low,38,Low,0,Low,38,Low,0,Low,267.3056537,Low
+Taco Bell,Dragon Fruit Freeze (16 oz),Other,190,Low,0,Low,0,Low,0,Low,0,Low,0,Low,50,Low,49,Low,0,Low,47,Low,0,Low,267.3056537,Low
+Taco Bell,Dragon Fruit Freeze (20 oz),Other,230,Low,0,Low,0,Low,0,Low,0,Low,0,Low,60,Low,59,Low,0,Low,57,Low,0,Low,267.3056537,Low
+Taco Bell,Lowfat Milk – CA (Regional),Drink,100,Low,20,Low,2,Low,1.5,Low,0,Low,10,Low,130,Low,13,Low,0,Low,12,Low,9,Low,270.4483471,Low
+Taco Bell,Lowfat Milk – Federal (Regional),Drink,80,Low,20,Low,2,Low,1.5,Low,0,Low,10,Low,100,Low,10,Low,0,Low,9,Low,7,Low,270.4483471,Low
+Taco Bell,Midnight Berry Freeze™ (16 oz) (New),Other,140,Low,0,Low,0,Low,0,Low,0,Low,0,Low,35,Low,35,Low,0,Low,34,Low,0,Low,267.3056537,Low
+Taco Bell,Midnight Berry Freeze™ (20 oz) (New),Other,170,Low,0,Low,0,Low,0,Low,0,Low,0,Low,40,Low,43,Low,0,Low,42,Low,0,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Baja Blast Freeze™ (16 oz),Other,150,Low,0,Low,0,Low,0,Low,0,Low,0,Low,45,Low,41,Low,0,Low,41,Low,0,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Baja Blast Freeze™ (20 oz),Other,190,Low,0,Low,0,Low,0,Low,0,Low,0,Low,55,Low,51,Low,0,Low,51,Low,0,Low,267.3056537,Low
+Taco Bell,Orange Juice,Drink,140,Low,0,Low,0,Low,0,Low,0,Low,0,Low,20,Low,33,Low,1,Low,28,Low,2,Low,270.4483471,Low
+Taco Bell,Premium Hot Coffee,Drink,10,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,2,Low,270.4483471,Low
+Taco Bell,Regular Iced Coffee,Drink,10,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,2,Low,270.4483471,Low
+Taco Bell,Water,Drink,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,270.4483471,Low
+Taco Bell,Wild Strawberry Freeze™ (16 oz),Other,150,Low,0,Low,0,Low,0,Low,0,Low,0,Low,40,Low,41,Low,0,Low,41,Low,0,Low,267.3056537,Low
+Taco Bell,Wild Strawberry Freeze™ (20 oz),Other,190,Low,0,Low,0,Low,0,Low,0,Low,0,Low,55,Low,51,Low,0,Low,51,Low,0,Low,267.3056537,Low
+Taco Bell,Beef Burrito – Value Menu,Burrito,430,Mid,170,Low,19,Low,5,Low,0,Low,20,Low,970,Mid,51,Low,4,Low,3,Low,12,Low,449,Mid
+Taco Bell,Cheesy Bean & Rice Burrito – Value Menu,Burrito,420,Mid,140,Low,16,Low,4,Low,0,Low,5,Low,880,Low,56,Low,7,Low,3,Low,10,Low,449,Mid
+Taco Bell,Cheesy Roll Up – Value Menu,Other,180,Low,80,Low,9,Low,5,Low,0,Low,20,Low,430,Low,15,Low,2,Low,1,Low,9,Low,267.3056537,Low
+Taco Bell,Chicken Chipotle Melt – Value Menu,Other,190,Low,80,Low,9,Low,3,Low,0,Low,35,Low,530,Low,15,Low,1,Low,1,Low,12,Low,267.3056537,Low
+Taco Bell,Chips and Nacho Cheese Sauce – Value Menu,Nachos,220,Low,120,Low,13,Low,1.5,Low,0,Low,5,Low,250,Low,24,Low,2,Low,2,Low,2,Low,295.8611194,Low
+Taco Bell,Cinnamon Twists – Value Menu,Dessert,170,Low,50,Low,6,Low,0,Low,0,Low,0,Low,210,Low,27,Low,1,Low,13,Low,1,Low,349.0744681,Low
+Taco Bell,Loaded Nacho Taco – Value Menu,Taco,250,Low,110,Low,12,Low,4.5,Low,0,Low,25,Low,610,Low,24,Low,3,Low,2,Low,10,Low,169,Low
+Taco Bell,Bean Burrito,Burrito,350,Low,80,Low,9,Low,3.5,Low,0,Low,5,Low,1000,Mid,54,Low,11,Mid,3,Low,13,Low,449,Mid
+Taco Bell,Black Bean Chalupa,Other,330,Low,140,Low,15,Low,3,Low,0,Low,10,Low,430,Low,39,Low,5,Low,3,Low,10,Low,267.3056537,Low
+Taco Bell,Black Bean Crunchwrap Supreme,Chicken Sandwich / Wrap,510,Mid,160,Low,17,Low,4.5,Low,0,Low,5,Low,1080,Mid,77,Low,8,Low,6,Low,13,Low,394.1323529,Low
+Taco Bell,Black Bean Quesarito,Burrito,630,Mid,270,Mid,29,Low,10,Low,0,Low,35,Low,1260,Mid,73,Low,7,Low,5,Low,19,Low,449,Mid
+Taco Bell,Black Beans & Rice,Side,170,Low,30,Low,3.5,Low,0,Low,0,Low,0,Low,320,Low,31,Low,4,Low,0,Low,4,Low,312.4150943,Low
+Taco Bell,Cheese Quesadilla,Other,470,Mid,230,Low,25,Low,12,Mid,0.5,Low,50,Low,990,Mid,37,Low,4,Low,2,Low,19,Low,267.3056537,Low
+Taco Bell,Cheesy Bean & Rice Burrito,Burrito,420,Mid,140,Low,16,Low,4,Low,0,Low,5,Low,880,Low,56,Low,7,Low,3,Low,10,Low,449,Mid
+Taco Bell,Cheesy Roll Up,Other,180,Low,80,Low,9,Low,5,Low,0,Low,20,Low,430,Low,15,Low,2,Low,1,Low,9,Low,267.3056537,Low
+Taco Bell,Chips and Nacho Cheese Sauce,Nachos,220,Low,120,Low,13,Low,1.5,Low,0,Low,5,Low,250,Low,24,Low,2,Low,2,Low,2,Low,295.8611194,Low
+Taco Bell,Cinnabon® Delights™ (2 Pack),Dessert,160,Low,80,Low,9,Low,2,Low,0,Low,5,Low,80,Low,17,Low,0,Low,10,Low,2,Low,349.0744681,Low
+Taco Bell,Cinnabon® Delights™ (12 Pack – Serves 4),Dessert,930,High,480,Mid,53,Mid,13,Mid,2,Mid,40,Low,480,Low,104,Mid,3,Low,59,Low,9,Low,349.0744681,Low
+Taco Bell,Cinnamon Twists,Dessert,170,Low,50,Low,6,Low,0,Low,0,Low,0,Low,210,Low,27,Low,1,Low,13,Low,1,Low,349.0744681,Low
+Taco Bell,Hash Brown,Breakfast,160,Low,100,Low,12,Low,1,Low,0,Low,0,Low,270,Low,13,Low,2,Low,0,Low,1,Low,510.8305085,Mid
+Taco Bell,Power Menu Bowl – Veggie,Breakfast,430,Mid,160,Low,17,Low,5,Low,0,Low,20,Low,810,Low,57,Low,10,Low,2,Low,12,Low,510.8305085,Mid
+Taco Bell,Power Menu Bowl – Chicken,Bowl,470,Mid,170,Low,19,Low,6,Low,0,Low,70,Low,1200,Mid,50,Low,7,Low,2,Low,26,Mid,477.1666667,Mid
+Taco Bell,Power Menu Bowl – Steak,Bowl,480,Mid,180,Low,20,Low,7,Low,0,Low,60,Low,1150,Mid,51,Low,7,Low,2,Low,25,Mid,477.1666667,Mid
+Taco Bell,Power Menu Bowl – Veggie (V),Breakfast,430,Mid,160,Low,17,Low,5,Low,0,Low,20,Low,810,Low,57,Low,10,Low,2,Low,12,Low,510.8305085,Mid
+Taco Bell,Breakfast Crunchwrap – Bacon,Chicken Sandwich / Wrap,670,Mid,370,Mid,41,Mid,12,Mid,0,Low,140,Low,1270,Mid,50,Low,4,Low,3,Low,21,Low,394.1323529,Low
+Taco Bell,Breakfast Crunchwrap – Sausage,Chicken Sandwich / Wrap,720,Mid,430,Mid,47,Mid,15,Mid,0,Low,145,Low,1210,Mid,51,Low,4,Low,3,Low,21,Low,394.1323529,Low
+Taco Bell,Breakfast Crunchwrap – Steak,Chicken Sandwich / Wrap,660,Mid,350,Mid,38,Mid,12,Mid,0,Low,145,Low,1300,Mid,51,Low,4,Low,3,Low,24,Mid,394.1323529,Low
+Taco Bell,Breakfast Salsa Packet (V),Breakfast,0,Low,0,Low,0,Low,0,Low,0,Low,0,Low,50,Low,1,Low,0,Low,0,Low,0,Low,510.8305085,Mid
+Taco Bell,Cheesy Toasted Breakfast Burrito – Bacon,Breakfast,350,Low,150,Low,16,Low,4.5,Low,0,Low,115,Low,870,Low,36,Low,2,Low,3,Low,13,Low,510.8305085,Mid
+Taco Bell,Cheesy Toasted Breakfast Burrito – Fiesta Potato (V),Breakfast,340,Low,130,Low,14,Low,3.5,Low,0,Low,100,Low,750,Low,43,Low,3,Low,3,Low,10,Low,510.8305085,Mid
+Taco Bell,Cheesy Toasted Breakfast Burrito – Sausage,Breakfast,340,Low,160,Low,17,Low,5,Low,0,Low,110,Low,730,Low,36,Low,2,Low,3,Low,11,Low,510.8305085,Mid
+Taco Bell,Cinnabon® Delights™ (2 Pack) (V),Dessert,160,Low,80,Low,9,Low,2,Low,0,Low,5,Low,80,Low,17,Low,0,Low,10,Low,2,Low,349.0744681,Low
+Taco Bell,Cinnabon® Delights™ (12 Pack – Serves 4) (V),Dessert,930,High,480,Mid,53,Mid,13,Mid,2,Mid,40,Low,480,Low,104,Mid,3,Low,59,Low,9,Low,349.0744681,Low
+Taco Bell,Grande Toasted Breakfast Burrito – Bacon,Breakfast,560,Mid,270,Mid,30,Low,10,Low,0,Low,230,Mid,1290,Mid,49,Low,4,Low,3,Low,24,Mid,510.8305085,Mid
+Taco Bell,Grande Toasted Breakfast Burrito – Sausage,Breakfast,560,Mid,280,Mid,31,Low,10,Low,0,Low,230,Mid,1150,Mid,49,Low,4,Low,3,Low,22,Low,510.8305085,Mid
+Taco Bell,Grande Toasted Breakfast Burrito – Steak,Breakfast,560,Mid,250,Low,28,Low,9,Low,0,Low,240,Mid,1310,Mid,50,Low,4,Low,3,Low,27,Mid,510.8305085,Mid
+Taco Bell,Hash Brown (V),Breakfast,160,Low,100,Low,12,Low,1,Low,0,Low,0,Low,270,Low,13,Low,2,Low,0,Low,1,Low,510.8305085,Mid
+Taco Bell,Hash Brown Toasted Breakfast Burrito – Bacon,Breakfast,570,Mid,300,Mid,33,Mid,10,Low,0,Low,135,Low,1270,Mid,49,Low,4,Low,2,Low,21,Low,510.8305085,Mid
+Taco Bell,Hash Brown Toasted Breakfast Burrito – Sausage,Breakfast,570,Mid,300,Mid,34,Mid,10,Low,0,Low,130,Low,1130,Mid,49,Low,4,Low,2,Low,18,Low,510.8305085,Mid
+Taco Bell,Hash Brown Toasted Breakfast Burrito – Steak,Breakfast,570,Mid,270,Mid,30,Low,9,Low,0,Low,140,Low,1290,Mid,50,Low,4,Low,2,Low,24,Mid,510.8305085,Mid
+Taco Bell,7-Up (16 fl oz),Other,190,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,70,Low,46,Low,40.26517572,Low,0.533546326,Low,46,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Brisk® Mango Iced Tea (16 fl oz),Drink,100,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,50,Low,26,Low,44.852,Low,0.224,Low,26,Low,3.252,Low,270.4483471,Low
+Taco Bell,Brisk® Unsweetened No Lemon Iced Tea (16 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,60,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Diet Dr Pepper® (16 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,95,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Diet Mtn Dew® (16 fl oz),Other,5,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,75,Low,1,Low,40.26517572,Low,0.533546326,Low,1,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Diet Pepsi® (16 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,75,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Dr Pepper® (16 fl oz),Drink,190,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,60,Low,52,Low,44.852,Low,0.224,Low,51,Low,3.252,Low,270.4483471,Low
+Taco Bell,G2 – Fruit Punch (16 fl oz),Other,30,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,140,Low,7,Low,40.26517572,Low,0.533546326,Low,6,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® (16 fl oz),Other,220,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,70,Low,59,Low,40.26517572,Low,0.533546326,Low,58,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Baja Blast™ (16 fl oz),Other,220,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,65,Low,59,Low,40.26517572,Low,0.533546326,Low,59,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Baja Blast Zero Sugar (16 fl oz),Other,5,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,70,Low,0,Low,40.26517572,Low,0.533546326,Low,0,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Kickstart™ Orange Citrus (16 fl oz),Other,70,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,75,Low,18,Low,40.26517572,Low,0.533546326,Low,18,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mug® Root Beer (16 fl oz),Drink,190,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,60,Low,52,Low,44.852,Low,0.224,Low,52,Low,3.252,Low,270.4483471,Low
+Taco Bell,Pepsi® (16 fl oz),Drink,200,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,45,Low,55,Low,44.852,Low,0.224,Low,55,Low,3.252,Low,270.4483471,Low
+Taco Bell,Pepsi® Wild Cherry (16 fl oz),Drink,210,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,40,Low,56,Low,44.852,Low,0.224,Low,56,Low,3.252,Low,270.4483471,Low
+Taco Bell,Pepsi® Zero Sugar (16 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,85,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Sierra Mist® (16 fl oz),Other,200,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,45,Low,54,Low,40.26517572,Low,0.533546326,Low,54,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Tropicana® Pink Lemonade (16 fl oz),Drink,210,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,210,Mid,53,Low,44.852,Low,0.224,Low,53,Low,3.252,Low,270.4483471,Low
+Taco Bell,7-Up (20 fl oz),Other,240,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,85,Low,58,Low,40.26517572,Low,0.533546326,Low,58,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Brisk® Mango Iced Tea (20 fl oz),Drink,120,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,60,Low,32,Low,44.852,Low,0.224,Low,32,Low,3.252,Low,270.4483471,Low
+Taco Bell,Brisk® Unsweetened No Lemon Iced Tea (20 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,75,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Diet Dr Pepper® (20 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,120,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Diet Mtn Dew® (20 fl oz),Other,10,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,90,Low,1,Low,40.26517572,Low,0.533546326,Low,1,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Diet Pepsi® (20 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,95,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Dr Pepper® (20 fl oz),Drink,240,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,75,Low,65,Low,44.852,Low,0.224,Low,64,Low,3.252,Low,270.4483471,Low
+Taco Bell,G2 – Fruit Punch (20 fl oz),Other,35,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,180,Low,9,Low,40.26517572,Low,0.533546326,Low,8,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® (20 fl oz),Other,270,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,85,Low,73,Low,40.26517572,Low,0.533546326,Low,73,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Baja Blast™ (20 fl oz),Other,280,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,80,Low,74,Low,40.26517572,Low,0.533546326,Low,73,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Baja Blast Zero Sugar (20 fl oz),Other,10,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,85,Low,0,Low,40.26517572,Low,0.533546326,Low,0,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Kickstart™ Orange Citrus (20 fl oz),Other,90,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,90,Low,23,Low,40.26517572,Low,0.533546326,Low,22,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mug® Root Beer (20 fl oz),Drink,240,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,75,Low,65,Low,44.852,Low,0.224,Low,65,Low,3.252,Low,270.4483471,Low
+Taco Bell,Pepsi® (20 fl oz),Drink,250,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,55,Low,69,Low,44.852,Low,0.224,Low,69,Low,3.252,Low,270.4483471,Low
+Taco Bell,Pepsi® Wild Cherry (20 fl oz),Drink,260,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,50,Low,70,Low,44.852,Low,0.224,Low,70,Low,3.252,Low,270.4483471,Low
+Taco Bell,Pepsi® Zero Sugar (20 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,105,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Sierra Mist® (20 fl oz),Other,260,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,55,Low,68,Low,40.26517572,Low,0.533546326,Low,68,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Tropicana® Pink Lemonade (20 fl oz),Drink,260,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,260,Mid,67,Low,44.852,Low,0.224,Low,67,Low,3.252,Low,270.4483471,Low
+Taco Bell,,Other,234.4510386,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,26.70623145,Low,263,Low,40.26517572,Low,0.533546326,Low,33.95845697,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,FOUNTAIN BEVERAGES (30 OZ),Other,234.4510386,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,26.70623145,Low,263,Low,40.26517572,Low,0.533546326,Low,33.95845697,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,7-Up (30 fl oz),Other,350,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,125,Low,87,Low,40.26517572,Low,0.533546326,Low,87,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Brisk® Mango Iced Tea (30 fl oz),Drink,180,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,90,Low,48,Low,44.852,Low,0.224,Low,48,Low,3.252,Low,270.4483471,Low
+Taco Bell,Brisk® Unsweetened No Lemon Iced Tea (30 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,115,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Diet Dr Pepper® (30 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,180,Low,1,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Diet Mtn Dew® (30 fl oz),Other,10,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,140,Low,1,Low,40.26517572,Low,0.533546326,Low,1,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Diet Pepsi® (30 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,140,Low,0,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Dr Pepper® (30 fl oz),Drink,360,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,110,Low,98,Low,44.852,Low,0.224,Low,96,Mid,3.252,Low,270.4483471,Low
+Taco Bell,G2 – Fruit Punch (30 fl oz),Other,50,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,270,Mid,13,Low,40.26517572,Low,0.533546326,Low,12,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® (30 fl oz),Other,410,Mid,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,125,Low,110,Low,40.26517572,Low,0.533546326,Low,109,Mid,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Baja Blast™ (30 fl oz),Other,420,Mid,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,120,Low,110,Low,40.26517572,Low,0.533546326,Low,110,Mid,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Baja Blast Zero Sugar (30 fl oz),Other,15,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,125,Low,0,Low,40.26517572,Low,0.533546326,Low,0,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mtn Dew® Kickstart™ Orange Citrus (30 fl oz),Other,130,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,140,Low,34,Low,40.26517572,Low,0.533546326,Low,33,Low,6.945686901,Low,267.3056537,Low
+Taco Bell,Mug® Root Beer (30 fl oz),Drink,360,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,110,Low,98,Low,44.852,Low,0.224,Low,98,Mid,3.252,Low,270.4483471,Low
+Taco Bell,Pepsi® (30 fl oz),Drink,380,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,80,Low,104,Low,44.852,Low,0.224,Low,103,Mid,3.252,Low,270.4483471,Low
+Taco Bell,Pepsi® Wild Cherry (30 fl oz),Drink,390,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,80,Low,105,Low,44.852,Low,0.224,Low,105,Mid,3.252,Low,270.4483471,Low
+Taco Bell,Pepsi® Zero Sugar (30 fl oz),Drink,0,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,160,Low,1,Low,44.852,Low,0.224,Low,0,Low,3.252,Low,270.4483471,Low
+Taco Bell,Sierra Mist® (30 fl oz),Other,380,Low,53.84955752,Low,6.733226837,Low,2.45686901,Low,0.107028754,Low,80,Low,101,Low,40.26517572,Low,0.533546326,Low,101,Mid,6.945686901,Low,267.3056537,Low
+Taco Bell,Tropicana® Pink Lemonade (30 fl oz),Drink,390,Low,73.02521008,Low,4.388,Low,2.548,Low,0.136,Low,390,High,100,Low,44.852,Low,0.224,Low,100,Mid,3.252,Low,270.4483471,Low
+Pizza Hut,Detroit Double Cheesy Pizza Slice,Pizza,280,Low,30,Low,12,Low,6,Low,0,Low,30,Low,560,Low,31,Low,2,Low,2,Low,13,Low,40,Low
+Pizza Hut,Detroit Double Pepperoni Pizza Slice,Pizza,330,Low,30,Low,17,Low,7,Low,0,Low,40,Low,720,Low,30,Low,2,Low,2,Low,14,Low,40,Low
+Pizza Hut,Detroit Meaty Pizza Slice,Pizza,320,Low,30,Low,16,Low,6,Low,0,Low,35,Low,640,Low,31,Low,2,Low,2,Low,14,Low,40,Low
+Pizza Hut,Detroit Supremo Pizza Slice,Pizza,290,Low,30,Low,13,Low,6,Low,0,Low,30,Low,570,Low,31,Low,2,Low,2,Low,13,Low,40,Low
+Pizza Hut,Pan Pizza Slices Backyard BBQ Chicken Personal Pan,Pizza,180,Low,30,Low,6,Low,2,Low,0,Low,15,Low,370,Low,25,Low,1,Low,8,Low,8,Low,40,Low
+Pizza Hut,Pan Pizza Slices Backyard BBQ Chicken Medium,Pizza,270,Low,30,Low,10,Low,4,Low,0,Low,25,Low,450,Low,33,Low,2,Low,6,Low,11,Low,40,Low
+Pizza Hut,Pan Pizza Slices Backyard BBQ Chicken Large,Pizza,380,Low,30,Low,16,Low,6,Low,0,Low,35,Low,650,Low,43,Low,2,Low,7,Low,16,Low,40,Low
+Pizza Hut,Pan Pizza Slices Beyond Meat® Pepperoni Medium,Pizza,240,Low,30,Low,10,Low,4.5,Low,0,Low,15,Low,470,Low,29,Low,2,Low,1,Low,10,Low,40,Low
+Pizza Hut,Pan Pizza Slices Beyond Meat® Pepperoni Large,Pizza,350,Low,30,Low,16,Low,6,Low,0,Low,25,Low,680,Low,38,Low,3,Low,2,Low,14,Low,40,Low
+Pizza Hut,Pan Pizza Slices Buffalo Chicken Personal Pan,Pizza,160,Low,30,Low,5,Low,2,Low,0,Low,15,Low,570,Low,22,Low,1,Low,2,Low,7,Low,40,Low
+Pizza Hut,Pan Pizza Slices Buffalo Chicken Medium,Pizza,240,Low,30,Low,9,Low,3.5,Low,0,Low,20,Low,680,Low,31,Low,2,Low,2,Low,11,Low,40,Low
+Pizza Hut,Pan Pizza Slices Buffalo Chicken Large,Pizza,350,Low,30,Low,14,Low,5,Low,0,Low,30,Low,850,Low,40,Low,2,Low,2,Low,15,Low,40,Low
+Pizza Hut,Pan Pizza Slices Cheese Personal Pan,Pizza,150,Low,30,Low,6,Low,2.5,Low,0,Low,15,Low,310,Low,17,Low,1,Low,2,Low,7,Low,40,Low
+Pizza Hut,Pan Pizza Slices Cheese Medium,Pizza,250,Low,30,Low,10,Low,4.5,Low,0,Low,25,Low,450,Low,28,Low,2,Low,1,Low,11,Low,40,Low
+Pizza Hut,Pan Pizza Slices Cheese Large,Pizza,360,Low,30,Low,17,Low,7,Low,0,Low,35,Low,660,Low,37,Low,2,Low,2,Low,16,Low,40,Low
+Pizza Hut,Pan Pizza Slices Chicken Bacon Parmesan Personal Pan,Pizza,180,Low,30,Low,8,Low,3,Low,0,Low,20,Low,350,Low,17,Low,1,Low,2,Low,9,Low,40,Low
+Pizza Hut,Pan Pizza Slices Chicken Bacon Parmesan Medium,Pizza,270,Low,30,Low,13,Low,4.5,Low,0,Low,30,Low,470,Low,27,Low,2,Low,1,Low,12,Low,40,Low
+Pizza Hut,Pan Pizza Slices Chicken Bacon Parmesan Large,Pizza,390,Low,30,Low,20,Low,7,Low,0,Low,40,Low,680,Low,35,Low,2,Low,2,Low,18,Low,40,Low
+Pizza Hut,Pan Pizza Slices Hawaiian Chicken Personal Pan,Pizza,150,Low,30,Low,5,Low,2,Low,0,Low,15,Low,330,Low,18,Low,1,Low,3,Low,8,Low,40,Low
+Pizza Hut,Pan Pizza Slices Hawaiian Chicken Medium,Pizza,240,Low,30,Low,9,Low,3.5,Low,0,Low,20,Low,480,Low,29,Low,2,Low,2,Low,12,Low,40,Low
+Pizza Hut,Pan Pizza Slices Hawaiian Chicken Large,Pizza,350,Low,30,Low,15,Low,5,Low,0,Low,30,Low,690,Low,38,Low,2,Low,3,Low,17,Low,40,Low
+Pizza Hut,Pan Pizza Slices Meat Lover’s® Personal Pan,Pizza,210,Low,30,Low,12,Low,4.5,Low,0,Low,25,Low,460,Low,18,Low,1,Low,2,Low,9,Low,40,Low
+Pizza Hut,Pan Pizza Slices Meat Lover’s® Medium,Pizza,320,Low,30,Low,17,Low,6,Low,0,Low,35,Low,640,Low,28,Low,2,Low,1,Low,13,Low,40,Low
+Pizza Hut,Pan Pizza Slices Meat Lover’s® Large,Pizza,470,Mid,30,Low,27,Low,10,Low,0,Low,50,Low,940,Low,37,Low,2,Low,2,Low,19,Low,40,Low
+Pizza Hut,Pan Pizza Slices Pepperoni Personal Pan,Pizza,150,Low,30,Low,7,Low,2.5,Low,0,Low,15,Low,310,Low,17,Low,1,Low,2,Low,6,Low,40,Low
+Pizza Hut,Pan Pizza Slices Pepperoni Medium,Pizza,250,Low,30,Low,11,Low,4.5,Low,0,Low,25,Low,470,Low,28,Low,2,Low,1,Low,10,Low,40,Low
+Pizza Hut,Pan Pizza Slices Pepperoni Large,Pizza,370,Low,30,Low,18,Low,6,Low,0,Low,35,Low,680,Low,36,Low,2,Low,2,Low,15,Low,40,Low
+Pizza Hut,Pan Pizza Slices Pepperoni Lover’s® Personal Pan,Pizza,180,Low,30,Low,9,Low,3.5,Low,0,Low,20,Low,370,Low,17,Low,1,Low,2,Low,8,Low,40,Low
+Pizza Hut,Pan Pizza Slices Pepperoni Lover’s® Medium,Pizza,300,Low,30,Low,15,Low,6,Low,0,Low,35,Low,580,Low,28,Low,2,Low,1,Low,13,Low,40,Low
+Pizza Hut,Pan Pizza Slices Pepperoni Lover’s® Large,Pizza,440,Mid,30,Low,24,Low,9,Low,0.5,Low,50,Low,850,Low,37,Low,3,Low,2,Low,19,Low,40,Low
+Pizza Hut,Pan Pizza Slices Supreme Personal Pan,Pizza,170,Low,30,Low,8,Low,3,Low,0,Low,15,Low,360,Low,18,Low,1,Low,2,Low,7,Low,40,Low
+Pizza Hut,Pan Pizza Slices Supreme Medium,Pizza,270,Low,30,Low,13,Low,5,Low,0,Low,25,Low,500,Low,29,Low,2,Low,2,Low,11,Low,40,Low
+Pizza Hut,Pan Pizza Slices Supreme Large,Pizza,390,Low,30,Low,20,Low,7,Low,0,Low,40,Low,740,Low,37,Low,2,Low,2,Low,16,Low,40,Low
+Pizza Hut,Pan Pizza Slices Ultimate Cheese Lover’s® Personal Pan,Pizza,170,Low,30,Low,8,Low,3.5,Low,0,Low,15,Low,330,Low,17,Low,1,Low,2,Low,8,Low,40,Low
+Pizza Hut,Pan Pizza Slices Ultimate Cheese Lover’s® Medium,Pizza,270,Low,30,Low,13,Low,5,Low,0,Low,25,Low,470,Low,27,Low,2,Low,1,Low,12,Low,40,Low
+Pizza Hut,Pan Pizza Slices Ultimate Cheese Lover’s® Large,Pizza,390,Low,30,Low,20,Low,8,Low,0,Low,40,Low,670,Low,36,Low,2,Low,2,Low,17,Low,40,Low
+Pizza Hut,Pan Pizza Slices Veggie Lover’s® Personal Pan,Breakfast,140,Low,244.5762712,Low,5,Low,2,Low,0,Low,10,Low,290,Low,18,Low,1,Low,2,Low,6,Low,510.8305085,Mid
+Pizza Hut,Pan Pizza Slices Veggie Lover’s® Medium,Breakfast,230,Low,244.5762712,Low,9,Low,3.5,Low,0,Low,15,Low,420,Low,29,Low,2,Low,2,Low,9,Low,510.8305085,Mid
+Pizza Hut,Pan Pizza Slices Veggie Lover’s® Large,Breakfast,330,Low,244.5762712,Low,15,Low,5,Low,0,Low,25,Low,620,Low,38,Low,3,Low,3,Low,14,Low,510.8305085,Mid
+Pizza Hut,Hand Tossed Slices Backyard BBQ Chicken Small,Pizza,140,Low,30,Low,4,Low,2,Low,0,Low,15,Low,250,Low,20,Low,1,Low,4,Low,6,Low,40,Low
+Pizza Hut,Hand Tossed Slices Backyard BBQ Chicken Medium,Pizza,220,Low,30,Low,7,Low,3,Low,0,Low,20,Low,390,Low,31,Low,2,Low,6,Low,10,Low,40,Low
+Pizza Hut,Hand Tossed Slices Backyard BBQ Chicken Large,Pizza,300,Low,30,Low,10,Low,4.5,Low,0,Low,30,Low,530,Low,40,Low,2,Low,7,Low,14,Low,40,Low
+Pizza Hut,Hand Tossed Slices Beyond Meat® Pepperoni Medium,Pizza,200,Low,30,Low,7,Low,3.5,Low,0,Low,15,Low,410,Low,26,Low,2,Low,1,Low,9,Low,40,Low
+Pizza Hut,Hand Tossed Slices Beyond Meat® Pepperoni Large,Pizza,280,Low,30,Low,10,Low,5,Low,0,Low,20,Low,560,Low,35,Low,3,Low,2,Low,12,Low,40,Low
+Pizza Hut,Hand Tossed Slices Buffalo Chicken Small,Pizza,130,Low,30,Low,3.5,Low,1.5,Low,0,Low,10,Low,380,Low,19,Low,1,Low,1,Low,6,Low,40,Low
+Pizza Hut,Hand Tossed Slices Buffalo Chicken Medium,Pizza,200,Low,30,Low,5,Low,2.5,Low,0,Low,20,Low,560,Low,28,Low,2,Low,1,Low,9,Low,40,Low
+Pizza Hut,Hand Tossed Slices Buffalo Chicken Large,Pizza,270,Low,30,Low,8,Low,4,Low,0,Low,30,Low,740,Low,37,Low,2,Low,2,Low,13,Low,40,Low
+Pizza Hut,Hand Tossed Slices Cheese Small,Pizza,130,Low,30,Low,4.5,Low,2,Low,0,Low,10,Low,250,Low,17,Low,1,Low,1,Low,6,Low,40,Low
+Pizza Hut,Hand Tossed Slices Cheese Medium,Pizza,210,Low,30,Low,8,Low,3.5,Low,0,Low,20,Low,390,Low,26,Low,2,Low,1,Low,10,Low,40,Low
+Pizza Hut,Hand Tossed Slices Cheese Large,Pizza,290,Low,30,Low,10,Low,5,Low,0,Low,30,Low,540,Low,34,Low,3,Low,2,Low,13,Low,40,Low
+Pizza Hut,Hand Tossed Slices Chicken Bacon Parmesan Small,Pizza,150,Low,30,Low,6,Low,2.5,Low,0,Low,15,Low,270,Low,16,Low,1,Low,1,Low,7,Low,40,Low
+Pizza Hut,Hand Tossed Slices Chicken Bacon Parmesan Medium,Pizza,230,Low,30,Low,9,Low,4,Low,0,Low,25,Low,410,Low,25,Low,2,Low,1,Low,11,Low,40,Low
+Pizza Hut,Hand Tossed Slices Chicken Bacon Parmesan Large,Pizza,310,Low,30,Low,13,Low,5,Low,0,Low,35,Low,560,Low,33,Low,2,Low,1,Low,16,Low,40,Low
+Pizza Hut,Hand Tossed Slices Hawaiian Chicken Small,Pizza,130,Low,30,Low,4,Low,1.5,Low,0,Low,10,Low,270,Low,17,Low,1,Low,1,Low,7,Low,40,Low
+Pizza Hut,Hand Tossed Slices Hawaiian Chicken Medium,Pizza,210,Low,30,Low,6,Low,3,Low,0,Low,20,Low,420,Low,27,Low,2,Low,2,Low,10,Low,40,Low
+Pizza Hut,Hand Tossed Slices Hawaiian Chicken Large,Pizza,280,Low,30,Low,9,Low,4,Low,0,Low,30,Low,580,Low,36,Low,3,Low,3,Low,15,Low,40,Low
+Pizza Hut,Hand Tossed Slices Meat Lover’s® Small,Pizza,180,Low,30,Low,9,Low,3.5,Low,0,Low,20,Low,370,Low,17,Low,1,Low,1,Low,7,Low,40,Low
+Pizza Hut,Hand Tossed Slices Meat Lover’s® Medium,Pizza,290,Low,30,Low,15,Low,6,Low,0,Low,30,Low,590,Low,26,Low,2,Low,1,Low,12,Low,40,Low
+Pizza Hut,Hand Tossed Slices Meat Lover’s® Large,Pizza,390,Low,30,Low,21,Low,8,Low,0,Low,45,Low,830,Low,34,Low,3,Low,2,Low,17,Low,40,Low
+Pizza Hut,Hand Tossed Slices Pepperoni Small,Pizza,130,Low,30,Low,5,Low,2,Low,0,Low,10,Low,260,Low,16,Low,1,Low,1,Low,6,Low,40,Low
+Pizza Hut,Hand Tossed Slices Pepperoni Medium,Pizza,220,Low,30,Low,9,Low,4,Low,0,Low,20,Low,420,Low,25,Low,2,Low,1,Low,9,Low,40,Low
+Pizza Hut,Hand Tossed Slices Pepperoni Large,Pizza,300,Low,30,Low,13,Low,6,Low,0,Low,30,Low,590,Low,34,Low,3,Low,2,Low,13,Low,40,Low
+Pizza Hut,Hand Tossed Slices Pepperoni Lover’s® Small,Pizza,160,Low,30,Low,7,Low,3,Low,0,Low,20,Low,310,Low,17,Low,1,Low,1,Low,7,Low,40,Low
+Pizza Hut,Hand Tossed Slices Pepperoni Lover’s® Medium,Pizza,270,Low,30,Low,13,Low,6,Low,0,Low,35,Low,530,Low,26,Low,2,Low,1,Low,12,Low,40,Low
+Pizza Hut,Hand Tossed Slices Pepperoni Lover’s® Large,Pizza,370,Low,30,Low,18,Low,8,Low,0,Low,50,Low,740,Low,35,Low,3,Low,2,Low,17,Low,40,Low
+Pizza Hut,Hand Tossed Slices Supreme Small,Pizza,150,Low,30,Low,6,Low,2.5,Low,0,Low,15,Low,280,Low,17,Low,1,Low,1,Low,6,Low,40,Low
+Pizza Hut,Hand Tossed Slices Supreme Medium,Pizza,240,Low,30,Low,10,Low,4,Low,0,Low,25,Low,450,Low,26,Low,2,Low,2,Low,10,Low,40,Low
+Pizza Hut,Hand Tossed Slices Supreme Large,Pizza,320,Low,30,Low,14,Low,6,Low,0,Low,35,Low,630,Low,35,Low,3,Low,2,Low,14,Low,40,Low
+Pizza Hut,Hand Tossed Slices Ultimate Cheese Lover’s® Small,Pizza,150,Low,30,Low,6,Low,2.5,Low,0,Low,15,Low,250,Low,16,Low,1,Low,1,Low,6,Low,40,Low
+Pizza Hut,Hand Tossed Slices Ultimate Cheese Lover’s® Medium,Pizza,230,Low,30,Low,10,Low,4.5,Low,0,Low,25,Low,390,Low,25,Low,2,Low,1,Low,11,Low,40,Low
+Pizza Hut,Hand Tossed Slices Ultimate Cheese Lover’s® Large,Pizza,310,Low,30,Low,13,Low,6,Low,0,Low,35,Low,540,Low,33,Low,2,Low,1,Low,15,Low,40,Low
+Pizza Hut,Hand Tossed Slices Veggie Lover’s® Small,Breakfast,120,Low,244.5762712,Low,4,Low,1.5,Low,0,Low,10,Low,230,Low,17,Low,1,Low,1,Low,5,Low,510.8305085,Mid
+Pizza Hut,Hand Tossed Slices Veggie Lover’s® Medium,Breakfast,200,Low,244.5762712,Low,6,Low,2.5,Low,0,Low,15,Low,370,Low,27,Low,2,Low,2,Low,8,Low,510.8305085,Mid
+Pizza Hut,Hand Tossed Slices Veggie Lover’s® Large,Breakfast,260,Low,244.5762712,Low,9,Low,4,Low,0,Low,20,Low,510,Low,36,Low,3,Low,3,Low,11,Low,510.8305085,Mid
